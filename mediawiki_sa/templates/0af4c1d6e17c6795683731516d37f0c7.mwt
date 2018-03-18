@@ -1,0 +1,41 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = {{#if:{{{variant|}}}|Ireland|Republic of Ireland}}
+| shortname alias = Ireland
+| alt attribute = Flag of Ireland
+| flag alias      = Flag of Ireland.svg
+| flag alias-1783 = St Patrick's saltire3.svg
+| flag alias-4prov = Four Provinces Flag.svg
+| flag alias-pres  = Flag President of Ireland.svg
+| flag alias-football = St Patrick's saltire3.svg
+| link alias-football = Ireland national football team (IFA)
+| flag alias-rugby = Flag of Ireland rugby.svg
+| flag alias-rugby union = Flag of Ireland rugby.svg 
+| flag alias-hockey = Flag of Ireland hockey team.svg
+| flag alias-field hockey = Flag of Ireland hockey team.svg
+| flag alias-cricket = Flag of Ireland cricket team.svg
+| link alias-cricket = Ireland cricket team
+| countryname = {{{countryname|Ireland<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Ireland|1783}}</nowiki> = {{flag|Ireland|1783}}
+* <nowiki>{{flag|Ireland|pres}}</nowiki> =  {{flag|Ireland|pres}}
+* <nowiki>{{flag|Ireland|4prov}}</nowiki> = {{flag|Ireland|4prov}}
+* <nowiki>{{flag|Ireland|rugby}}</nowiki> = {{flag|Ireland|rugby}}
+* <nowiki>{{flag|Ireland|cricket}}</nowiki> = {{flag|Ireland|cricket}}
+* <nowiki>{{flag|Ireland|hockey}}</nowiki> =  {{flag|Ireland|hockey}}
+
+==See also==
+* <nowiki>{{flag|Republic of Ireland}}</nowiki> = {{flag|Republic of Ireland}}
+* <nowiki>{{flag|Southern Ireland}}</nowiki> = {{flag|Southern Ireland}}
+* <nowiki>{{flag|Kingdom of Ireland}}</nowiki> = {{flag|Kingdom of Ireland}}
+* <nowiki>{{flag|Lordship of Ireland}}</nowiki> = {{flag|Lordship of Ireland}}
+* <nowiki>{{fb|Ireland}}</nowiki> = {{fb|Ireland}}
+* <nowiki>{{cr|Ireland}}</nowiki> = {{cr|Ireland}}
+* <nowiki>{{ru|Ireland}}</nowiki> = {{ru|Ireland}}
+* <nowiki>{{fh|Ireland}}</nowiki> = {{fh|Ireland}}
+</noinclude>

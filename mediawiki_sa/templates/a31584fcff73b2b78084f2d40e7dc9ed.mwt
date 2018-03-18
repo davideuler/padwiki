@@ -1,0 +1,23 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Iraq
+| shortname alias = Iraq
+| flag alias      = Flag of Iraq.svg
+| flag alias-1924 = Flag of Iraq 1924.svg
+| flag alias-1959 = Flag of Iraq 1959-1963.svg
+| flag alias-1963 = Flag of Iraq (1963-1991).svg
+| flag alias-1991 = Flag of Iraq, 1991-2004.svg
+| flag alias-2004 = Proposed flag of Iraq.svg
+| link alias-naval = Iraqi Navy
+| countryname = {{{countryname|Iraq<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Iraq|1924}}</nowiki> = {{flag|Iraq|1924}}
+* <nowiki>{{flag|Iraq|1959}}</nowiki> = {{flag|Iraq|1959}}
+* <nowiki>{{flag|Iraq|1963}}</nowiki> = {{flag|Iraq|1963}}
+* <nowiki>{{flag|Iraq|1991}}</nowiki> = {{flag|Iraq|1991}}
+* <nowiki>{{flag|Iraq|2004}}</nowiki> = {{flag|Iraq|2004}}
+</noinclude>

@@ -1,0 +1,9 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Cyprus
+| shortname alias = Cyprus
+| flag alias      = Flag of Cyprus.svg
+| countryname = {{{countryname|Cyprus<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}

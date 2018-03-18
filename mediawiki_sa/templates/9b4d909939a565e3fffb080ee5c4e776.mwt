@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = South Korea
+| shortname alias = South Korea
+| flag alias      = Flag of South Korea.svg
+| link alias-naval = Republic of Korea Navy
+| name alias-football = Korea Republic
+| link alias-football = Korea Republic {{{mw|}}} national football team
+| name alias-basketball = Korea
+| link alias-basketball = Korea {{{mw|}}} national basketball team
+| name alias-field hockey = Korea
+| link alias-field hockey = Korea {{{mw|}}} national field hockey team
+| flag alias-unification = Unification flag of Korea.svg
+| countryname = {{{countryname|South Korea<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|South Korea|unification}}</nowiki> = {{flag|South Korea|unification}}
+
+[[sl:Predloga:Podatki države Južna Koreja]]
+</noinclude>

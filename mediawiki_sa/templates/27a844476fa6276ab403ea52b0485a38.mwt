@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Republic of Macedonia
+| shortname alias = Republic of Macedonia
+| flag alias      = Flag of Macedonia.svg
+| flag alias-1992 = Flag of Macedonia 1991-95.svg
+| flag alias-SR = Flag of SR Macedonia.svg
+| name alias-football = FYR Macedonia
+| name alias-basketball = FYR Macedonia
+| name alias-tennis = FYR Macedonia
+| link alias-tennis = F.Y.R. Macedonia {{{mw}}} Cup team
+| countryname = {{{countryname|Macedonia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Macedonia|1992}}</nowiki> = {{flag|Macedonia|1992}}
+* <nowiki>{{flag|Macedonia|SR}}</nowiki> = {{flag|Macedonia|SR}}
+</noinclude>

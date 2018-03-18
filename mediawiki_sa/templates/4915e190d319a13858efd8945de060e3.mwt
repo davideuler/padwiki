@@ -1,0 +1,10 @@
+<div class="infobox sisterproject">
+<div style="float: left;">[[Image:Wikisource-logo.svg|50px|none|Wikisource]]</div>
+<div style="margin-left: 60px;">[[Wikisource]] has original text related to this article:
+<div style="margin-left: 10px;">'''''[[:s:{{{1}}}:{{{2}}}|{{{3}}}]]'''''</div>
+</div>
+</div>
+
+<noinclude>
+[[Category:Sister project templates]]
+</noinclude>

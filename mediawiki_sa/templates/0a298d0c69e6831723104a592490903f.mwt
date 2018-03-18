@@ -1,0 +1,15 @@
+<table class="infobox" style="width: 20em; font-size:90%; text-align: left; align: right;" cellspacing="4">
+<tr><th colspan="2" style="text-align: center;"><big>{{{band_name}}}</big></th></tr>
+{{#if:{{{image|}}}|<tr><td colspan="2" style="text-align: center;">{{{image|}}}<br /><small>{{{caption|}}}</small></td></tr>}}<!--
+-->{{#if:{{{origin|}}}|<tr><th>Origin</th><td>{{{origin|}}}</td></tr>}}<!--
+-->{{#if:{{{country|}}}|<tr><th>Country</th><td>{{{country|}}}</td></tr>}}<!--
+-->{{#if:{{{years_active|}}}|<tr><th>Years&nbsp;active</th><td>{{{years_active|}}}</td></tr>}}<!--
+-->{{#if:{{{music_genre|}}}|<tr><th>[[Music genre|Genres]]</th><td>{{{music_genre|}}}</td></tr>}}<!--
+-->{{#if:{{{record_label|}}}|<tr><th>[[Record label|Labels]]</th><td>{{{record_label}}}</td></tr>}}<!--
+-->{{#if:{{{us_distribution|}}}|<tr><th>US&nbsp;distribution</th><td>{{{us_distribution|}}}</td></tr>}}<!--
+-->{{#if:{{{current_members|}}}|<tr><th>Members</th><td>
+{{{current_members|}}}</td></tr>}}<!--
+-->{{#if:{{{past_members|}}}|<tr><th>Past&nbsp;members</th><td>
+{{{past_members}}}</td></tr>}}<!--
+-->{{#if:{{{website|}}}|<tr><th>Website(s)</th><td>{{{website}}}</td></tr>}}
+</table><noinclude>This is a complicated template. Please do not change it unless you really know what you are doing or you will mess it up.[[Category:People infobox templates]][[Category:Entertainment templates]]</noinclude>

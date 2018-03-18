@@ -1,0 +1,18 @@
+<div class="messagebox cleanup" style="width:100%; text-align:left;">
+'''This blocked user is asking that the block be reviewed:'''
+* [[User:{{PAGENAMEE}}|{{PAGENAMEE}}]] (<span style="font-size:0.9em;" 
+class="plainlinks">[{{fullurl:Special:Log|type=block&page=User:{{PAGENAMEE}}}} block log] • [{{fullurl:Special:Ipblocklist|action=search&ip={{PAGENAMEE}}}} ipblocklist] • [[Special:Contributions/{{PAGENAMEE}}|contribs]] • [{{fullurl:Special:Log|type=newusers&user={{PAGENAMEE}} creation log]}} • [{{fullurl:Special:Ipblocklist|action=unblock&ip={{PAGENAMEE}}}} unblock])</span>'''
+* <u>Reason for unblocking:</u>
+<p style="margin-left:2em;">{{{1|<big><span style="color: #ba0000;">'''Please give a reason as to why you should be unblocked '''</span></big><br>by changing {&#123;unblock&#125;} to {&#123;unblock&#124;''your reason here''&#125;}.<br /><small>'''Note:''' If your reason contains a URL with a "&#61;" in it you will need add "1&#61;" to the start of your reason.</small>}}}</p>
+<hr />
+<div style="font-size:0.9em;">'''Administrators:''' Replace this template with:<br></div>
+:<tt>{&#123;unblock reviewed|1={{{1|original block message}}}|decline&#61;reason -- <nowiki>~~~~</nowiki>&#125;}</tt>
+</div>
+<includeonly>{{#ifeq:{{NAMESPACE}}|User talk|{{{category|[[Category:Requests for unblock|{{PAGENAME}}]]}}}|}}</includeonly><noinclude>
+[[Category: Vandalism templates|{{PAGENAME}}]]
+This template puts pages into [[:Category:Requests for unblock|Category:Requests for unblock]].
+
+[[en:Template:Unblock]]
+[[he:תבנית:בקשת שחרור חסימה]]
+[[ru:Шаблон:Unblock]]
+</noinclude>

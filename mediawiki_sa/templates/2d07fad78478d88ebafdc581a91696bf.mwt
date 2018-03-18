@@ -1,0 +1,5 @@
+{| class="messagebox protected" style="border:2px solid #99B; padding:0px; font-size:0.9em;"
+|-
+| valign="top" | [[Image:Padlock.svg|45px| ]]
+| '''This page is [[Wikipedia:This page is protected|protected]] from editing until disputes have been resolved.''' Please discuss changes on the [[{{NAMESPACE}} talk:{{PAGENAME}}|talk page]] or [[Wikipedia:Requests for page protection|request unprotection]]. (Protection is [[Wikipedia:Protection policy|not an endorsement]] of the current <span class="plainlinks">[{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} page version]</span>.)<!--from Template:Protected-->
+|}<includeonly>[[Category:Protected]]</includeonly><noinclude>[[Category:Protection templates|{{PAGENAME}}]] [[Category:Permanently protected|{{PAGENAME}}]]</noinclude>

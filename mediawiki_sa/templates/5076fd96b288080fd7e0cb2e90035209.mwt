@@ -1,0 +1,8 @@
+<div class="infobox sisterproject">
+<div style="float: left;">[[Image:Wikimedia-logo.svg|50px|none|All wikimedia projects]]</div>
+<div style="margin-left: 60px;">Articles and media on this topic in other [[commons:Template talk:Sisterlinks|Wikimedia projects]] can be found at: Commons '''''[[commons:{{{1}}}|{{NAMESPACE}} {{PAGENAME}}]]'''''</div>
+</div>
+
+<noinclude>
+[[Category:Sister project templates]]
+</noinclude>

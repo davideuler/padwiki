@@ -1,0 +1,84 @@
+{| class="infobox" style="width:23em; font-size:90%; text-align:left;" cellpadding="3"
+|+ style="font-size:larger;" | '''{{{name|{{PAGENAME}}}}}'''<!--
+-->{{#if:{{{image|}}}|<tr style="text-align:center;"><td colspan="2">[[Image:{{{image}}}|{{#if:{{{imagesize|}}}|{{{imagesize}}}|200px}}|{{PAGENAME}}]]<br /><small>{{{caption|}}}<small/></td></tr>}}<!--
+-->{{#if:{{{smallimage|}}}|<tr style="text-align:center;"><td colspan="2">[[Image:{{{smallimage}}}|{{PAGENAME}}]]<br />{{{caption|}}}</td></tr>}}<!--
+-->{{#if:{{{order|}}}|<tr style="text-align:center;"><th colspan="2">{{{order}}}</th></tr>}}<!--
+-->{{#if:{{{term_start|}}}|{{#if:{{{term_end|}}}|<!--then: in office from/to--><tr><th style="border-bottom:none; text-align:center;" colspan="2">In&nbsp;office</th></tr><tr><td style="border-top:none; text-align:center;" colspan="2">{{{term_start}}}&nbsp;&ndash;&nbsp;{{{term_end}}}</td></tr>|<!--else: assume current--><tr><th style="text-align:center; background:#B0C4DE;" colspan="2">In office now</th></tr>
+}}<!--
+-->{{#if:{{{term_end|}}}|<!--then--> |<!--else--><tr><th>In&nbsp;office&nbsp;from</th><td>{{{term_start}}}</td></tr>}}}}<!--
+-->{{#if:{{{vicepresident|}}}|<tr><th>Vice&nbsp;President(s)&nbsp;&nbsp;</th><td>{{{vicepresident}}}</td></tr> }}<!--
+-->{{#if:{{{vice prime minister|}}}|<tr><th>Vice&nbsp;Prime Minister(s)&nbsp;&nbsp;</th><td>{{{vice prime minister}}}</td></tr>}}<!--
+-->{{#if:{{{deputy|}}}|<tr><th>Deputy</th><td>{{{deputy}}}</td></tr> }}<!--
+-->{{#if:{{{predecessor|}}}|<tr><th>Came after</th><td>{{{predecessor}}}</td></tr>}}<!--
+-->{{#if:{{{successor|}}}|<tr><th>Came before</th><td>{{{successor}}}</td></tr>}}<!--
+-->{{#if:{{{order2|}}}|<tr style="text-align:center;"><th colspan="2">{{{order2}}}</th></tr>}}<!--
+-->{{#if:{{{term_start2|}}}|{{#if:{{{term_end2|}}}|<!--then: in office from/to--><tr><th style="border-bottom:none; text-align:center;" colspan="2">In&nbsp;office</th></tr><tr><td style="border-top:none; text-align:center;" colspan="2">{{{term_start2}}}&nbsp;&ndash;&nbsp;{{{term_end2}}}</td></tr>|<!--else: assume current--><tr><th style="text-align:center; background:#B0C4DE;" colspan="2">In office now</th></tr>}}<!--
+-->{{#if:{{{term_end2|}}}|<!--then--> |<!--else--><tr><th>In&nbsp;office&nbsp;from</th><td>{{{term_start2}}}</td></tr>}}}}<!--
+-->{{#if:{{{president|}}}|<tr><th>President</th><td>{{{president}}}</td></tr>}}<!--
+-->{{#if:{{{predecessor2|}}}|<tr><th>Came after</th><td>{{{predecessor2}}}</td></tr>}}<!--
+-->{{#if:{{{successor2|}}}|<tr><th>Came before</th><td>{{{successor2}}}</td></tr>}}
+|-
+! Born
+| {{{birth_date|}}}<br />{{{birth_place|}}}<!--
+-->{{#if:{{{death_date|}}}|<tr><th>Died</th><td>{{{death_date}}}<br />{{{death_place|}}}</td></tr>}}<!--
+-->{{#if:{{{constituency|}}}|<tr><th>Seat</th><td>{{{constituency}}}</td></tr>}}<!--
+-->{{#if:{{{party|}}}|<tr><th>[[Political party]]</th><td>{{{party}}}</td></tr>}}<!--
+-->{{#if:{{{spouse|}}}|<tr><th>Married to</th><td>{{{spouse}}}</td></tr>}}<!--
+-->{{#if:{{{profession|}}}|<tr><th>Job</th><td>{{{profession}}}</td></tr>}}<!--
+-->{{#if:{{{religion|}}}|<tr><th>Belief</th><td>{{{religion}}}</td></tr>}}<!--
+-->{{#if:{{{signature|}}}|<tr><th>Signature</th><td>[[Image:{{{signature}}}|128px]]</td></tr>}}<!--
+-->{{#if:{{{footnotes|}}}|<tr><td colspan="2" style="font-size: smaller; border-top: 1px solid;">{{{footnotes}}}</td></tr>}}
+|}<noinclude>
+==How to use this Template==
+<pre>
+{{Infobox_President | name =
+| nationality   =
+| image         =
+| order         =
+| term_start    =
+| term_end      =
+| vicepresident =
+| predecessor   =
+| successor     =
+| birth_date    =
+| birth_place   =
+| death_date    =
+| death_place   =
+| party         =
+| spouse        =
+| religion      =
+| order2        =
+| term_start2   =
+| term_end2     =
+| president     =
+| predecessor2  =
+| successor2    =
+|}}
+</pre>
+</noinclude>
+<noinclude>
+[[ast:Plantilla:Info presidentes]]
+[[bg:Шаблон:Президент инфо]]
+[[bs:Šablon:Infokutija predsjednik]]
+[[cs:Šablona:Infobox PrezidentUSA]]
+[[cy:Nodyn:Arlywydd UDA]]
+[[en:Template:Infobox President]]
+[[fi:Malline:Hallitsija]]
+[[ms:Templat:Politik]]
+[[fr:Modèle:FichePresidentUS]]
+[[ga:Teimpléad:Bosca Sonraí Uachtaráin]]
+[[he:תבנית:נשיא ארצות הברית]]
+[[id:Templat:Politikus]]
+[[ja:Template:大統領]]
+[[lb:Template:Minister]]
+[[nl:Sjabloon:Amerikaanse President]]
+[[no:Mal:Infoboks president USA]]
+[[nn:Mal:Infoboks leiar]]
+[[ps:Template:ولسمشربکس]]
+[[pl:Szablon:Polityk infobox]]
+[[sk:Šablóna:Prezident USA]]
+[[sv:Mall:Regeringschef]]
+[[tr:Şablon:ABD Başkanları]]
+[[vi:Tiêu bản:Tổng thống]]
+[[Category:People infobox templates]]
+</noinclude>

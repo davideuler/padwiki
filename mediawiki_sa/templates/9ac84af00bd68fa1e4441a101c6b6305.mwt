@@ -1,0 +1,36 @@
+{| class="messagebox" id="inuse" style="border: 1px solid #5A8261; background-color: #CCFFCC;"
+|-
+|align="center" width="10%"|[[Image:Crystal 128 clock.png|left|50px]]
+|align="left" width="90%"|'''Someone is {{#if:{{{1|}}}||currently}} editing this article {{{for|for}}} {{{2|}}}{{{1|a short while}}}.  In the terms of Wikipedia this is called [[Wikipedia:Edit lock|major edit]].'''
+
+As a courtesy, please do not edit this article when you see this message. The person who added this notice will be listed in the [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} edit history] of this article. If this article has not been edited recently, please remove this template. <br><span style="font-size: 90%">This message is intended to help reduce [[Help:Edit conflict|edit conflicts]]; please remove it between editing sessions to allow <!-- [[WP:OWN| -->others <!-- ]]--> to <!-- [[Wikipedia:Editing policy| -->improve the article<!-- ]] -->.</span>
+<includeonly>[[Category:Articles actively undergoing a major edit]]</includeonly>
+|}<noinclude>
+
+== Usage ==
+The '''Inuse''' [[Wikipedia:Template messages|template message]] is placed at the top of a page you are actively editing for a short period of time. The tag is intended to inform people that someone is currently working on the article, thereby reducing edit conflicts. Please do not leave it in place for more than the few hours at most that should be necessary, as doing so may unnecessarily discourage others from contributing to the article. If it has been up for more than two hours since the last edit, it should be removed. Specifying periods of several days or longer for this template goes against the spirit of simply avoiding edit conflicts; please only use it for sessions where you are actively editing the article.
+
+To use, just add  <code><nowiki>{{inuse}}</nowiki></code> at the top of the article you want to work on. If you want to reserve it for a specific length of time and optionally, a message, use <code><nowiki>{{inuse|time (message)}}</nowiki></code>. If you want to reserve it until a certain time, or use a different custom message without the word "for," use <code><nowiki>{{inuse||for=|until (time)}}</nowiki></code> or <code><nowiki>{{inuse||for=|custom message}}</nowiki></code>. '''Please remember to remove the Inuse note''' as soon as you're finished editing.
+
+=== Examples ===
+<code><nowiki>{{inuse}}</nowiki></code>
+{{inuse}}
+
+<code><nowiki>{{inuse|5 minutes}}</nowiki></code>
+{{inuse|5 minutes}}
+
+<code><nowiki>{{inuse|30 minutes to fix the information in the History section}}</nowiki></code>
+{{inuse|30 minutes to fix the information in the History section}}
+
+<code><nowiki>{{inuse||for=|until 12:00 PM UTC}}</nowiki></code>
+{{inuse||for=|until 12:00 PM UTC}}
+
+[[Category:Wikipedia maintenance templates|{{PAGENAME}}]]
+
+[[de:Vorlage:Inuse]]
+[[ja:Template:工事中]]
+[[pl:Szablon:WEdycji]]
+[[sq:Stampa:Inuse]]
+[[vi:Tiêu bản:Đang sửa đổi]]
+[[zh:Template:Inuse]]
+</noinclude>

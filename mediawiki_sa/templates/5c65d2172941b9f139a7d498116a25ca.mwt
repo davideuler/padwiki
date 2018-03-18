@@ -1,0 +1,9 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Tunisia
+| shortname alias = Tunisia
+| flag alias      = Flag of Tunisia.svg
+| countryname = {{{countryname|Tunisia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}

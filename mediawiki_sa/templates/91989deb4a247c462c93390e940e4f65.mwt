@@ -1,0 +1,5 @@
+<span style="float:left; text-align:left; width:6em; margin-left:2px;">{{Tnavbar|{{{2|}}}|{{#ifeq: {{{plain|}}} |1 |plain=1 |mini=1 }}|nodiv=1 |fontcolor={{{fontcolor|}}} }}</span>{{#if: {{{fontcolor|}}} |<span style="color:{{{fontcolor|}}};">{{{1}}}</span>|{{{1}}}}}<noinclude>
+{{{{FULLPAGENAME}}/doc}}
+{{pp-template|small=yes}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

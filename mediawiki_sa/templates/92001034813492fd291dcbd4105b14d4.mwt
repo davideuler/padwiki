@@ -1,0 +1,68 @@
+{| class="infobox" style="width: 23em; font-size: 90%; text-align: left;"
+{{#if: {{{logo|}}}|<tr><td colspan="2" style="text-align: center;">{{{logo}}}</td></tr>}}
+|-
+! colspan="2" style="text-align: center; font-size: larger; background-color: #eeeeee;" | {{{title}}}
+{{#if: {{{image|}}}|<tr><td colspan="2" style="text-align: center;">{{{image}}}</td></tr>}}
+|-
+! style="background-color: #eeeeee;" | [[Console manufacturer|Manufacturer]]
+| {{{manufacturer}}}
+{{#if: {{{family|}}}|<tr><th style="background-color: #eeeeee;">Product family</th><td>{{{family}}}</td></tr>}}
+|-
+! style="background-color: #eeeeee;" | Type
+| style="width:14em" | {{{type}}}
+|-
+! style="background-color: #eeeeee;" | [[History of computer and video games|Generation]]
+| {{{generation}}}
+|-
+! style="background-color: #eeeeee;" | First available
+| {{{released}}}
+{{#if: {{{CPU|}}}|<tr><th style="background-color: #eeeeee;">[[Central processing unit|CPU]]</th><td>{{{CPU}}}</td></tr>}}
+|-
+! style="background-color: #eeeeee;" | Media
+| {{{media}}}
+{{#if:{{{storage|}}}|<tr><th style="background-color: #eeeeee; whitespace: nowrap">System storage</th><td>{{{storage}}}</td></tr>}}<!--
+-->{{#if:{{{controllers|}}}|<tr><th style="background-color: #eeeeee; whitespace: nowrap">Controller input</th><td>{{{controllers}}}</td></tr>}}<!--
+-->{{#if:{{{connectivity|}}}|<tr><th style="background-color: #eeeeee; whitespace: nowrap">Connectivity</th><td>{{{connectivity}}}</td></tr>}}<!--
+-->{{#if:{{{online service|{{{onlineservice|}}}}}}|<tr><th style="background-color: #eeeeee; whitespace: nowrap">Online service</th><td>{{{online service|{{{onlineservice}}}}}}</td></tr>}}<!--
+-->{{#if:{{{release date|{{{releasedate|}}}}}}|<tr><th style="background-color: #eeeeee; whitespace: nowrap">Release Date(s)</th><td>{{{release date|{{{releasedate}}}}}}</td></tr>}}<!--
+-->{{#if:{{{units sold|{{{unitssold|}}}}}}|<tr><th style="background-color: #eeeeee; white-space: nowrap;">Units sold</th><td>{{{units sold|{{{unitssold}}}}}}</td></tr>}}<!--
+-->{{#if:{{{top game|{{{topgame|}}}}}}|<tr><th style="background-color: #eeeeee; white-space: nowrap;">Top-selling game</th><td>{{{top game|{{{topgame}}}}}}</td></tr>}}<!--
+-->{{#if:{{{compatibility|}}}|<tr><th style="background-color: #eeeeee; white-space: nowrap;">Backward<br />compatibility</th><td>{{{compatibility}}}</td></tr>}}<!--
+-->{{#if:{{{predecessor|}}}|<tr><th style="background-color: #eeeeee; white-space: nowrap;">Predecessor</th><td>{{{predecessor}}}</td></tr>}}<!--
+-->{{#if:{{{successor|}}}|<tr><th style="background-color: #eeeeee; white-space: nowrap;">Successor</th><td>{{{successor}}}</td></tr>}}
+|}<noinclude>
+
+== Usage ==
+{| style="border: none; background: none;"
+|<pre>
+{{Infobox CVG system
+|title = 
+|logo = 
+|image = 
+|manufacturer = 
+|type = 
+|generation = 
+|lifespan = 
+|CPU = 
+|media = 
+|storage = 
+|controllers = 
+|connectivity = 
+|online service = 
+|release date = 
+|units sold = 
+|top game = 
+|compatibility = 
+|predecessor = 
+|successor = 
+}}</pre>
+|}
+
+[[Category:Infobox templates]]
+
+[[en:Template:Infobox CVG system]]
+[[es:Plantilla:Infobox Videoconsola]]
+[[fr:Modèle:Console de jeu vidéo]]
+[[pt:Predefinição:CVG system]]
+[[zh:Template:電視遊樂器簡介表]]
+</noinclude>

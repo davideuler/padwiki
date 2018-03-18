@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Sweden
+| shortname alias = Sweden
+| flag alias      = Flag of Sweden.svg
+| flag alias-naval = Naval Ensign of Sweden.svg
+| link alias-naval = Swedish Navy
+| countryname = {{{countryname|Sweden<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Sweden|naval}}</nowiki> = {{flag|Sweden|naval}}
+[[sl:Predloga:Podatki države Švedska]]
+</noinclude>

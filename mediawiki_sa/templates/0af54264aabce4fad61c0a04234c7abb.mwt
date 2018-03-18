@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = India
+| shortname alias = India
+| flag alias      = Flag of India.svg
+| flag alias-British = Imperial-India-Blue-Ensign.svg
+| flag alias-1931 = 1931 Flag of India.svg
+| flag alias-naval = Naval Ensign of India.svg
+| link alias-naval = Indian Navy
+| countryname = {{{countryname|India<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|India|British}}</nowiki> = {{flag|India|British}}
+* <nowiki>{{flag|India|1931}}</nowiki> = {{flag|India|1931}}
+* <nowiki>{{flag|India|naval}}</nowiki> = {{flag|India|naval}}
+
+[[af:Sjabloon:Landdata Indië]]
+</noinclude>

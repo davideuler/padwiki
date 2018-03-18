@@ -1,0 +1,25 @@
+<div style="right:10px; display:none;" class="metadata topicon" id="featured-star">
+<imagemap>
+Image:LinkFA-star.png|14px
+rect 0 0 14 14 [[Wikipedia:Featured articles|This is a featured article. Click here for more information.]]
+desc none
+</imagemap>
+</div><noinclude>
+
+This template places a small star ([[Image:LinkFA-star.png]]) in the top right corner of an article to indicate that it is a [[Wikipedia:Featured articles|featured article on Wikipedia]].
+
+This template should be placed at the bottom of the article.
+
+==See also==
+*{{tl|Featured list}}
+*{{tl|Featured portal}}
+
+[[Category:Wikipedia featured content templates|{{PAGENAME}}]]
+[[Category:Title templates|{{PAGENAME}}]] 
+[[bg:Шаблон:Избрана статия]]
+[[nl:Sjabloon:Etalage]]
+[[ka:თარგი:რჩეული]]
+[[no:Mal:Anbefalt]]
+[[es:Plantilla:Artículo destacado]]
+[[th:Template:บทความคัดสรร]]
+[[vi:Tiêu bản:Sao chọn lọc]]</noinclude>

@@ -1,0 +1,12 @@
+<div class="messagebox cleanup metadata"> This article belongs in one or more '''[[Wikipedia:Category|categories]]'''. Please add a category to this article to list it with other pages about the same thing.</div><includeonly>[[Category:Category needed|{{PAGENAME}}]]</includeonly><noinclude>
+----
+This template will categorise tagged articles into [[:Category:Category needed]], which will help other editors find it and add categories to it.
+
+To add this template to a page, add the following text:
+
+* <nowiki>{{uncat}}</nowiki>
+
+[[Category:Page quality and condition templates]]
+
+[[en:Template:Uncategorized]]
+</noinclude>

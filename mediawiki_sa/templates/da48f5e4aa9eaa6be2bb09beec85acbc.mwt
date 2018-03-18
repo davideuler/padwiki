@@ -1,0 +1,15 @@
+<div style="position: absolute; right: 1.15em; top: 1.3em; font-size: 90%;" id="TemplateUserinfo" class="plainlinks">{{#ifeq:{{{purge|}}}|yes|{{purge|purge server cache}} {{!}}}} [http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user={{PAGENAMEE}}&dbname=simplewiki_p Interiot's edit count] [http://tools.wikimedia.de/~interiot/cgi-bin/Tool1/wannabe_kate?username={{PAGENAME}}&site=simple.wikipedia.org Wannabe Kate's edit count]</div><noinclude>
+==Purpose==
+Adds a nifty info bar across the top of userpages (or talk pages if used there).
+
+==Usage==
+<pre>{{userinfo
+| purge =
+}}</pre>
+By default this template displays a link to [[:en:User:Interiot|Interiot]]'s edit count. You can add a "purge server cache" link by passing <code>purge = yes</code> (any other value for <code>purge</code> is ignored, and <code>yes</code> is case sensetive).
+
+[[Category:Templates using ParserFunctions|{{PAGENAME}}]]
+[[Category:User templates|{{PAGENAME}}]]
+
+[[en:Template:Userpageinfo]]
+</noinclude>

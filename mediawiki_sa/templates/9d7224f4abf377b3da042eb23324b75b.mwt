@@ -1,0 +1,8 @@
+<div class="infobox sisterproject">[[Image:Wiktionary-logo-en.png|50px|left|English Wiktionary]]
+<div style="margin-left: 60px;">English [[Wiktionary]] has {{#if:{{{2|}}}|dictionary definitions (word meanings)|a dictionary definition (word meaning)}} for:
+<div style="margin-left: 10px;">'''''[[:wiktionary:{{{1|{{lc:{{PAGENAME}}}}}}}|{{{1|{{lc:{{PAGENAME}}}}}}}]]'''{{#if:{{{2|}}}| {{#if:{{{3|}}}|,|&#32;and}} '''[[:wiktionary:{{{2}}}|{{{2}}}]]'''}}{{#if:{{{3|}}}|{{#if:{{{4|}}}|,|,&#32;and}} '''[[:wiktionary:{{{3}}}|{{{3}}}]]'''}}{{#if:{{{4|}}}|{{#if:{{{5|}}}|,|,&#32;and}} '''[[:wiktionary:{{{4}}}|{{{4}}}]]'''}}{{#if:{{{5|}}}|, and '''[[:wiktionary:{{{5}}}|{{{5}}}]]'''}}''</div>
+</div>
+</div><noinclude>
+
+[[Category:Wikipedia templates]]
+</noinclude>

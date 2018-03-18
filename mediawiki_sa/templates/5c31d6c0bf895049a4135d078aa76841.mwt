@@ -1,0 +1,234 @@
+<includeonly>:''This template documentation is [[Wikipedia:Template doc page pattern|transcluded]] from [[{{FULLPAGENAME}}/doc]]'' [<span class="plainlinks">[{{fullurl:{{FULLPAGENAMEE}}/doc|action=edit}} edit]</span>]</includeonly>
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+'''cite journal''' is for formatting references to articles in academic journals in a consistent and legible manner. It can be used at the end of the article, directly in the References section. It can also be placed within <nowiki><ref></nowiki> tags for in-line citations (see [[Wikipedia:Footnotes]]).
+
+== Usage ==
+Copyable version:
+
+<code><nowiki>{{cite journal |quotes= |last= |first= |authorlink= |coauthors= |year= |month= |title= |journal= |volume= |issue= |pages= |id= |url= |accessdate= }}</nowiki></code>
+
+{| cellpadding="0" cellspacing="6"
+! using first, last !! using author
+|- width="50%"
+|
+<pre>
+{{cite journal
+ | quotes = 
+ | last = 
+ | first = 
+ | authorlink = 
+ | coauthors = 
+ | date = 
+ | year = 
+ | month = 
+ | title = 
+ | journal = 
+ | volume = 
+ | issue = 
+ | pages = 
+ | doi = 
+ | id = 
+ | url = 
+ | format = 
+ | accessdate = 
+ }}</pre>
+| style="vertical-align: top;" |
+<pre>
+{{cite journal
+ | quotes = 
+ | author = 
+ | date = 
+ | year = 
+ | month = 
+ | title = 
+ | journal = 
+ | volume = 
+ | issue = 
+ | pages = 
+ | doi = 
+ | id = 
+ | url = 
+ | format = 
+ | accessdate = 
+ }}</pre>
+|}
+
+* '''quotes''': Specify "quotes=no" to disable the quotes around the title. If "quotes" is not defined or set to the empty string, the template emits quotes around the title (default).
+* '''author''': Author
+** '''last''' works with '''first''' to produce <code>last, first</code>
+** '''authorlink''' works either with '''author''' or with '''last''' & '''first''' to link to the appropriate article (internal link)
+** '''coauthors''': allows additional authors
+* '''date''': ''[[January 1]], [[2006]]''. Full date of publication.
+** '''year''': ''2006''. Year of publication (ignored if the ''date'' field is used).
+*** '''month''': ''January''. Month of publication (ignored if the ''date'' field is used, or if the ''year'' field is ''not'' used).
+* '''title''': Title of article. '''''This is the only required parameter. All other parameters are optional.'''''
+* '''journal''': Name of the journal.
+* '''volume''': Volume number of the journal in which the article is found
+* '''issue''': Issue number of the journal in which the article is found
+* '''pages''': ''<nowiki>45&ndash;47</nowiki>'': first page, and optional last page.
+* '''doi''': [[digital object identifier]]. See also {{tl|doi}}
+* '''id''': Identifier such as ''<nowiki>{{</nowiki>[[:Template:ISSN|ISSN]]|1111-2220}}'', PMID 15128012
+**other suitable id-related templates: {{tl|doi}}, {{tl|US patent}}
+* '''url''': URL of a copy of the article, if available online.
+** '''format''': Format, i.e. PDF. Don't specify for HTML (implied as default).
+* '''accessdate''': Full date when URL was accessed, in [[ISO 8601]] YYYY-MM-DD format, eg. ''2006-02-17''.
+
+=== Examples ===
+*<nowiki>
+{{cite journal
+ | last=Smith
+ | first=Joseph III
+ | title=Last Testimony of Sister Emma
+ | journal=The Saints' Herald
+ | volume=26
+ | year=1879
+ | month=October
+ | pages=289
+ }}
+</nowiki>
+:→ {{cite journal
+ | last=Smith
+ | first=Joseph III
+ | title=Last Testimony of Sister Emma
+ | journal=The Saints' Herald
+ | volume=26
+ | year=1879
+ | month=October
+ | pages=289
+ }}
+
+*<nowiki>
+{{cite journal
+ | last=Smith
+ | first=Joseph III
+ | title=Last Testimony of Sister Emma
+ | journal=The Saints' Herald
+ | volume=26
+ | issue=19
+ | date=[[October 1]], [[1879]]
+ | pages=289
+ | url=http://www.lavazone2.com/dbroadhu/IL/sain1872.htm#100179
+ | accessdate=2006-03-23
+ }}
+</nowiki>
+:→ {{cite journal
+ | last=Smith
+ | first=Joseph III
+ | title=Last Testimony of Sister Emma
+ | journal=The Saints' Herald
+ | volume=26
+ | issue=19
+ | date=[[October 1]], [[1879]]
+ | pages=289
+ | url=http://www.lavazone2.com/dbroadhu/IL/sain1872.htm#100179
+ | accessdate=2006-03-23
+ }}
+
+*You can use the {{tl|doi}} template in the '''ID''' parameter to provide an [[ISBN]]-like functionality:
+:<nowiki>
+{{cite journal
+ | last = Giles | first = Jim
+ | title = Preprint Server Seeks Way to Halt Plagiarists
+ | url = http://www.nature.com/nature/journal/v426/n6962/full/426007a.html
+ | journal = Nature
+ | date= 6 November 2003
+ | pages = 7
+ | id = {{doi|10.1038/426007a}}
+ }}
+</nowiki>
+:→ {{cite journal
+ | last = Giles | first = Jim
+ | title = Preprint Server Seeks Way to Halt Plagiarists
+ | url = http://www.nature.com/nature/journal/v426/n6962/full/426007a.html
+ | journal = Nature
+ | date= 6 November 2003
+ | pages = 7
+ | id = {{doi|10.1038/426007a}}
+ }}
+
+* You can also specify the [[doi]] directly:
+:<nowiki>
+{{cite journal
+ | last = Giles | first = Jim
+ | title = Preprint Server Seeks Way to Halt Plagiarists
+ | url = http://www.nature.com/nature/journal/v426/n6962/full/426007a.html
+ | journal = Nature
+ | date= 6 November 2003
+ | pages = 7
+ | doi = 10.1038/426007a
+ }}
+</nowiki>
+:→ {{cite journal
+ | last = Giles | first = Jim
+ | title = Preprint Server Seeks Way to Halt Plagiarists
+ | url = http://www.nature.com/nature/journal/v426/n6962/full/426007a.html
+ | journal = Nature
+ | date= 6 November 2003
+ | pages = 7
+ | doi = 10.1038/426007a
+ }}
+
+* <nowiki>
+{{cite journal
+ | last=Fowler
+ | first=Martin
+ | authorlink=Martin Fowler
+ | coauthors=Kent Beck
+ | title=Last Testimony of Sister Emma
+ | journal=The Saints' Herald
+ | volume=26
+ | year=1879
+ | month=October
+ | pages=289
+ }}
+</nowiki>
+:→ {{cite journal
+ | last=Fowler
+ | first=Martin
+ | authorlink=Martin Fowler
+ | coauthors=Kent Beck
+ | title=Last Testimony of Sister Emma
+ | journal=The Saints' Herald
+ | volume=26
+ | year=1879
+ | month=October
+ | pages=289
+ }}
+
+* <nowiki>
+{{cite journal
+ | first = W. Hugh | last = Woodin
+ | title = The Continuum Hypothesis, Part I
+ | journal = Notices of the AMS
+ | volume = 48 | issue = 6 | year = 2001 | pages = 567–576
+ | url = http://www.ams.org/notices/200106/fea-woodin.pdf
+ | format = PDF
+}}
+</nowiki>
+:→ {{cite journal
+ | first = W. Hugh | last = Woodin
+ | title = The Continuum Hypothesis, Part I
+ | journal = Notices of the AMS
+ | volume = 48 | issue = 6 | year = 2001 | pages = 567–576
+ | url = http://www.ams.org/notices/200106/fea-woodin.pdf
+ | format = PDF
+}}
+
+===See also ===
+
+* [[Wikipedia:Cite sources]]: Style guide
+* [[Wikipedia:Cite sources/example style]]: Style guide examples
+* [[Wikipedia:Citation templates]]: Related templates
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Citation templates|{{PAGENAME}}]]
+[[Category:Templates using ParserFunctions|{{PAGENAME}}]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+[[bg:Шаблон:Cite journal]]
+[[cs:Šablona:Citace časopisu]]
+[[de:Vorlage:Cite journal]]
+[[ru:Шаблон:Статья]]
+[[vi:Tiêu bản:Chú thích tạp chí]]
+</includeonly>

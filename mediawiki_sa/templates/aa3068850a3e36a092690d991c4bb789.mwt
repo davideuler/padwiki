@@ -1,0 +1,8 @@
+*'''[http://kvaleberg.com/extensions/mapsources/index.php?params={{{1}}}_N_{{{2}}}_E_type:mountain_region:US Maps and pictures from above]'''
+** Land map from [http://topozone.com/map.asp?lat={{{1}}}&lon={{{2}}}&s=200&size=m&layer=DRG100 TopoZone]
+** Picture from above from [http://terraserver-usa.com/map.aspx?t=1&s=14&lon={{{2}}}&lat={{{1}}}&w=750&h=500 TerraServer-USA]
+** Area map from [http://maps.google.com/maps?ll={{{1}}},{{{2}}}&spn=0.4,0.6 Google Maps]
+** Map of where it is in the United States from the [http://tiger.census.gov/cgi-bin/mapgen?lat=36.0000&lon=-97.0000&wid=50&ht=28&iwd=550&iht=260&mlat={{{1}}}&mlon={{{2}}}&on=GRID&off=BACK&msym=smalldot Census Bureau]
+<noinclude>
+[[Category:External link templates]]
+</noinclude>

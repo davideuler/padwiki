@@ -1,0 +1,22 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Belgium
+| shortname alias = Belgium
+| flag alias      = Flag of Belgium (civil).svg
+| flag alias-state = Flag of Belgium.svg
+| flag alias-ensign = Government Ensign of Belgium.svg
+| flag alias-naval = Naval Ensign of Belgium.svg
+| link alias-naval = Belgian Navy
+| countryname = {{{countryname|Belgium<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Belgium|state}}</nowiki> = {{flag|Belgium|state}}
+* <nowiki>{{flag|Belgium|ensign}}</nowiki> = {{flag|Belgium|ensign}}
+* <nowiki>{{flag|Belgium|naval}}</nowiki> = {{flag|Belgium|naval}}
+
+[[af:Sjabloon:Landdata België]]
+[[sl:Template:Podatki države Belgija]]
+</noinclude>

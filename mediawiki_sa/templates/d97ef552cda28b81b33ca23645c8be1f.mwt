@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Moldova
+| shortname alias = Moldova
+| flag alias      = Flag of Moldova.svg
+| flag alias-SSR  = Flag of Moldavian SSR.svg
+| countryname = {{{countryname|Moldova<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Moldova|SSR}}</nowiki> = {{flag|Moldova|SSR}}
+</noinclude>

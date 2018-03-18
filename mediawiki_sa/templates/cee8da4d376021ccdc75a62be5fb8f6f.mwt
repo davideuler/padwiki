@@ -1,0 +1,8 @@
+<!-- {{Trivia}} start--><div class="messagebox cleanup metadata">
+'''This article contains a [[Wikipedia:Avoid trivia sections|trivia]] section.'''<br />
+<small>The article could be improved by [[Wikipedia:Handling trivia#Recommendations for handling trivia|integrating]] relevant items into the main text and removing [[Wikipedia:What Wikipedia is not|inappropriate]] items.</small>
+<small>{{#if:{{{date|}}}|This article has been tagged since '''{{{date}}}'''.}}</small></div>
+<includeonly>{{#if:{{{date|}}}|{{{category|[[Category:Articles with trivia sections from {{{date}}}]]}}}|{{{category|[[Category:Articles with trivia sections]]}}}}}</includeonly><!-- {{Trivia}} end--><noinclude>
+{{{{FULLPAGENAME}}/doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

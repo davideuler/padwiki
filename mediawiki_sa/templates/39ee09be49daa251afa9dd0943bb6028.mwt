@@ -1,0 +1,5 @@
+<div class="messagebox delete" style="background-color: #FFFCE6;">
+'''[[Wikipedia:Deletion policy|Deletion]] of this page has been [[Wikipedia:Requests for deletion|requested]] for the {{{1}}} time. {{#if:{{{2|{{{2|}}}}}}|The reason given is:|<font color="red">Please give a reason!</font>}} {{{2|{{{2|}}}}}}<br />
+You may join [[Wikipedia:Requests for deletion#{{{3|{{PAGENAME}}}}}|the discussion]] if you'd like to give your opinion on this request. Please do not remove this notice or empty this page while the discussion is happening. You are welcome to edit this page and improve it. If you want to find out more information, please read [[Wikipedia:Deletion policy|Wikipedia's deletion policy]].<includeonly>[[Category:Deletion requests|{{PAGENAME}}]]</includeonly></div><noinclude>
+[[Category:Deletion templates]]
+</noinclude>

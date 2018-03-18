@@ -1,0 +1,28 @@
+{| class="infobox" style="width: 22em; font-size: 95%; text-align: left;"
+|+  style="text-align: center; font-size: larger;" | '''{{{name}}}'''<br><small>''[[Latin language|Latin]]: {{{latin_name}}}''</small>
+|- class="hiddenStructure{{{image|}}}"
+| colspan="2" style="text-align: center;" | [[Image:{{{image}}}|250px| ]]
+|-
+| colspan="2" style="text-align: center; font-size: smaller; font-style: italic;" | [[motto]]: {{{motto}}}
+|-
+! Birth&nbsp;name
+| {{{birth_name}}}
+|-
+! Born
+| {{{birth_date}}}<br>{{{birth_place|}}}
+|- class="hiddenStructure{{{death_date|}}}"
+! Died
+| {{{death_date}}}<br>{{{death_place|}}}
+|- 
+! Papacy&nbsp;from
+| {{{term_start}}} &ndash; {{{term_end|''now''}}}
+|-
+! Came&nbsp;after
+| {{{predecessor}}}
+|- class="hiddenStructure{{{successor|}}}"
+! Came&nbsp;before
+| {{{successor}}}
+|}
+<noinclude>
+[[Category:People infobox templates]]
+</noinclude>

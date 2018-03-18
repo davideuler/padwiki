@@ -1,0 +1,5 @@
+#!/bin/sh
+#dir=`dirname $0`
+#java -jar WikiSearcher.jar $1 $2 $3 $4 $5 $6
+# to pass all parameters to WikiSearcher :
+java -jar WikiSearcher.jar $*

@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = United Kingdom
+| shortname alias = United Kingdom
+| flag alias      = Flag of the United Kingdom.svg
+| flag alias-1606 = Union flag 1606 (Kings Colors).svg
+| flag alias-naval = Naval Ensign of the United Kingdom.svg
+| link alias-naval = Royal Navy
+| countryname = {{{countryname|United Kingdom<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|United Kingdom|1606}}</nowiki> = {{flag|United Kingdom|1606}}
+* <nowiki>{{flag|United Kingdom|naval}}</nowiki> = {{flag|United Kingdom|naval}}
+
+[[sl:Predloga:Podatki države Združeno kraljestvo]]
+</noinclude>

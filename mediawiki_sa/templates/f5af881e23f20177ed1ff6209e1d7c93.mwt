@@ -1,0 +1,28 @@
+{| class="messagebox" style="max-width: 45em; background: #FFF0D9; text-align: center;"
+| [[Image:Circle-question.svg|40px|?]]
+| '''This {{{part|{{{1|article or section}}}}}} may contain [[Wikipedia:No original research|original research]] or [[Wikipedia:Verifiability|unverified claims]].'''<br /><div style="font-size:8pt;">Please help Wikipedia by adding references. See the [[{{NAMESPACE}} talk:{{PAGENAME}}|talk page]] for details.</small>{{#if:{{{date|}}}|<br><small>This article has been tagged since {{{date}}}.</div>}}<includeonly>{{{category|[[Category:Articles that may contain original research]]}}}</includeonly>
+|}<noinclude>
+{{pp-semi-template|small=yes}}
+
+== Usage ==
+The default words '''"article or section"''' are replaceable: <nowiki>{{Original research|table}}</nowiki> produces:
+{{Original research|table}}
+A date parameter can also be used to inform other editors of the time the tag has been in place: <nowiki>{{Original research|article|date=</nowiki>{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}} produces:
+{{Original research|article|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+This template will categorize articles into [[:Category:Articles that may contain original research]].
+
+==See also==
+*{{tl|or}}
+*{{tl|Unreferenced}}
+*{{tl|Synthesis}}
+*{{tl|syn}}
+[[Category:Citation and verifiability maintenance templates]]
+
+[[ar:قالب:بحث غير منشور]]
+[[cs:Šablona:Originální výzkum]]
+[[id:Templat:Riset asli]]
+[[ja:Template:独自研究]]
+[[pl:Szablon:Twórczość własna]]
+[[sl:Predloga:Izvirno raziskovanje]]
+[[th:แม่แบบ:ต้นฉบับ]]
+</noinclude>

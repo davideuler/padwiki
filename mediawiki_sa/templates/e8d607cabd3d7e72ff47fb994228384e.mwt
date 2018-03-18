@@ -1,0 +1,42 @@
+{| class="infobox vcard" cellpadding="2" style="border-color: {{{color|<noinclude>#B0C4DE</noinclude>}}}; width:{{{box_width|26em}}}; font-size:85%;"
+|-
+! bgcolor="{{{color|<noinclude>#B0C4DE</noinclude>}}}" align="center" colspan="2" style="border-bottom:1px solid {{{color|<noinclude>#B0C4DE</noinclude>}}}; font-size:125%;" | {{{region<includeonly>|</includeonly>}}}<br/><small>{{{era<includeonly>|</includeonly>}}}</small>
+{{#if: {{{image<includeonly>|</includeonly>}}} {{{image_name|}}} |
+<tr><td colspan="2" style="text-align: center;">[[Image:{{{image_name|{{{image}}}}}}|{{#if:{{{image_size|}}}|{{{image_size}}}|200px}}|]]
+}}
+{{#if: {{{caption<includeonly>|</includeonly>}}} {{{image_caption|}}}|
+<div style="line-height:1.25em;">{{{image_caption|{{{caption}}}}}}</div>
+}}</td></tr>
+|-
+! style="text-align: right;" |Name:
+|<span class="fn">{{{name}}}</span>
+|-
+! style="text-align: right;" |Birth:
+|{{{birth}}}
+{{#if: {{{death<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">Death:</th>
+<td>{{{death}}}</td></tr>
+}}
+|- class="note"
+! style="text-align: right;" |School/tradition:
+|{{{school_tradition}}}
+{{#if: {{{main_interests<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">Main interests:</th>
+<td>{{{main_interests}}}</td></tr>
+}}{{#if: {{{notable_ideas<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">Notable ideas:</th>
+<td>{{{notable_ideas}}}</td></tr>
+}}{{#if: {{{influences<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">Influences:</th>
+<td>{{{influences}}}</td></tr>
+}}{{#if: {{{influenced<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">Influenced:</th>
+<td>{{{influenced}}}</td></tr>
+}}{{#if: {{{signature<includeonly>|</includeonly>}}} |
+<tr><th style="text-align: right;">Signature:</th>
+<td>[[Image:{{{signature}}}|128px]]</td></tr>
+}}
+|}<noinclude>
+{{{{FULLPAGENAME}}/doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>

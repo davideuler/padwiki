@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Estonia
+| shortname alias = Estonia
+| flag alias      = Flag of Estonia.svg
+| flag alias-SSR  = Flag of Estonian SSR.svg
+| flag alias-naval = Naval Ensign of Estonia.svg
+| link alias-naval = Estonian Navy
+| countryname = {{{countryname|Estonia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Estonia|SSR}}</nowiki> = {{flag|Estonia|SSR}}
+* <nowiki>{{flag|Estonia|naval}}</nowiki> = {{flag|Estonia|naval}}
+</noinclude>

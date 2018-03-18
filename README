@@ -1,0 +1,48 @@
+
+PadWiki: The way how do I build offline wikipedia in less than 1 hour (2010/04)
+
+1.Make sure you have Python, Perl, Php , Java and Django 
+
+2.make sure the first line of Makefile is correct, like :  
+XMLBZ2 = enwiki-20091103-pages-articles.xml.bz2
+  make sure the bz2 file has been copied to wiki-splits directory.
+
+3.build index
+type 'make' and follow the instructions. if fail, check the file Makefile.
+(whether php exists in your PATH, mywiki/show.pl will use php to parse wiki markup as nice html).
+
+-----------------------------------------------
+Built wikipedia for split already created:
+
+$ make index 
+---------------------------------------------
+Start wikipedia Server :
+
+$start.wiki.sh 
+
+
+---------------------------------------------
+Acknowledgement:
+
+PadWiki is built on the base of many genius work. 
+Thanks to the guys and creator of those open source tools of the following :
+
+Thanassis Tsiodras : For his work on "Building a (fast) Wikipedia offline reader" ; 
+Meng WANG  : for his work of supporting unicode(such as CJK) in wiki parsing.  
+Perl: http://www.perl.org 
+Python: http://www.python.org
+PHP: http://www.php.org
+Java: http://www.java.com
+Django: http://www.djangoproject.com
+Lucene: http://lucene.apache.org
+Gentoo: http://www.gentoo.org  (The os which I develop PadWiki upon)
+
+The most important of all, thanks to Wikipedia.org, and Mediawiki, without
+these excellent creations, we could not enjoy the knowledge of offline
+wikipedia.
+http://www.wikipedia.org
+
+Author : David Lv, 2010/04/05
+EMail: david_ullua , hotmail dot com
+
+

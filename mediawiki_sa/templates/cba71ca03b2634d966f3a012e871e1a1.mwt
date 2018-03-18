@@ -1,0 +1,31 @@
+{| style="float: right; clear: right; margin: 0 0 0.5em 1em;" class="toccolours" border=0 cellpadding=0 align=right width="225px"
+|-
+| align="center" colspan="2" | [[Image:UK motorway {{{motorway}}}.PNG|150px]]
+|-
+| align="center" colspan="2" | <font size="+1">{{{motorway}}} motorway</font>
+|-
+| width="30%" bgcolor="#EFEFEF" | Length
+| width="70%" bgcolor="#EFEFEF" | {{{length-mi}}} miles<br>{{{length-km}}} km
+|-
+| bgcolor="#E6E6FF" | Direction
+| bgcolor="#E6E6FF" | {{{direction}}}
+|-
+| bgcolor="#EFEFEF" | Start
+| bgcolor="#EFEFEF" | {{{start}}}
+|-
+| bgcolor="#E6E6FF"  | [[Primary status|Primary destinations]]
+| bgcolor="#E6E6FF"  | {{{destinations}}}
+|-
+| bgcolor="#EFEFEF" | End
+| bgcolor="#EFEFEF" | {{{end}}}
+|-
+| bgcolor="#E6E6FF" | Construction dates
+| bgcolor="#E6E6FF" | {{{opening-date}}} - {{{completion-date}}}
+|-
+| bgcolor="#EFEFEF" | Motorways joined
+| bgcolor="#EFEFEF" | {{{junctions}}}
+|}
+
+<noinclude>
+[[Category:Infobox templates]]
+</noinclude>

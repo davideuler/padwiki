@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Bulgaria
+| shortname alias = Bulgaria
+| flag alias      = Flag of Bulgaria.svg
+| flag alias-1878 = Flag of Bulgaria (1878-1944).svg
+| flag alias-1946 = Flag of Bulgaria (1946-1967).svg
+| flag alias-1967 = Flag of Bulgaria (1967).png
+| flag alias-1971 = Flag of Bulgaria 1971-1990.png
+| flag alias-naval = Naval Ensign of Bulgaria.svg
+| link alias-naval = Bulgarian Navy
+| countryname = {{{countryname|Bulgaria<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Bulgaria|1878}}</nowiki> = {{flag|Bulgaria|1878}}
+* <nowiki>{{flag|Bulgaria|1946}}</nowiki> = {{flag|Bulgaria|1946}}
+* <nowiki>{{flag|Bulgaria|1967}}</nowiki> = {{flag|Bulgaria|1967}}
+* <nowiki>{{flag|Bulgaria|1971}}</nowiki> = {{flag|Bulgaria|1971}}
+* <nowiki>{{flag|Bulgaria|naval}}</nowiki> = {{flag|Bulgaria|naval}}
+
+[[af:Sjabloon:Landdata Bulgarye]]
+</noinclude>

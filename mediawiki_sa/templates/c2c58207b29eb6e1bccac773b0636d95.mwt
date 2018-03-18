@@ -1,0 +1,19 @@
+<table style="width:484px;border:#99B3FF solid 1px">
+<tr><td colspan="2" rowspan="1"><center>'''[[Wikipedia:Babel]]'''</center></td></tr>
+<tr><td>{{User {{{1}}}}}</td><td>{{User {{{2}}}}}</td></tr>
+<tr><td>{{User {{{3}}}}}</td><td>{{User {{{4}}}}}</td></tr>
+<tr><td>{{User {{{5}}}}}</td><td>{{User {{{6}}}}}</td></tr>
+<tr><td colspan="2" rowspan="1"><center>{{User {{{7}}}}}</center></td></tr>
+</table>
+
+<noinclude>
+
+[[Category:User language templates]]
+[[bg:Шаблон:Вавилон]]
+[[de:Vorlage:Babel]]
+[[en:Template:Babel]]
+[[jbo:Template:Babel]]
+[[ko:틀:바벨]]
+[[zh:Template:Babel]]
+[[zh-yue:Template:Babel]]
+</noinclude>

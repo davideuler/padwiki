@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Malta
+| shortname alias = Malta
+| flag alias      = Flag of Malta.svg
+| flag alias-colonial = British Malta Flag.JPG
+| link alias-naval = Armed Forces of Malta
+| countryname = {{{countryname|Malta<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Malta|colonial}}</nowiki> = {{flag|Malta|colonial}}
+</noinclude>

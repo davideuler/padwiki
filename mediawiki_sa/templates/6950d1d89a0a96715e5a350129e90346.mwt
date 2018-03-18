@@ -1,0 +1,10 @@
+<div class="messagebox" style="background-color: #F3F2FF;">
+<div style="font-size: 1.5em;">[[Image:Info-pictogram.png]] '''This address is shared by many users'''</div>
+This [[IP address]], '''{{PAGENAME}}''' is registered to '''{{{1}}}''' and is shared by many users. This means that messages left here may reach the wrong person. Be careful when blocking this IP or reverting contributions without checking them first.
+
+If you are using this address and haven't registered, you can [[Special:Userlogin|create an account]] to stop receiving comments meant for other users.
+</div>
+
+<noinclude>
+[[Category:User templates]]
+</noinclude>

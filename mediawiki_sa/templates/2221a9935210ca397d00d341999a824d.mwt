@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Algeria
+| shortname alias = Algeria
+| flag alias      = Flag of Algeria.svg
+| flag alias-1958 = Flag of Algeria (1958-1962).svg
+| flag alias-naval = Naval Ensign of Algeria.svg
+| link alias-naval = Algerian National Navy
+| countryname = {{{countryname|Algeria<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Algeria|1958}}</nowiki> = {{flag|Algeria|1958}}
+* <nowiki>{{flag|Algeria|naval}}</nowiki> = {{flag|Algeria|naval}}
+</noinclude>

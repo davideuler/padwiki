@@ -1,0 +1,98 @@
+{{#if: {{{TXT|}}} |{{ #switch: {{{TXT}}}
+| Year = 2005&nbsp;est.
+}}|}}{{#if: {{{POP|}}} |{{ #switch: {{{POP}}}
+| 00PL = 68,400    <!-- Blaenau Gwent -->
+| 00PB = 130,800   <!-- Bridgend -->
+| 00PK = 170,200   <!-- Caerphilly -->
+| 00PT = 319,700   <!-- Cardiff -->
+| 00NU = 178,100   <!-- Carmarthenshire -->
+| 00NQ = 78,300    <!-- Ceredigion -->
+| 00NE = 111,500   <!-- Conwy -->
+| 00NG = 96,000    <!-- Denbighshire -->
+| 00NJ = 150,200   <!-- Flintshire -->
+| 00NC = 118,000   <!-- Gwynedd -->
+| 00NA = 68,900    <!-- Isle of Anglesey -->
+| 00PH = 54,900    <!-- Merthyr Tydfil -->
+| 00PP = 87,700    <!-- Monmouthshire -->
+| 00NZ = 135,600   <!-- Neath Port Talbot -->
+| 00PR = 139,600   <!-- Newport -->
+| 00NS = 117,500   <!-- Pembrokeshire -->
+| 00NN = 131,500   <!-- Powys -->
+| 00PF = 231,600   <!-- Rhondda Cynon Taff -->
+| 00NX = 226,400   <!-- Swansea -->
+| 00PM = 90,300    <!-- Torfaen -->
+| 00PD = 122,900   <!-- Vale of Glamorgan -->
+| 00NL = 130,500   <!-- Wrexham -->
+}}|}}{{#if: {{{RNK|}}} |{{ #switch: {{{RNK}}}
+| 00PL = 20th   <!-- Blaenau Gwent -->
+| 00PB = 10th   <!-- Bridgend -->
+| 00PK = 5th    <!-- Caerphilly -->
+| 00PT = 1st    <!-- Cardiff -->
+| 00NU = 4th    <!-- Carmarthenshire -->
+| 00NQ = 19th   <!-- Ceredigion -->
+| 00NE = 15th   <!-- Conwy -->
+| 00NG = 16th   <!-- Denbighshire -->
+| 00NJ = 6th    <!-- Flintshire -->
+| 00NC = 13th   <!-- Gwynedd -->
+| 00NA = 21st   <!-- Isle of Anglesey -->
+| 00PH = 22nd   <!-- Merthyr Tydfil -->
+| 00PP = 18th   <!-- Monmouthshire -->
+| 00NZ = 8th    <!-- Neath Port Talbot -->
+| 00PR = 7th    <!-- Newport -->
+| 00NS = 14th   <!-- Pembrokeshire -->
+| 00NN = 9th    <!-- Powys -->
+| 00PF = 2nd    <!-- Rhondda Cynon Taff -->
+| 00NX = 3rd    <!-- Swansea -->
+| 00PM = 17th   <!-- Torfaen -->
+| 00PD = 12th   <!-- Vale of Glamorgan -->
+| 00NL = 11th   <!-- Wrexham -->
+}}|}}{{#if: {{{DEN|}}} |{{ #switch: {{{DEN}}}
+| 00PL = 631     <!-- Blaenau Gwent -->
+| 00PB = 530     <!-- Bridgend -->
+| 00PK = 614     <!-- Caerphilly -->
+| 00PT = 2,263   <!-- Cardiff -->
+| 00NU = 74      <!-- Carmarthenshire -->
+| 00NQ = 44      <!-- Ceredigion -->
+| 00NE = 99      <!-- Conwy -->
+| 00NG = 113     <!-- Denbighshire -->
+| 00NJ = 343     <!-- Flintshire -->
+| 00NC = 46      <!-- Gwynedd -->
+| 00NA = 96      <!-- Isle of Anglesey -->
+| 00PH = 496     <!-- Merthyr Tydfil -->
+| 00PP = 103     <!-- Monmouthshire -->
+| 00NZ = 307     <!-- Neath Port Talbot -->
+| 00PR = 734     <!-- Newport -->
+| 00NS = 74      <!-- Pembrokeshire -->
+| 00NN = 25      <!-- Powys -->
+| 00PF = 547     <!-- Rhondda Cynon Taff -->
+| 00NX = 597     <!-- Swansea -->
+| 00PM = 717     <!-- Torfaen -->
+| 00PD = 365     <!-- Vale of Glamorgan -->
+| 00NL = 261     <!-- Wrexham -->
+}}|}}{{#if: {{{DRK|}}} |{{ #switch: {{{DRK}}}
+| 00PL = 4th    <!-- Blaenau Gwent -->
+| 00PB = 8th    <!-- Bridgend -->
+| 00PK = 5th    <!-- Caerphilly -->
+| 00PT = 1st    <!-- Cardiff -->
+| 00NU = 18th   <!-- Carmarthenshire -->
+| 00NQ = 21st   <!-- Ceredigion -->
+| 00NE = 16th   <!-- Conwy -->
+| 00NG = 14th   <!-- Denbighshire -->
+| 00NJ = 11th   <!-- Flintshire -->
+| 00NC = 20th   <!-- Gwynedd -->
+| 00NA = 17th   <!-- Isle of Anglesey -->
+| 00PH = 9th    <!-- Merthyr Tydfil -->
+| 00PP = 15th   <!-- Monmouthshire -->
+| 00NZ = 12th   <!-- Neath Port Talbot -->
+| 00PR = 2nd    <!-- Newport -->
+| 00NS = 19th   <!-- Pembrokeshire -->
+| 00NN = 22nd   <!-- Powys -->
+| 00PF = 7th    <!-- Rhondda Cynon Taff -->
+| 00NX = 6th    <!-- Swansea -->
+| 00PM = 3rd    <!-- Torfaen -->
+| 00PD = 10th   <!-- Vale of Glamorgan -->
+| 00NL = 13th   <!-- Wrexham -->
+}}|}}<noinclude>This template converts [[ONS coding system|ONS codes]] to population, rank or density for Welsh councils.
+Typical use: <nowiki>{{Welsh council population|POP=00PT}} or RNK= or DEN= or DRK=.
+</nowiki>[[Category:Wikipedia templates|{{PAGENAME}}]]
+</noinclude>

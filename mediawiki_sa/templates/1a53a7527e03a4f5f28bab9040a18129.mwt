@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Lithuania
+| shortname alias = Lithuania
+| flag alias      = Flag of Lithuania.svg
+| flag alias-1918 = Flag of Lithuania 1918-1940.svg
+| flag alias-SSR  = Flag of Lithuanian SSR.svg
+| flag alias-1989 = Flag of Lithuania 1989-2004.svg
+| flag alias-naval = Naval Ensign of Lithuania.svg
+| link alias-naval = Lithuanian Navy
+| countryname = {{{countryname|Lithuania<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Lithuania|1918}}</nowiki> = {{flag|Lithuania|1918}}
+* <nowiki>{{flag|Lithuania|SSR}}</nowiki> = {{flag|Lithuania|SSR}}
+* <nowiki>{{flag|Lithuania|1989}}</nowiki> = {{flag|Lithuania|1989}}
+* <nowiki>{{flag|Lithuania|naval}}</nowiki> = {{flag|Lithuania|naval}}
+</noinclude>

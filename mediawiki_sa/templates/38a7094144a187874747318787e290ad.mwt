@@ -1,0 +1,41 @@
+{{ #switch: {{{CTY}}}
+| Bedfordshire = [[Conservative Party (UK)|Conservative]]
+| Buckinghamshire = [[Conservative Party (UK)|Conservative]]
+| Cambridgeshire = [[Conservative Party (UK)|Conservative]]
+| Cheshire = [[Conservative Party (UK)|Conservative]]
+| Cornwall = [[Liberal Democrats]]
+| Cumbria = [[Conservative Party (UK)|Conservative]] / [[Liberal Democrats|Liberal&nbsp;Democrats]]
+| Derbyshire = [[Labour Party (UK)|Labour]]
+| Devon = [[Liberal Democrats]]
+| Dorset = [[Conservative Party (UK)|Conservative]]
+| County Durham = [[Labour Party (UK)|Labour]]
+| East Sussex = [[Conservative Party (UK)|Conservative]]
+| Essex = [[Conservative Party (UK)|Conservative]]
+| Gloucestershire = [[Conservative Party (UK)|Conservative]]
+| Hampshire = [[Conservative Party (UK)|Conservative]]
+| Hertfordshire = [[Conservative Party (UK)|Conservative]]
+| Kent = [[Conservative Party (UK)|Conservative]]
+| Lancashire = [[Labour Party (UK)|Labour]]
+| Leicestershire = [[Conservative Party (UK)|Conservative]]
+| Lincolnshire = [[Conservative Party (UK)|Conservative]]
+| Norfolk = [[Conservative Party (UK)|Conservative]]
+| North Yorkshire = [[Conservative Party (UK)|Conservative]]
+| Northamptonshire = [[Conservative Party (UK)|Conservative]]
+| Northumberland = [[Labour Party (UK)|Labour]]
+| Nottinghamshire = [[Labour Party (UK)|Labour]]
+| Oxfordshire = [[Conservative Party (UK)|Conservative]]
+| Shropshire = [[Conservative Party (UK)|Conservative]]
+| Somerset = [[Liberal Democrats]]
+| Staffordshire = [[Labour Party (UK)|Labour]]
+| Suffolk = [[Conservative Party (UK)|Conservative]]
+| Surrey = [[Conservative Party (UK)|Conservative]]
+| Warwickshire = [[Conservative Party (UK)|Conservative]] (council [[No Overall Control|NOC]])
+| West Sussex = [[Conservative Party (UK)|Conservative]]
+| Wiltshire = [[Conservative Party (UK)|Conservative]]
+| Worcestershire = [[Conservative Party (UK)|Conservative]]
+| #default=&nbsp;
+}}<noinclude>This template converts county names to political control for English administrative counties.
+
+Typical use: <nowiki>{{English county control|CTY=Somerset}}
+</nowiki>[[Category:United Kingdom templates|{{PAGENAME}}]]
+</noinclude>

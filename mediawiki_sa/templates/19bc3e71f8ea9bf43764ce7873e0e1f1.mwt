@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Pakistan
+| shortname alias = Pakistan
+| flag alias      = Flag of Pakistan.svg
+| flag alias-naval = Naval Ensign of Pakistan.svg
+| countryname = {{{countryname|Pakistan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Pakistan|naval}}</nowiki> = {{flag|Pakistan|naval}}
+</noinclude>

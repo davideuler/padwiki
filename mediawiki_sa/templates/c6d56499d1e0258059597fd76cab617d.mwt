@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Portugal
+| shortname alias = Portugal
+| flag alias      = Flag of Portugal.svg
+| flag alias-1707 = Flag Portugal (1707).svg
+| flag alias-1830 = Flag Portugal (1830).svg
+| link alias-naval = Portuguese Navy
+| countryname = {{{countryname|Portugal<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Portugal|1707}}</nowiki> = {{flag|Portugal|1707}}
+* <nowiki>{{flag|Portugal|1830}}</nowiki> = {{flag|Portugal|1830}}
+
+[[sl:Predloga:Podatki države Portugalska]]
+</noinclude>

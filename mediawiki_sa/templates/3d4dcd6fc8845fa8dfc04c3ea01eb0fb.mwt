@@ -1,0 +1,35 @@
+<onlyinclude><p style="margin:0px;font-size:90%"><span style="border:{{{border|none}}};background-color:{{{1|none}}};color:{{{1|none}}};">██</span>&nbsp;{{{2|}}}</p></onlyinclude>
+<!-- You are advised to read the talk page before changing this template. -->
+Shows a legend row with a colored box.
+
+;Usage:
+ <nowiki>{{</nowiki>legend|''color''|''label''|border=''border''<nowiki>}}</nowiki>
+
+''color'' is passed to the [[Cascading Style Sheets|css]] background property, so it can also include images. The optional ''border'' argument is passed to the css border property.
+
+;Example:
+ <nowiki>{{legend|black|Africa}}</nowiki>
+ <nowiki>{{legend|green|Americas}}</nowiki>
+ <nowiki>{{legend|blue|Oceania}}</nowiki>
+ <nowiki>{{legend|#ff0|Europe}}</nowiki>
+ <nowiki>{{legend|#ff2800|Asia}}</nowiki>
+
+<p style="margin:0px;font-size:90%"><span style="border:none;color:black;background-color:black">mm</span>&nbsp;Africa</p>
+<p style="margin:0px;font-size:90%"><span style="border:none;color:green;background-color:green">mm</span>&nbsp;Americas</p>
+<p style="margin:0px;font-size:90%"><span style="border:none;color:blue;background-color:blue">mm</span>&nbsp;Oceania</p>
+<p style="margin:0px;font-size:90%"><span style="border:none;color:#FF0;background-color:#FF0">mm</span>&nbsp;Europe</p>
+<p style="margin:0px;font-size:90%"><span style="border:none;color:#FF2800;background-color:#FF2280">mm</span>&nbsp;Asia</p>
+
+For legends involving lines on a map, see {{tl|legend-line}}.
+
+[[cy:Nodyn:Legend]]
+[[de:Vorlage:Legende]]
+[[es:Plantilla:Legend]]
+[[ko:Template:범례]]
+[[hu:Sablon:Jelmagyarázat]]
+[[pl:Szablon:Legenda]]
+[[ru:Шаблон:Легенда]]
+[[sr:Шаблон:Легенда]]
+[[vi:Tiêu bản:Legend]]
+[[zh:Template:Legend]]
+[[Category:Legend templates]]

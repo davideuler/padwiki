@@ -1,0 +1,10 @@
+<div class="messagebox cleanup metadata">
+{| style="width:100%;background:none"
+|width=60|[[Image:Nuvola apps important.svg|45px]]
+|'''This article or section may contain [[Wikipedia:Spam|spam]].'''<br /><small>Wikipedia spam consists of [[Wikipedia:External links|external links]] mainly intended to promote a website.  Wikipedia spam also consists of external links to websites which primarily exist to sell goods or services, use objectionable amounts of advertising, or require payment to view the relevant content. If you are familiar with the content of the external links, please help by removing promotional links in accordance with [[Wikipedia:External links]]. (''[[Wikipedia:WikiProject Spam|You can help!]]'')</small>
+|}
+</div><includeonly>{{{category|[[Category:Wikipedia spam cleanup]]}}}</includeonly><noinclude>
+{{protected template}}
+{{{{FULLPAGENAME}}/doc}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

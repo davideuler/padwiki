@@ -1,0 +1,20 @@
+<includeonly>{{fix-{{#switch:{{{style}}}
+|box|page=box
+|line|section=line
+|inline|#default=inline}}
+|{{#if:{{{image|}}}|image={{{image|}}}}}
+|{{#if:{{{size|}}}|size={{{size|}}}}}
+|{{#if:{{{link|}}}|link={{{link|}}}}}
+|{{#if:{{{class|}}}|class={{{class|}}}}}
+|{{#if:{{{title|}}}|title={{{title|}}}}}
+|{{#if:{{{pre-text|}}}|pre-text={{{pre-text|}}}}}
+|{{#if:{{{text|}}}|text={{{text|}}}}}
+|{{#if:{{{post-text|}}}|post-text={{{post-text|}}}}}
+|{{#if:{{{special|}}}|special={{{special|}}}}}
+|{{#if:{{{date|}}}|date={{{date|}}}}}
+|cat={{{cat|[[Category:All pages needing cleanup]]}}}
+|{{#if:{{{cat-date|}}}|cat-date={{{cat-date|}}}}}}}</includeonly><noinclude>
+{{pp-template|small=yes}}
+{{template doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

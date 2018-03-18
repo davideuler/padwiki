@@ -1,0 +1,9 @@
+<includeonly><div style="position:relative; width:{{{width}}}; height:{{{height}}}; overflow:hidden;"><div style="position:absolute; font-size:{{{height}}}; overflow:hidden; line-height:{{{height}}}; letter-spacing:{{{width}}};">[[{{{link}}}|<span title="{{{title|{{{link}}}}}}" style="text-decoration:none;">&nbsp; &nbsp;</span>]]</div>[[Image:{{{image}}}|{{{width}}}|{{{title|{{{link}}}}}}]]</div></includeonly>
+<noinclude>
+[[Category:Miscellaneous templates]]
+[[en:Template:Click]]
+[[na:Template:Click]]
+[[nl:Sjabloon:Klik]]
+[[no:Mal:Klikk]]
+[[vi:Tiêu bản:Hình tượng]]
+</noinclude>

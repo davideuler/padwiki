@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Denmark
+| shortname alias = Denmark
+| flag alias      = Flag of Denmark.svg
+| flag alias-naval = Naval Ensign of Denmark.svg
+| link alias-naval = Royal Danish Navy
+| countryname = {{{countryname|Denmark<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Denmark|naval}}</nowiki> = {{flag|Denmark|naval}}
+
+[[sl:Predloga:Zastava države Danska]]
+</noinclude>

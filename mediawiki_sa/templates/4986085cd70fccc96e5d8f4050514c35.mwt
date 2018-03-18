@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Luxembourg
+| shortname alias = Luxembourg
+| flag alias      = Flag of Luxembourg.svg
+| countryname = {{{countryname|Luxembourg<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}<noinclude>
+[[af:Sjabloon:Landdata Luxemburg]]
+[[sl:Predloga:Podatki države Luksemburg]]
+</noinclude>

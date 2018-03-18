@@ -1,0 +1,45 @@
+<table class="infobox" style="width: 21em; font-size:90%; text-align: left; align: right;" cellspacing="2">
+<tr><th colspan="2" style="text-align: center;"><big>{{{subject_name|{{PAGENAME}}}}}</big></th></tr> 
+{{#if:{{{image_name|}}}|<tr><td colspan="2" align="center">[[Image:{{{image_name}}}|{{{image_size|180x180px}}}|center]] {{#if:{{{image_caption|}}}|<div style="line-height:1.25em;">{{{image_caption}}}</div>|}}|}}
+<tr valign="top"><th align="right">Born</th> <td>{{{date_of_birth}}}{{#if:{{{place_of_birth|}}}
+| <br/>{{{place_of_birth}}}
+}}</td></tr>
+{{#if:{{{date_of_death|}}}
+|<tr valign="top"><th style="text-align:right;">Died</th> <td>{{{date_of_death}}}{{#if:{{{place_of_death|}}}
+  | <br/>{{{place_of_death}}}
+  }}</td></tr>
+}}{{#if:{{{occupation|}}}
+|<tr valign="top"><th style="text-align:right;">Occupation</th> <td>{{{occupation}}}</td></tr>
+}}{{#if:{{{spouse|}}}
+|<tr valign="top"><th style="text-align:right;">Spouse</th> <td>{{{spouse}}}</td></tr>
+}}</table><noinclude>
+
+== Usage ==
+<pre>
+{{Infobox Biography
+| subject_name   = 
+| image_name     = 
+| image_size     = 
+| image_caption  = 
+| date_of_birth  = 
+| place_of_birth = 
+| date_of_death  = 
+| place_of_death = 
+| occupation     = 
+| spouse         = 
+| religion       =
+| nationality    =
+}}
+</pre>
+
+[[Category:People infobox templates|*]]
+
+[[ar:قالب:معلومات شخصية]]
+[[bg:Шаблон:Биография инфо]]
+[[en:Template:Infobox Biography]]
+[[no:Mal:Infoboks biografi]]
+[[pt:Predefinição:Info biografia]]
+[[ro:Format:Infobox_biografii]]
+[[zh:Template:Infobox Biography]]
+
+</noinclude>

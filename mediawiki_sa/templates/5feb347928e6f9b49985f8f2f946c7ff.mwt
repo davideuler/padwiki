@@ -1,0 +1,17 @@
+<div style="clear: both"></div>
+{| class="infobox"
+|- style="background-color:#f0f0f0"
+| align="right" | <small>'''[[Centuries]]:'''</small>
+| align="center" | [[{{{cpa}}}{{{cpb}}}]] - '''{{{c}}}''' - {{{cn1}}}
+|-
+| align="right" | <small>'''[[List of decades|Decades]]:'''</small>
+| align="center" | {{{dp3}}} {{{dp2}}} {{{dp1}}} - '''{{{d}}}''' - {{{dn1}}} {{{dn2}}} {{{dn3}}}
+|-
+|- style="background-color:#f0f0f0"
+| align="right" | <small>'''Years:'''</small>
+| align="center" | [[{{{cpa}}}{{{da}}}0]] [[{{{cpa}}}{{{da}}}1]] [[{{{cpa}}}{{{da}}}2]] [[{{{cpa}}}{{{da}}}3]] [[{{{cpa}}}{{{da}}}4]] [[{{{cpa}}}{{{da}}}5]] [[{{{cpa}}}{{{da}}}6]] [[{{{cpa}}}{{{da}}}7]] [[{{{cpa}}}{{{da}}}8]] [[{{{cpa}}}{{{da}}}9]]
+|}<noinclude>
+[[Category:Timekeeping templates]]
+[[en:Template:Decadebox]]
+[[vi:Tiêu bản:Decadebox]]
+</noinclude>

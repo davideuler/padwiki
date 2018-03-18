@@ -1,0 +1,13 @@
+<div class="messagebox delete" style="background-color: #FFFCE6;">
+'''[[Wikipedia:Deletion policy|Immediate deletion]] of this page has been requested. The reason given is: This article is empty'''
+
+If you disagree with its deletion, please explain why on [[{{NAMESPACE}} talk:{{PAGENAME}}|the discussion page]] or at [[Wikipedia:Requests for deletion]]. If you intend to fix it, please remove this notice, but do not remove this notice from pages that you have created yourself.
+
+''[[Wikipedia:Administrators|Administrators]] - Remember to check [[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}|if anything links here]] and [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} the page history] before deleting[[Template:Empty|.]] <includeonly>[[Category:Quick deletion requests|!{{PAGENAME}}]]</includeonly>
+</div>
+
+<noinclude>
+[[Category:Deletion templates]]
+</noinclude>
+
+<includeonly>[[Category:Quick deletion requests]]</includeonly>

@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Switzerland
+| shortname alias = Switzerland
+| flag alias      = Flag of Switzerland.svg
+| flag alias-civil = Civil Ensign of Switzerland.svg
+| countryname = {{{countryname|Switzerland<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Switzerland|civil}}</nowiki> = {{flag|Switzerland|civil}}
+
+[[sl:Predloga:Podatki države Švica]]
+</noinclude>

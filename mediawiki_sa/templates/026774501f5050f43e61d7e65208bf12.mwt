@@ -1,0 +1,63 @@
+<includeonly><cite style="font-style:normal">{{#if:{{{author|}}}{{{last|}}}
+  |{{#if:{{{authorlink|}}}
+    |[[{{{authorlink}}}|{{#if:
+      {{{last|}}}
+      |{{{last}}}{{#if:
+        {{{first|}}}
+        |, {{{first}}}
+      }}
+      |{{{author}}}
+    }}]]
+    |{{#if:{{{last|}}}
+      |{{{last}}}{{#if:
+        {{{first|}}}
+        |, {{{first}}}
+      }}
+      |{{{author}}}
+    }}
+  }}
+}}{{#if:{{{author|}}}{{{last|}}}
+  |{{#if:{{{coauthors|}}}
+    |, {{{coauthors}}}
+  }}
+}}{{#if:{{{date|}}}
+  |&#32;({{{date}}})
+  |{{#if:{{{year|}}}
+    |{{#if:{{{month|}}}
+      |&#32;({{{month}}} {{{year}}})
+      |&#32;({{{year}}})
+     }}
+   }}
+}}{{#if:{{{author|}}}{{{last|}}}{{{year|}}}
+  |.&#32;
+}}{{#ifeq:{{{quotes|}}} 
+ | no 
+ | 
+ | {{#if: {{{curly|}}}|“|"}} 
+ }}{{#if:{{{url|}}}
+  |[{{{url}}} {{{title}}}]
+  |{{{title}}}
+}}{{#ifeq:{{{quotes|}}} 
+ | no 
+ | 
+ | {{#if: {{{curly|}}}|”|"}} 
+ }}{{#if: {{{format|}}}
+  | &#32;({{{format}}})
+}}{{#if:{{{journal|}}}
+  |. ''{{{journal}}}''
+}}{{#if:{{{volume|}}}
+  |&#32;'''{{{volume}}}'''
+}}{{#if:{{{issue|}}}
+  |&#32;({{{issue}}})
+}}{{#if:{{{pages|}}}
+  |<nowiki>:</nowiki> {{{pages}}}
+}}{{#if: {{{doi|}}} 
+  | . [[Digital object identifier|DOI]]:[http://dx.doi.org/{{{doi}}} {{{doi}}}]
+}}{{#if:{{{id|}}}
+  |. {{{id}}}
+}}{{#if:{{{accessdate|}}}
+  |. Retrieved on [[{{{accessdate}}}]]
+}}.</cite></includeonly><noinclude>
+{{/doc}}
+[[Category:Citation templates]]
+</noinclude>

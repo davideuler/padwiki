@@ -1,0 +1,6 @@
+{{country data {{{1|}}}
+| country flag2
+| name = {{{name|{{{1|}}}}}}
+| variant = {{{variant|{{{2|}}}}}}
+| size = {{{size|}}}
+}}<noinclude>{{protected template}}{{template doc}}</noinclude>

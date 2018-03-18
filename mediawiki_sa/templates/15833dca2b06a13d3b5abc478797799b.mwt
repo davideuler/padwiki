@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Latvia
+| shortname alias = Latvia
+| flag alias      = Flag of Latvia.svg
+| flag alias-SSR  = Flag of Latvian SSR.svg
+| flag alias-naval = Naval Ensign of Latvia.svg
+| link alias-naval = Latvian Naval Forces
+| countryname = {{{countryname|Latvia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Latvia|SSR}}</nowiki> = {{flag|Latvia|SSR}}
+* <nowiki>{{flag|Latvia|naval}}</nowiki> = {{flag|Latvia|naval}}
+</noinclude>

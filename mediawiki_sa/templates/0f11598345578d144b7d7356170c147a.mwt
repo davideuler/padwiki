@@ -1,0 +1,16 @@
+<div class="messagebox">This page has been [[Wikipedia:Deletion policy|deleted]], and [[Wikipedia:Protection policy|protected]] to stop people from creating it again without a good reason.
+
+* Information about why it was deleted might be in the [{{fullurl:Special:Log/delete|page={{FULLPAGENAMEE}}}} deletion log] or the [{{fullurl:Special:Log/protect|page={{FULLPAGENAMEE}}}} protection log].
+* You may ask for it to be unprotected by explaining on the '''[[{{TALKSPACE}}:{{PAGENAME}}|talk page]]''' why the page is needed.
+* If you do not get a response in a short time, then you may check the [{{fullurl:Special:Log/protect|page={{FULLPAGENAMEE}}}} protection log] and contact the administrator who protected it.  You can also contact another [[Wikipedia:Administrator|administrator]].
+----
+* Administrators may view the page history and content at [[Special:Undelete/{{FULLPAGENAME}}]].
+<includeonly>[[Category:Protected pages]]</includeonly>
+</div><noinclude>
+[[Category:Wikipedia templates|{{PAGENAME}}]]
+
+[[en:Template:Deletedpage]]
+[[fr:Modèle:Page supprimée]]
+[[ru:Шаблон:Deletedpage]]
+[[zh:Template:Deletedpage]]
+</noinclude>

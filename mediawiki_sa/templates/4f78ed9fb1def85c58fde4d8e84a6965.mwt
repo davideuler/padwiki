@@ -1,0 +1,53 @@
+{| class="infobox vcard" style="width:23em; margin:0 0 1em 1em; font-size:90%;"
+|-
+|class="fn org" colspan="2" align="center" style="font-size:larger;"| '''{{{name}}}'''
+|-
+{{#if:{{{image|}}}|
+{{!}}colspan="2" align="center"{{!}}
+[[Image:{{{image}}}{{#if:{{{size|}}}|{{!}}{{{size}}}|{{!}}200px}}{{#if:{{{caption|}}}|{{!}}{{{caption}}}}}]]<br/>{{{caption|}}}
+{{!}}-
+}}
+{{#if:{{{image_border|}}}|
+{{!}}colspan="2" align="center"{{!}}
+[[Image:{{{image_border}}}{{#if:{{{size|}}}|{{!}}{{{size}}}|{{!}}200px|border}}{{#if:{{{caption|}}}|{{!}}{{{caption}}}}}]]<br/>{{{caption|}}}
+{{!}}-
+}}
+{{#if:{{{map|}}}|
+{{!}}colspan="2" align="center"{{!}}
+[[Image:{{{map}}}{{#if:{{{msize|}}}|{{!}}{{{msize}}}|{{!}}250px|border}}{{#if:{{{caption|}}}|{{!}}{{{mcaption}}}}}]]<br/>{{{mcaption|}}}
+{{!}}-
+}}
+{{#if:{{{motto|}}}|
+<tr class="note"><th style="text-align:right; padding-right:0.75em;">[[Motto]]</th><td>''{{{motto}}}''</td></tr>
+}}{{#if:{{{formation|}}}|
+<tr class="note"><th style="text-align:right; padding-right:0.75em;">[[Date of establishment|Formation]]</th><td>{{{formation}}}</td></tr>
+}}{{#if:{{{extinction|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">Extinction</th><td>{{{extinction}}}</td></tr>
+}}{{#if:{{{type|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">Type</th><td>{{{type}}}</td></tr>
+}}{{#if:{{{headquarters|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">[[Headquarters]]</th><td>{{{headquarters}}}</td></tr>
+}}{{#if:{{{location|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">Location</th><td class="label">{{{location}}}</td></tr>
+}}{{#if:{{{membership|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">Membership</th><td>{{{membership}}}</td></tr>
+}}{{#if:{{{language|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">[[Official language|Official&nbsp;languages]]</th><td>{{{language}}}</td></tr>
+}}{{#if:{{{general|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">[[Secretary General|Secretary&nbsp;General]]</th><td>{{{general}}}</td></tr>
+}}{{#if:{{{leader_title|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">{{{leader_title}}}</th><td>{{{leader_name}}}</td></tr>
+}}{{#if:{{{key_people|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">Key people</th><td>{{{key_people}}}</td></tr>
+}}{{#if:{{{budget|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">[[Operating budget|Budget]]</th><td>{{{budget}}}</td></tr>
+}}{{#if:{{{num_staff|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">[[Employee|Staff]]</th><td>{{{num_staff}}}</td></tr>
+}}{{#if:{{{website|}}}|
+<tr><th style="text-align:right; padding-right:0.75em;">[[Website]]</th><td>{{{website}}}</td></tr>
+}}
+|}<noinclude>{{clear}}
+
+{{Template doc}}
+<!--Please add any interwiki links etc on the /doc page, not here - thanks!-->
+</noinclude>

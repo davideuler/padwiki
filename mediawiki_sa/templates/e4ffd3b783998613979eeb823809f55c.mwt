@@ -1,0 +1,9 @@
+<div class="infobox sisterproject">
+<div style="float: left;">[[Image:Wikibooks-logo-en.svg|50px|none|Wikibooks]]</div>
+<div style="margin-left: 60px;">[[wikibooks:{{{1}}}|Wikibooks {{{1}}}]] has more about this subject:
+<div style="margin-left: 10px;">'''''[[wikibooks:{{{1}}}:{{{2}}}|{{{2}}}]]'''''</div>
+</div>
+</div>
+<noinclude>
+[[Category:Sister project templates]]
+</noinclude>

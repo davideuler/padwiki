@@ -1,0 +1,11 @@
+<div class="messagebox cleanup metadata">
+{| style="background:none;width:100%"
+|width=60px|[[Image:Information.svg|40px]]
+|'''This article or section may require [[Wikipedia:How to structure the content|restructuring]] to meet Wikipedia's [[:Category:Wikipedia style guidelines|quality standards]].'''<br /><small>Please discuss this issue on the [[Talk:{{PAGENAME}}|talk page]]. {{#if:{{{1|{{{date|}}} }}}|This article has been tagged since '''{{{1|{{{date|}}} }}}'''.}}</small>
+|}
+</div><includeonly>{{#if:{{{1|{{{date|}}} }}}|{{{category|[[Category:Cleanup from {{{1|{{{date|}}} }}}]]}}}|{{{category|[[Category:Wikipedia cleanup]]}}}}}</includeonly><noinclude>
+
+[[Category:Cleanup templates|{{PAGENAME}}]]
+[[Category:Coherency templates|{{PAGENAME}}]]
+[[Category:Templates using ParserFunctions|{{PAGENAME}}]]
+</noinclude>

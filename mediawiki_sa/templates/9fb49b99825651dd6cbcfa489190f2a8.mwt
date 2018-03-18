@@ -1,0 +1,182 @@
+<includeonly>{| class="infobox" style="width: 20em; text-align: left; font-size: 90%" cellspacing="2"
+! style="font-size: 120%; background: {{{bgcolour|transparent}}};" align="center" colspan="2" | ''{{{show_name}}}''
+|-
+{{#if: {{{image|<noinclude>-</noinclude>}}} | 
+{{!}} align="center" colspan="2" {{!}} {{{image}}} {{#if: {{{caption|<noinclude>-</noinclude>}}} |<br/><small>{{{caption}}}}}</small>
+{{!}}-
+}}
+! Genre
+| {{{format}}}
+|-
+{{#if: {{{camera|<noinclude>-</noinclude>}}} |
+! Camera&nbsp;setup
+{{!}} {{{camera}}}
+{{!}}-
+}}
+{{#if: {{{picture_format|<noinclude>-</noinclude>}}} |
+! Picture&nbsp;format
+{{!}} {{{picture_format}}}
+{{!}}-
+}}
+{{#if:{{{audio_format|<noinclude>-</noinclude>}}}|
+! Audio&nbsp;format
+{{!}} {{{audio_format}}}
+{{!}}-
+}}
+|- 
+! Running&nbsp;time
+| {{{runtime}}}
+|-
+{{#if: {{{creator|<noinclude>-</noinclude>}}} |
+! Creator(s)
+{{!}} {{{creator}}}
+{{!}}-
+}}
+{{#if: {{{developer|<noinclude>-</noinclude>}}} |
+! Developer(s)
+{{!}} {{{developer}}}
+{{!}}-
+}}
+{{#if: {{{producer|<noinclude>-</noinclude>}}} |
+! Producer(s)
+{{!}} {{{producer}}}
+{{!}}-
+}}
+{{#if: {{{executive_producer|<noinclude>-</noinclude>}}} |
+! Executive producer(s)
+{{!}} {{{executive_producer}}}
+{{!}}-
+}}
+|- 
+! {{#if: {{{voices|}}}| Voices&nbsp;of | Starring}}
+| {{#if: {{{voices|}}}| {{{voices}}} | {{{starring}}}}}
+|-
+{{#if: {{{narrated|<noinclude>-</noinclude>}}} |
+! Narrated&nbsp;by
+{{!}} {{{narrated}}}
+{{!}}-
+}}
+{{#if: {{{opentheme|<noinclude>-</noinclude>}}} |
+! Opening&nbsp;theme
+{{!}} {{{opentheme}}}
+{{!}}-
+}}
+{{#if: {{{endtheme|<noinclude>-</noinclude>}}} |
+! Ending&nbsp;theme
+{{!}} {{{endtheme}}}
+{{!}}-
+}}
+|-
+! Country&nbsp;of&nbsp;origin
+| {{{country}}}
+|-
+{{#if: {{{language|<noinclude>-</noinclude>}}} |
+! Language(s)
+{{!}} {{{language}}}
+{{!}}-
+}}
+{{#if: {{{network|<noinclude>-</noinclude>}}} |
+! Original channel
+{{!}} {{{network}}}
+{{!}}-
+}}
+{{#if: {{{first_run|<noinclude>-</noinclude>}}} |
+! First&nbsp;shown&nbsp;on
+{{!}} {{{first_run}}}
+{{!}}-
+}}
+{{#if: {{{first_aired|<noinclude>-</noinclude>}}} |
+! Original run
+{{!}} {{{first_aired}}}&ndash;{{{last_aired|}}}
+{{!}}-
+}}
+{{#if: {{{num_episodes|<noinclude>-</noinclude>}}} |
+! No.&nbsp;of&nbsp;episodes
+{{!}} {{{num_episodes}}} {{#if: {{{list_episodes|<noinclude>-</noinclude>}}} | ([[{{{list_episodes}}}|List of episodes]])}}
+{{!}}-
+}}
+{{#if:{{{preceded_by|<noinclude>-</noinclude>}}} |
+! Preceded&nbsp;by
+{{!}} {{{preceded_by}}}
+{{!}}-
+}}
+{{#if:{{{followed_by|<noinclude>-</noinclude>}}} |
+! Followed&nbsp;by
+{{!}} {{{followed_by}}}
+{{!}}-
+}}
+{{#if: {{{website|<noinclude>-</noinclude>}}} |
+! colspan="2" align="center" {{!}} [{{{website}}} Official website]
+{{!}}-
+}}
+{{#if: {{{imdb_id|<noinclude>-</noinclude>}}} |
+! colspan="2" align="center" {{!}} [http://www.imdb.com/title/tt{{{imdb_id}}}/ IMDb profile]
+{{!}}-
+}}
+{{#if: {{{tv_com_id|<noinclude>-</noinclude>}}} |
+! colspan="2" align="center" {{!}} [http://www.tv.com/show/{{{tv_com_id}}}/summary.html TV.com summary]
+{{!}}-
+}}
+|}</includeonly><noinclude>
+
+== Syntax ==
+<div style="width:250px;"><pre>
+{{Infobox Television
+| show_name          = 
+| image              = 
+| caption            = 
+| format             = 
+| camera             = 
+| picture_format     = 
+| audio_format       = 
+| runtime            = 
+| creator            = 
+| developer          = 
+| producer           = 
+| executive_producer = 
+| starring           = 
+| narrated           = 
+| opentheme          = 
+| endtheme           = 
+| country            = 
+| language           = 
+| network            = 
+| first_aired        = 
+| last_aired         = 
+| num_episodes       = 
+| chronology         = 
+| preceded_by        = 
+| followed_by        = 
+| website            = 
+| imdb_id            = 
+| tv_com_id          = 
+}}
+</pre></div>
+
+== Required fields ==
+For extended information, see [[Template talk:Infobox Television#Usage|the talk page]].
+{| class="wikitable"
+! Parameter
+! Explanation
+|- 
+| '''show_name'''
+| The name of the show.
+|-
+| '''format'''
+| The format of the show (examples listed at [[television program]]).
+|-
+| '''runtime''' 
+| How long each episode runs; should not include commercials and should be approximated (i.e. 22-26 minutes approx. for most half-hour TV shows).
+|-
+| '''starring''' 
+| Who stars in the show. Separate multiple people with line breaks (<nowiki><br /></nowiki>). If animated, use '''voices'''.
+|-
+| '''country''' 
+| The country of origin for the show.
+|}
+[[Category:Templates using ParserFunctions|{{PAGENAME}}]]
+
+[[fa:الگو:جعبه تلویزیون]]
+[[ja:Template:テレビ番組インフォメーション]]
+[[th:แม่แบบ:กล่องข้อมูล รายการโทรทัศน์]]
+</noinclude>

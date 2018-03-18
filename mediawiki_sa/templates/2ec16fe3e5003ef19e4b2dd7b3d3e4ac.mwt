@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Kyrgyzstan
+| shortname alias = Kyrgyzstan
+| flag alias      = Flag of Kyrgyzstan.svg
+| flag alias-SSR  = Flag of Kyrgyz SSR.svg
+| countryname = {{{countryname|Kyrgyzstan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Kyrgyzstan|SSR}}</nowiki> = {{flag|Kyrgyzstan|SSR}}
+</noinclude>

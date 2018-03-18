@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Netherlands
+| shortname alias = Netherlands
+| flag alias      = Flag of the Netherlands.svg
+| flag alias-pri  = Prinsenvlag.svg
+| link alias-naval = Royal Netherlands Navy
+| countryname = {{{countryname|Netherlands<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Netherlands|pri}}</nowiki> = {{flag|Netherlands|pri}}
+
+[[af:Sjabloon:Landdata Nederland]]
+[[sl:Predloga:Podatki države Nizozemska]]
+</noinclude>

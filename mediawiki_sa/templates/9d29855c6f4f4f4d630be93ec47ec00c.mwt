@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Spain
+| shortname alias = Spain
+| flag alias      = Flag of Spain.svg
+| flag alias-1506 = Flag of New Spain.svg
+| flag alias-1785 = War Ensign Spain 1785-1931.gif
+| flag alias-1931 = Flag of the Second Spanish Republic.svg
+| flag alias-1939 = Flag of the Spain Under Franco.png
+| flag alias-1977 = Bandera de España(1977-1981).gif
+| flag alias-civil = Flag of Spain (civil variant).svg
+| link alias-naval = Spanish Navy
+| countryname = {{{countryname|Spain<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Spain|1506}}</nowiki> = {{flag|Spain|1506}}
+* <nowiki>{{flag|Spain|1785}}</nowiki> = {{flag|Spain|1785}}
+* <nowiki>{{flag|Spain|1931}}</nowiki> = {{flag|Spain|1931}}
+* <nowiki>{{flag|Spain|1939}}</nowiki> = {{flag|Spain|1939}}
+* <nowiki>{{flag|Spain|1977}}</nowiki> = {{flag|Spain|1977}}
+* <nowiki>{{flag|Spain|civil}}</nowiki> = {{flag|Spain|civil}}
+
+[[sl:Predloga:Podatki države Španija]]
+</noinclude>

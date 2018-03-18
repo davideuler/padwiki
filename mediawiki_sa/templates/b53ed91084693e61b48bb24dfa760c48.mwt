@@ -1,0 +1,39 @@
+{| border="1" width="275" cellspacing="0" cellpadding="0" style="background: #DEFFAD; border: 1px solid #DEFFAD; float: right; margin: 0em 0em 0em 0.5em;"
+! style="background: #DEFFAD; border: 1px solid #C6C9FF;" | {{{fullstatename}}}
+|-
+|
+{| border="0" width="100%" cellspacing="0" cellpadding="4"
+|- align="center" 
+| [[Image:{{{image_flag}}}|125px|Flag]]
+|}
+|-
+! style="background: #DEFFAD; border: 1px solid #C6C9FF;" | [[State]] [[information]]
+|-
+|
+{| border="0" width="100%" cellspacing="0" cellpadding="4" style="background: #f3fff3;"
+|-
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|[[Capital (city)|Capital]]:
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|{{{capital}}}
+|-
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|[[Area]]:
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|{{{area}}}
+|-
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|[[Population]]:
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|
+* Total: {{{populationtotal}}}
+* Density: {{{populationdensity}}} per [[Square kilometre|km&sup2;]]
+|-
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|[[Time zone]]:
+| style="border: 1px solid #DEFFAD; white-space: nowrap;"|[[UTC]] {{{utcoffset}}}
+|}
+|-
+! style="background: #DEFFAD; border: 1px solid #C6C9FF;" | [[Map]]
+{| border="0" width="100%" cellspacing="0" cellpadding="4" style="background: #fff;"
+|- align="center" 
+| [[Image:{{{image_map}}}|125px|Map]]
+|}
+
+|}
+<noinclude>
+[[Category:Navigational templates by region]]
+</noinclude>

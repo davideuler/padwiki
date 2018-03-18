@@ -1,0 +1,6 @@
+{| class="messagebox cleanup" id="unsimple"
+| [[Image:Information icon.svg|left|45px|This page or section may not use Simple English]] 
+| align=center | '''Somebody thinks this {{{2|article or section}}}  does not use [[Wikipedia:How to write Simple English articles|Simple English]].<br />{{#if:{{{1|}}}|The reason given is: ''{{{1}}}}}'''''
+
+<small>This only means that the article or section may not be easy for everybody to read.  Editors can help Wikipedia by making this page or section more simple.  For tips on making it better, read "[[Wikipedia:How to write Simple English articles|How to write Simple English articles]]".</small>
+|}<includeonly>[[Category:Unsimple pages]]</includeonly><noinclude>[[Category:Page quality and condition templates]]</noinclude>

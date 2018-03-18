@@ -1,0 +1,8 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = NATO
+| shortname alias = NATO
+| flag alias      = Flag of NATO.svg
+| countryname = {{{countryname|NATO<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

@@ -1,0 +1,8 @@
+* [http://kvaleberg.com/extensions/mapsources/index.php?params={{{1}}}_N_{{{2}}}_E_type:city_region:US Maps and pictures taken from above]
+** Street map from [http://maps.google.com/maps?ll={{{1}}},{{{2}}}&spn=0.11,0.18 Google Local] or [http://maps.yahoo.com/maps_result?lat={{{1}}}&lon={{{2}}}&mag=4 Yahoo! Maps]
+** Topographic (shows how the land looks) map from [http://topozone.com/map.asp?lat={{{1}}}&lon={{{2}}}&s=200&size=m&layer=DRG100&datum=nad83 TopoZone]
+** Picture from above or topographic map from [http://terraserver-usa.com/image.aspx?s=14&lon={{{2}}}&lat={{{1}}}&w=2 TerraServer-USA]
+** Satellite image (picture from far above) from [http://maps.google.com/maps?ll={{{1}}},{{{2}}}&spn=0.11,0.18&t=h Google Local] or [http://virtualearth.msn.com/default.aspx?cp={{{1}}}|{{{2}}}&style=h&lvl=13&v=1 Microsoft Virtual Earth]
+<noinclude>
+[[Category:External link templates]]
+</noinclude>

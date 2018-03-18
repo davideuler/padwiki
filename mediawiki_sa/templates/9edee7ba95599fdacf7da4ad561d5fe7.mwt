@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Serbia
+| shortname alias = Serbia
+| flag alias      = Flag of Serbia.svg
+| flag alias-1882 = Flaf of Serbia (1882-1918).png
+| flag alias-1941 = National flag of Serbia 2004-2006.svg
+| flag alias-1945 = Flag of SR Serbia.svg
+| flag alias-1991 = Flag of Serbia 1991-2004.svg
+| countryname = {{{countryname|Serbia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Serbia|1882}}</nowiki> = {{flag|Serbia|1882}}
+* <nowiki>{{flag|Serbia|1941}}</nowiki> = {{flag|Serbia|1941}}
+* <nowiki>{{flag|Serbia|1945}}</nowiki> = {{flag|Serbia|1945}}
+* <nowiki>{{flag|Serbia|1991}}</nowiki> = {{flag|Serbia|1991}}
+</noinclude>

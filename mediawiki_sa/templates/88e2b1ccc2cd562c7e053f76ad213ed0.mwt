@@ -1,0 +1,92 @@
+<!--This template employs some extremely complicated and esoteric features of template syntax. Please do not attempt to alter it unless you are certain that you understand the setup and are prepared to repair any consequent collateral damage if the results are unexpected. Any experiments should be conducted in the template sandbox or your user space.
+-->{| class="infobox geography" 
+|+style="font-size: larger; padding: 0 0 .1em 0;"| '''{{{Fullname}}}'''
+| class="maptable" align="center" colspan="2" style="padding: 0.4em 0.8em 0.4em 0.8em;" |
+{| style="text-align:center; background: none;"
+| style="width: 130px; vertical-align: middle;" | {{border|[[image:{{{Flag}}}|125px|Flag of {{{Name}}}]]}}
+| style="width: 130px; vertical-align: middle;" | [[Image:{{{Seal}}}|100px|State seal of {{{Name}}}]]
+|- style="font-size: smaller;"
+| {{{Flaglink|[[Flag of {{{Name}}}]]}}} 
+| {{{Seallink|[[Seal of {{{Name}}}]]}}}
+|- style="font-size: smaller;"
+| colspan="2" | ''[[List of U.S. state nicknames|Nickname(s)]]: {{{Nickname}}}''
+|-{{#if: {{{Motto|}}}| style="font-size: smaller;" 
+{{!}} colspan="2" {{!}}''[[List of U.S. state mottos|Motto(s)]]: {{{Motto}}}'' }}
+|- class="maptable"
+| colspan="2" | [[Image:{{{Map}}}|center|Map of the United States with {{{Name}}} highlighted]]
+|}
+|-
+{{#if:{{{OfficialLang|}}}|
+{{!}} '''[[Languages in the United States|Official language(s)]]'''
+{{!}} {{{OfficialLang}}}|}}
+|-class="mergedtoprow"
+| '''[[List of capitals in the United States|Capital]]''' || {{{Capital}}}
+|-class="mergedrow"
+| '''[[List of U.S. states' largest cities|Largest city]]''' || {{{LargestCity}}}
+|-class="mergedrow"
+{{#if: {{{LargestMetro|}}}|
+{{!}} '''Largest [[United States metropolitan area|metro area]]''' {{!}}{{!}} {{{LargestMetro}}} }}
+|- class="mergedtoprow"  
+| '''[[Area]]'''<sup>&nbsp;</sup> || [[List of U.S. states by area|Ranked {{{AreaRank}}}]]
+|-class="mergedrow"
+| &nbsp;- Total  || {{{TotalAreaUS}}}&nbsp;sq&nbsp;mi <br/>({{{TotalArea}}} km²)
+|-class="mergedrow"
+| &nbsp;- Width  || {{{WidthUS}}}&nbsp;miles&nbsp;({{{Width}}} km)
+|-class="mergedrow" 
+| &nbsp;- Length  || {{{LengthUS}}}&nbsp;miles&nbsp;({{{Length}}} km)
+|-class="mergedrow"
+| &nbsp;- % water || {{{PCWater}}}
+|-class="mergedrow"
+| &nbsp;- Latitude || {{{Latitude}}}
+|-class="mergedbottomrow"
+| style="border-top: 0;" | &nbsp;- Longitude || {{{Longitude}}}
+|- class="mergedtoprow" 
+| '''[[Population]]'''<sup>&nbsp;</sup> || [[List of U.S. states by population|Ranked {{{PopRank}}}]]
+|-class="mergedrow"
+| &nbsp;- Total ([[United States Census, 2000|2000]]) || {{{2000Pop}}}
+|-{{#if:{{{MedianHouseholdIncome|}}}|class="mergedrow"|class="mergedbottomrow" }}
+| &nbsp;- [[List of U.S. states by population density|Density]] || {{{2000DensityUS}}}/sq&nbsp;mi&nbsp;<br />{{{2000Density}}}/km² ({{{DensityRank}}}) 
+|-{{#if:{{{MedianHouseholdIncome|}}}|class="mergedbottomrow"
+{{!}} &nbsp;- [[Household income in the United States#Income by state|Median income]]<sup>&nbsp;</sup> {{!}}{{!}} {{{MedianHouseholdIncome}}} ({{{IncomeRank}}}) }}
+|-class="mergedtoprow"
+| '''[[List of U.S. states by elevation|Elevation]]''' || &nbsp;
+|-class="mergedrow"
+| &nbsp;- [[List of U.S. states by elevation#Listed by highest point|Highest point]]
+| {{{HighestPoint}}}<br/>{{{HighestElevUS}}}&nbsp;ft&nbsp; ({{{HighestElev}}} m)
+|-class="mergedrow"
+| &nbsp;- [[List of U.S. states by elevation#Listed by mean elevation|Mean]] ||  {{{MeanElevUS}}}&nbsp;ft&nbsp; ({{{MeanElev}}} m)
+|-class="mergedbottomrow"
+| &nbsp;- [[List of U.S. states by elevation#Listed by lowest point|Lowest point]] || {{#if: {{{LowestPoint|}}}  
+ |{{{LowestPoint}}}<br/>}} {{{LowestElevUS}}}&nbsp;ft&nbsp; ({{{LowestElev}}} m)
+|-
+| '''[[List of U.S. states by date of statehood|Admission to Union]]'''<sup>&nbsp;</sup>
+| {{{AdmittanceDate}}} ({{{AdmittanceOrder}}})
+|-class="mergedtoprow"
+| '''[[Governor of {{{Name}}}|Governor]]''' || {{{Governor}}}
+|-class="mergedbottomrow"
+|  '''[[List of United States Senators from {{{Name}}}|U.S. Senators]] || {{{Senators}}}
+|- class="mergedtoprow"
+{{#if: {{{TimeZone2|}}}|
+{{!}} '''[[List of U.S. states by time zone|Time zones]]''' {{!}}{{!}} &nbsp;
+{{!}}- class="mergedrow"
+{{!}} &nbsp;- {{{TZ1Where}}} {{!}}{{!}} {{{TimeZone}}}
+{{!}}- class="mergedrow"
+{{!}} &nbsp;- {{{TZ2Where}}} {{!}}{{!}} {{{TimeZone2}}} |
+{{!}} '''[[List of U.S. states by time zone|Time zone]]'''
+{{!}} {{{TimeZone}}} }}
+|-
+| '''Abbreviations'''
+| [[U.S. postal abbreviations|{{{PostalAbbreviation| }}}]] [[List of U.S. states by traditional abbreviation|{{{TradAbbreviation| }}}]] [[ISO 3166-2|{{{ISOCode| }}}]]
+|-
+| '''Web site'''
+| [http://{{{Website}}}/ {{{Website}}}]
+|-{{#if: {{{Footnotes|}}}| style="font-size: smaller;" 
+{{!}} colspan="2" {{!}} {{{Footnotes}}} }}
+|}<noinclude>
+[[Category:Infobox templates|U.S. state]]
+[[en:Template:US state]]
+[[ko:Template:미국 주 정보]]
+[[ro:Format:Infobox_stat_SUA]]
+[[ru:Шаблон:Штат США]]
+[[vi:Tiêu bản:Tóm tắt về tiểu bang Mỹ]]
+</noinclude>

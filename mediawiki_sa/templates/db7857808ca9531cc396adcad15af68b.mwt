@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Morocco
+| shortname alias = Morocco
+| flag alias      = Flag of Morocco.svg
+| flag alias-1913 = Flag of Spanish Morocco.svg
+| flag alias-naval = Naval Ensign of Morocco.svg
+| link alias-naval = Royal Moroccan Navy
+| countryname = {{{countryname|Morocco<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Morocco|1913}}</nowiki> = {{flag|Morocco|1913}}
+* <nowiki>{{flag|Morocco|naval}}</nowiki> = {{flag|Morocco|naval}}
+</noinclude>

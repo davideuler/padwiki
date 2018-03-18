@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Iceland
+| shortname alias = Iceland
+| flag alias      = Flag of Iceland.svg
+| flag alias-old  = Hvítbláinn.svg
+| flag alias-naval = Icstateflag.svg
+| link alias-naval = Icelandic Coast Guard
+| countryname = {{{countryname|Iceland<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Iceland|old}}</nowiki> = {{flag|Iceland|old}}
+*<nowiki>{{flag|Iceland|naval}}</nowiki> = {{flag|Iceland|naval}}
+
+[[sl:Predloga:Podatki države Islandija]]
+</noinclude>

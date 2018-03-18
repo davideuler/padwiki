@@ -1,0 +1,10 @@
+<div style="float:left;border:solid #99b3ff 1px;margin:1px;">
+{| cellspacing="0" style="width:260px;background:#e0e8ff;"
+| style="width:45px;height:45px;background:#99b3ff;text-align:center;font-size:14pt;" | '''{{{1}}}'''
+| style="font-size:8pt;padding:4pt;line-height:1.25em;text-align:center;" | {{{3}}}<hr>These users speak '''[[{{{2}}} language|{{{2}}}]]'''.
+|}</div>
+
+<br clear="all">
+<noinclude>
+[[Category:User language templates]]
+</noinclude>

@@ -1,0 +1,169 @@
+{| class="infobox" width="280" style="font-size: 90%;"
+!style="color: #000000; background-color: #C1D8FF; font-size: 120%" align="center" colspan="3" |'''{{{name}}}'''
+|-
+{{#if: {{{title|<noinclude>-</noinclude>}}} |
+{{!}} colspan="3" align="center" {{!}} ''{{{title}}}''
+{{!}}-
+}}
+{{#if: {{{image|<noinclude>-</noinclude>}}} |
+{{!}} colspan="3" align="center" {{!}} {{{image}}}
+{{!}}-
+}}
+{{#if: {{{caption|<noinclude>-</noinclude>}}} |
+{{!}} colspan="3" align="center" {{!}} {{{caption}}}
+{{!}}-
+}}
+{{#if: {{{reign|<noinclude>-</noinclude>}}} |
+{{!}}'''Reign'''
+{{!}} colspan="2" {{!}} {{{reign}}}
+{{!}}-
+}}
+{{#if: {{{coronation|<noinclude>-</noinclude>}}} |
+{{!}}'''Coronation'''
+{{!}} colspan="2" {{!}} {{{coronation}}}
+{{!}}-
+}}
+{{#if: {{{investiture|<noinclude>-</noinclude>}}} |
+{{!}}'''Investiture'''
+{{!}} colspan="2" {{!}} {{{investiture}}}
+{{!}}-
+}}
+{{#if: {{{full name|<noinclude>-</noinclude>}}} |
+{{!}}'''Full&nbsp;name'''
+{{!}} colspan="2" {{!}} {{{full name}}}
+{{!}}-
+}}
+{{#if: {{{othertitles|<noinclude>-</noinclude>}}} |
+{{!}}'''Titles'''
+{{!}} colspan="2" {{!}} {{{othertitles}}}
+{{!}}-
+}}
+{{#if: {{{baptism|<noinclude>-</noinclude>}}} |
+{{!}}'''Baptism'''
+{{!}} colspan="2" {{!}} {{{baptism}}}
+{{!}}-
+}}
+{{#if: {{{date of birth|<noinclude>-</noinclude>}}} |
+{{!}}'''Born'''
+{{!}} colspan="2" {{!}} {{{date of birth}}}
+{{!}}-
+}}
+{{#if: {{{place of birth|<noinclude>-</noinclude>}}} |
+{{!}}
+{{!}} colspan="2" {{!}} {{{place of birth}}}
+{{!}}-
+}}
+{{#if: {{{date of death|<noinclude>-</noinclude>}}} |
+{{!}}'''Died'''
+{{!}} colspan="2" {{!}} {{{date of death}}}
+{{!}}-
+}}
+{{#if: {{{place of death|<noinclude>-</noinclude>}}} |
+{{!}}
+{{!}} colspan="2" {{!}} {{{place of death}}}
+{{!}}-
+}}
+{{#if: {{{place of burial|<noinclude>-</noinclude>}}} |
+{{!}}'''Buried'''
+{{!}} colspan="2" {{!}} {{{place of burial}}}{{#if: {{{date of burial|<noinclude>-</noinclude>}}}{{!}}, {{{date of burial}}}}}
+{{!}}-
+}}
+{{#if: {{{predecessor|<noinclude>-</noinclude>}}} |
+{{!}}'''Predecessor'''
+{{!}} colspan="2" {{!}} {{{predecessor}}}
+{{!}}-
+}}
+{{#if: {{{heir|<noinclude>-</noinclude>}}} |
+{{!}}'''{{{suc-type|}}}'''
+{{!}} colspan="2" {{!}} {{{heir}}}
+{{!}}-
+}}
+{{#if: {{{successor|<noinclude>-</noinclude>}}} |
+{{!}}'''Successor'''
+{{!}} colspan="2" {{!}} {{{successor}}}
+{{!}}-
+}}
+{{#if: {{{queen|<noinclude>-</noinclude>}}} |
+{{!}}'''Consort'''
+{{!}} colspan="2" {{!}} {{{queen}}}
+{{!}}-
+}}
+{{#if: {{{consort|<noinclude>-</noinclude>}}} |
+{{!}}'''Consort'''
+{{!}} colspan="2" {{!}} {{{consort}}}
+{{!}}-
+}}
+{{#if: {{{consortreign|<noinclude>-</noinclude>}}} |
+{{!}}'''Consort'''
+{{!}} colspan="2" {{!}} {{{consortreign}}}
+{{!}}-
+}}
+{{#if: {{{consortto|<noinclude>-</noinclude>}}} |
+{{!}}'''Consort to'''
+{{!}} colspan="2" {{!}} {{{consortto}}}
+{{!}}-
+}}
+{{#if: {{{spouse|<noinclude>-</noinclude>}}} |
+{{!}}'''Consort to'''
+{{!}} colspan="2" {{!}} {{{spouse}}}
+{{!}}-
+}}
+{{#if: {{{issue|<noinclude>-</noinclude>}}} |
+{{!}}'''Children'''
+{{!}} colspan="2" {{!}} {{{issue}}}
+{{!}}-
+}}
+{{#if: {{{royal house|<noinclude>-</noinclude>}}} |
+{{!}}'''Royal&nbsp;House'''
+{{!}} colspan="2" {{!}} {{{royal house}}}
+{{!}}-
+}}
+{{#if: {{{royal anthem|<noinclude>-</noinclude>}}} |
+{{!}}'''Royal&nbsp;anthem'''
+{{!}} colspan="2" {{!}} {{{royal anthem}}}
+{{!}}-
+}}
+{{#if: {{{father|<noinclude>-</noinclude>}}} |
+{{!}}'''Father'''
+{{!}} colspan="2" {{!}} {{{father}}}
+{{!}}-
+}}
+{{#if: {{{mother|<noinclude>-</noinclude>}}} |
+{{!}}'''Mother'''
+{{!}} colspan="2" {{!}} {{{mother}}}
+{{!}}-
+}}
+|}<noinclude>
+{{-}}
+== Usage ==
+<pre>
+{{Infobox Monarch
+| name            =Name (in most common usage)
+| title           =King/Queen/etc of X
+| image           =&#91;&#91;Image:X.jpg&#124;200px&#124;caption&#93;&#93;
+| caption         =Image caption
+| reign           =&#91;&#91;D Month&#93;&#93;, &#91;&#91;YYYY&#93;&#93; – &#91;&#91;D Month&#93;&#93;, &#91;&#91;YYYY&#93;&#93;
+| coronation      =&#91;&#91;D Month&#93;&#93;, &#91;&#91;YYYY&#93;&#93;
+| othertitles     =Other titles & Wikilink<br />Other titles & Wikilink, etc.
+| full name       =Full legal non-titular name
+| predecessor     =Name & Wikilink
+| successor       =Name & Wikilink
+| suc-type        =If you wish to use the heir field, then the type of heir is required, (Heir-Apparent/Heir-Presumptive)
+| heir            =Name & Wikilink
+| queen           =Name & Wikilink<br />Name & Wikilink, etc.
+| consort         =Name & Wikilink<br />Name & Wikilink, etc.
+| spouse          =Name & Wikilink<br />Name & Wikilink, etc.
+| issue           =Name & Wikilink<br />Name & Wikilink, etc.
+| royal house     =House of X & Wikilink
+| royal anthem    =Name & Wikilink
+| father          =Name & Wikilink
+| mother          =Name & Wikilink
+| date of birth   =D Month, YYYY
+| place of birth  =Name & Wikilink
+| date of death   =D Month, YYYY
+| place of death  =Name & Wikilink
+| date of burial  =D Month, YYYY
+| place of burial =Name & Wikilink
+|}}
+</pre>
+[[Category:People infobox templates|Monarch]]</noinclude>

@@ -1,0 +1,12 @@
+<div style="float:left;border:solid #99B3FF 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#E0E8FF"><tr>
+<td style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt">'''pt-1'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Este usuário pode contribuir com um nível '''[[:Category:User pt-1|básico]]''' de '''[[:Category:User pt|português]]'''.</td>
+</tr></table></div>
+<includeonly>
+[[Category:User pt|{{PAGENAME}}]]
+[[Category:User pt-1|{{PAGENAME}}]]
+</includeonly>
+<noinclude>
+[[Category:User pt|*]]
+</noinclude>

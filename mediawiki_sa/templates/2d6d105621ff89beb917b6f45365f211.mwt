@@ -1,0 +1,164 @@
+<includeonly>{| style="position:relative; margin: 0 0 0.5em 1em; border-collapse: collapse; float:right; clear:right; width:200px;" border="1" cellpadding="0"
+|- style="text-align:center;"
+! style="background: {{{color}}};" |<div style="float:right; font-size:70%; padding:0 .5em 0 2em">[[Wikipedia:How to read a taxobox|?]]</div>'''{{{name}}}'''<!--
+-->{{qif|test={{{status|}}}|then=<br><div style="text-align:center">{{switch
+  |{{{status}}}
+  |case: SE=<small>'''[[Conservation status]]: Secure'''</small>
+  |case: se=<small>'''[[Conservation status]]: Secure'''</small>
+  |case: SECURE=<small>'''[[Conservation status]]: Secure'''</small>
+  |case: Secure=<small>'''[[Conservation status]]: Secure'''</small>
+  |case: secure=<small>'''[[Conservation status]]: Secure'''</small>
+  |case: DOM=<small>'''[[Conservation status]]: Domesticated'''</small>[[Category:Domesticated animals]]
+  |case: dom=<small>'''[[Conservation status]]: Domesticated'''</small>[[Category:Domesticated animals]]
+  |case: DOMESTICATED=<small>'''[[Conservation status]]: Domesticated'''</small>[[Category:Domesticated animals]]
+  |case: Domesticated=<small>'''[[Conservation status]]: Domesticated'''</small>[[Category:Domesticated animals]]
+  |case: domesticated=<small>'''[[Conservation status]]: Domesticated'''</small>[[Category:Domesticated animals]]
+  |case: dd=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Data&nbsp;deficient'''</small>
+  |case: data=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Data&nbsp;deficient'''</small>
+  |case: DD=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Data&nbsp;deficient'''</small>
+  |case: DATA=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Data&nbsp;deficient'''</small>
+  |case: LR=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk'''</small>
+  |case: lr=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk'''</small>
+  |case: LC=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: lc=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: LR/LC=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: LR/lc=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: lr/lc=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: LRLC=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: LRlc=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: lrlc=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Lower&nbsp;risk&nbsp;(lc)'''</small>
+  |case: LR/NT=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: LR/nt=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: lr/nt=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: LRNT=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: LRnt=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: lrnt=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: NT=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: nt=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(nt)'''</small>
+  |case: LR/CD=<small>'''[[Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(cd)'''</small>
+  |case: LR/cd=<small>'''[[Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(cd)'''</small>
+  |case: lr/cd=<small>'''[[Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(cd)'''</small>
+  |case: LRCD=<small>'''[[Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(cd)'''</small>
+  |case: LRcd=<small>'''[[Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(cd)'''</small>
+  |case: lrcd=<small>'''[[Conservation status|Conservation&nbsp;status:]]&nbsp;Lower&nbsp;risk&nbsp;(cd)'''</small>
+  |case: VU=<small>'''[[Conservation status]]:  Vulnerable'''</small>
+  |case: vu=<small>'''[[Conservation status]]:  Vulnerable'''</small>
+  |case: EN=<small>'''[[Conservation status]]: Endangered'''</small>[[Category:Endangered species]]
+  |case: en=<small>'''[[Conservation status]]: Endangered'''</small>[[Category:Endangered species]]
+  |case: CR=<small>'''[[Conservation status]]: Critical'''</small>[[Category:Critically endangered species]]
+  |case: cr=<small>'''[[Conservation status]]: Critical'''</small>[[Category:Critically endangered species]]
+  |case: EW=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct&nbsp;in&nbsp;the&nbsp;wild'''</small>
+  |case: ew=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct&nbsp;in&nbsp;the&nbsp;wild'''</small>
+  |case: EX=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct{{qif|test={{{extinct|}}}|then=&nbsp;({{{extinct}}}) }}'''</small>
+  |case: ex=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct{{qif|test={{{extinct|}}}|then=&nbsp;({{{extinct}}}) }}'''</small>
+  |case: EXTINCT=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct{{qif|test={{{extinct|}}}|then=&nbsp;({{{extinct}}}) }}'''</small>
+  |case: Extinct=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct{{qif|test={{{extinct|}}}|then=&nbsp;({{{extinct}}}) }}'''</small>
+  |case: extinct=<small>'''[[Wikipedia:Conservation status|Conservation&nbsp;status:]] Extinct{{qif|test={{{extinct|}}}|then=&nbsp;({{{extinct}}}) }}'''</small>
+  |case: FOSSIL=<small>'''[[Conservation status]]: Fossil'''</small>
+  |case: Fossil=<small>'''[[Conservation status]]: Fossil'''</small>
+  |case: fossil=<small>'''[[Conservation status]]: Fossil'''</small>
+  |case: PRE=<small>'''[[Conservation status]]: Prehistoric'''</small>
+  |case: pre=<small>'''[[Conservation status]]: Prehistoric'''</small>
+  |case: text=<small>'''[[Conservation status|Conservation&nbsp;status:]] See&nbsp;text'''</small>
+  |case: Text=<small>'''[[Conservation status|Conservation&nbsp;status:]] See&nbsp;text'''</small>
+  |case: TEXT=<small>'''[[Conservation status|Conservation&nbsp;status:]] See&nbsp;text'''</small>
+  |default={{{status}}}
+}}</div>}}<!--
+-->{{subtext|if=|test={{{fossil_range|}}}|contents=Fossil range: {{{fossil_range|}}} }}
+|- style="text-align:center;" 
+| {{qif|test={{{image|}}}|then=[[image:{{{image}}}|{{{image_width|200px}}}|{{{image_caption|}}}]]<br><small><div style="text-align:center">{{{image_caption|}}}</div></small>}}<!--
+-->{{qif|test={{{image2|}}}|then=[[image:{{{image2}}}|{{{image2_width|200px}}}|{{{image2_caption|}}}]]<br><small><div style="text-align:center">{{{image2_caption|}}}</div></small>}}
+|- style="text-align:center;"
+! style="background: {{{color}}};" | '''[[Scientific classification]]'''
+|- style="text-align:center;"
+|
+{| style="margin:0 auto; text-align:left; background:none;" cellpadding="2"
+{{row|if=|test={{{domain|}}}|label=Domain:|contents={{{domain|}}}<br><small>{{{domain_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{superregnum|}}}|label=[[Superkingdom]]:|contents={{{superregnum|}}}<br><small>{{{superregnum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{regnum|}}}|label=[[Kingdom (biology)|Kingdom]]:|contents={{{regnum|}}}<br><small>{{{regnum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subregnum|}}}|label=[[Subkingdom]]:|contents={{{subregnum|}}}<br><small>{{{subregnum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{unranked_phylum|}}}|label=(unranked)|contents={{{unranked_phylum|}}}<br><small>{{{unranked_phylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{superdivisio|}}}|label=[[Superdivision]]:|contents={{{superdivisio|}}}<br><small>{{{superdivisio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{superphylum|}}}|label=[[Superphylum]]:|contents={{{superphylum|}}}<br><small>{{{superphylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{divisio|}}}|label=[[Cell division|Division]]:|contents={{{divisio|}}}<br><small>{{{divisio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{phylum|}}}|label=[[Phylum]]:|contents={{{phylum|}}}<br><small>{{{phylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subdivisio|}}}|label=[[Subdivision (biology)|Subdivision]]:|contents={{{subdivisio|}}}<br><small>{{{subdivisio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subphylum|}}}|label=[[Subphylum]]:|contents={{{subphylum|}}}<br><small>{{{subphylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{infraphylum|}}}|label=[[Infraphylum]]:|contents={{{infraphylum|}}}<br><small>{{{infraphylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{microphylum|}}}|label=[[Microphylum]]:|contents={{{microphylum|}}}<br><small>{{{microphylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{nanophylum|}}}|label=[[Nanophylum]]:|contents={{{nanophylum|}}}<br><small>{{{nanophylum_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{unranked_classis|}}}|label=(unranked)|contents={{{unranked_classis|}}}<br><small>{{{unranked_classis_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{superclassis|}}}|label=[[Superclass]]:|contents={{{superclassis|}}}<br><small>{{{superclassis_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{classis|}}}|label=[[Class (biology)|Class]]:|contents={{{classis|}}}<br><small>{{{classis_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subclassis|}}}|label=[[Subclass (biology)|Subclass]]:|contents={{{subclassis|}}}<br><small>{{{subclassis_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{infraclassis|}}}|label=[[Infraclass]]:|contents={{{infraclassis|}}}<br><small>{{{infraclassis_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{unranked_ordo|}}}|label=(unranked)|contents={{{unranked_ordo|}}}<br><small>{{{unranked_ordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{magnordo|}}}|label=[[Magnorder]]:|contents={{{magnordo|}}}<br><small>{{{magnordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{superordo|}}}|label=[[Superorder]]:|contents={{{superordo|}}}<br><small>{{{superordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{ordo|}}}|label=[[Order (biology)|Order]]:|contents={{{ordo|}}}<br><small>{{{ordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subordo|}}}|label=[[Suborder]]:|contents={{{subordo|}}}<br><small>{{{subordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{infraordo|}}}|label=[[Infraorder]]:|contents={{{infraordo|}}}<br><small>{{{infraordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{parvordo|}}}|label=[[Parvorder]]:|contents={{{parvordo|}}}<br><small>{{{parvordo_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{zoodivisio|}}}|label=[[Cell division|Division]]:|contents={{{zoodivisio|}}}<br><small>{{{zoodivisio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{zoosectio|}}}|label=[[Section (biology)|Section]]:|contents={{{zoosectio|}}}<br><small>{{{zoosectio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{zoosubsectio|}}}|label=[[Subsection (biology)|Subsection]]:|contents={{{zoosubsectio|}}}<br><small>{{{zoosubsectio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{unranked_familia|}}}|label=(unranked)|contents={{{unranked_familia|}}}<br><small>{{{unranked_familia_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{superfamilia|}}}|label=[[Superfamily]]:|contents={{{superfamilia|}}}<br><small>{{{superfamilia_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{familia|}}}|label=[[Family (biology)|Family]]:|contents={{{familia|}}}<br><small>{{{familia_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subfamilia|}}}|label=[[Subfamily]]:|contents={{{subfamilia|}}}<br><small>{{{subfamilia_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{supertribus|}}}|label=[[Supertribe]]:|contents={{{supertribus|}}}<br><small>{{{supertribus_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{tribus|}}}|label=[[Tribe (biology)|Tribe]]:|contents={{{tribus|}}}<br><small>{{{tribus_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subtribus|}}}|label=[[Subtribe (biology)|Subtribe]]:|contents={{{subtribus|}}}<br><small>{{{subtribus_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{alliance|}}}|label=[[Alliance (biology)|Alliance]]:|contents={{{alliance|}}}<br><small>{{{alliance_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{genus|}}}|label=[[Genus]]:|contents={{{genus|}}}<br><small>{{{genus_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{genus2|}}}|label=[[Genus]]:|contents={{{genus2|}}}<br><small>{{{genus2_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subgenus|}}}|label=[[Subgenus]]:|contents={{{subgenus|}}}<br><small>{{{subgenus_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{sectio|}}}|label=[[Section (biology)|Section]]:|contents={{{sectio|}}}<br><small>{{{sectio_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{series|}}}|label=[[Series (biology)|Series]]:|contents={{{series|}}}<br><small>{{{series_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{species_group|}}}|label=Species group:|contents={{{species_group|}}}<br><small>{{{species_group_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{species_subgroup|}}}|label=[[Species]] subgroup:|contents={{{species_subgroup|}}}<br><small>{{{species_subgroup_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{species_complex|}}}|label=[[Species]] complex:|contents={{{species_complex|}}}<br><small>{{{species_complex_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{species|}}}|label=[[Species]]:|contents={{{species|}}}<br><small>{{{species_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{subspecies|}}}|label=[[Subspecies]]:|contents={{{subspecies|}}}<br><small>{{{subspecies_authority|}}}</small>}}
+|}<!--
+-->{{section|if=|test={{{diversity|}}}|color={{{color}}}|contents=[[{{{diversity_link}}}|Diversity]]}}
+|-
+| style="text-align:center;" | {{{diversity|}}}<!--
+-->{{section|if=|test={{{binomial|}}}|color={{{color}}}|contents=[[Binomial nomenclature|Binomial name]]}}<!--
+-->{{row|if=|test={{{binomial|}}}|style=style="text-align:center;"|contents='''{{{binomial}}}'''<br><small>{{{binomial_authority|}}}</small>}}<!--
+-->{{section|if=|test={{{trinomial|}}}|color={{{color}}}|contents=[[Trinomial nomenclature|Trinomial name]]}}<!--
+-->{{row|if=|test={{{trinomial|}}}|style=style="text-align:center;"|contents='''{{{trinomial}}}'''<br><small>{{{trinomial_authority|}}}</small>}}<!--
+-->{{section|if=|test={{{type_genus|}}}|color={{{color}}}|contents=[[Biological type|Type Genus]]}}<!--
+-->{{row|if=|test={{{type_genus|}}}|style=style="text-align:center;"|contents={{{type_genus}}}<br><small>{{{type_genus_authority|}}}</small>}}<!--
+-->{{section|if=|test={{{type_species|}}}|color={{{color}}}|contents=[[Biological type|Type Species]]}}<!--
+-->{{row|if=|test={{{type_species|}}}|style=style="text-align:center;"|contents={{{type_species}}}<br><small>{{{type_species_authority|}}}</small>}}<!--
+-->{{qif|test={{{range_map|}}}|then=<tr><td>[[image:{{{range_map}}}|{{{range_map_width|200px}}}|{{{range_map_caption|}}}]]<br><small><div style="text-align:center">{{{range_map_caption|}}}</div></small>}}<!--
+-->{{row|if=|test={{{binomial2|}}}|style=style="text-align:center;"|contents='''{{{binomial2}}}'''<br><small>{{{binomial2_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{trinomial2|}}}|style=style="text-align:center;"|contents='''{{{trinomial2}}}'''<br><small>{{{trinomial2_authority|}}}</small>}}<!--
+-->{{qif|test={{{range_map2|}}}|then=<tr><td>[[image:{{{range_map2}}}|{{{range_map2_width|200px}}}|{{{range_map2_caption|}}}]]<br><small><div style="text-align:center">{{{range_map2_caption|}}}</div></small>}}<!--
+-->{{row|if=|test={{{binomial3|}}}|style=style="text-align:center;"|contents='''{{{binomial3}}}'''<br><small>{{{binomial3_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{trinomial3|}}}|style=style="text-align:center;"|contents='''{{{trinomial3}}}'''<br><small>{{{trinomial3_authority|}}}</small>}}<!--
+-->{{qif|test={{{range_map3|}}}|then=<tr><td>[[image:{{{range_map3}}}|{{{range_map3_width|200px}}}|{{{range_map3_caption|}}}]]<br><small><div style="text-align:center">{{{range_map3_caption|}}}</div></small>}}<!--
+-->{{row|if=|test={{{binomial4|}}}|style=style="text-align:center;"|contents='''{{{binomial4}}}'''<br><small>{{{binomial4_authority|}}}</small>}}<!--
+-->{{row|if=|test={{{trinomial4|}}}|style=style="text-align:center;"|contents='''{{{trinomial4}}}'''<br><small>{{{trinomial4_authority|}}}</small>}}<!--
+-->{{qif|test={{{range_map4|}}}|then=<tr><td>[[image:{{{range_map4}}}|{{{range_map4_width|200px}}}|{{{range_map4_caption|}}}]]<br><small><div style="text-align:center">{{{range_map4_caption|}}}</div></small>}}<!--
+-->{{section|if=|test={{{subdivision|}}}|color={{{color}}}|contents={{{subdivision_ranks}}}}}
+|-
+| style="padding: 0 .5em;" | 
+{| cellspacing="0" cellpadding="0"
+{{{subdivision|}}}
+|}<!--
+-->{{qif|test={{{synonyms|}}}|then=<tr style="text-align:center; background:{{{color}}};"><th>[[Synonymy|Synonyms]]</th></tr><tr><td style="text-align:center;">{{{synonyms}}}</td></tr>}}
+|}</includeonly><noinclude>
+==About this template==
+This template sets up a taxobox.  Although the implementation is complicated, it is relatively simple to use.  See [[Wikipedia:WikiProject Tree of Life/taxobox usage|taxobox usage]] for an explanation.  For an example in practice, look at the edit page of [[eel]] - [http://en.wikipedia.org/w/index.php?title=eel&action=edit].  Most parameters are optional, so if a particular entry is not relevant for your case, just leave it out.
+[[ga:Teimpléad:Bosca Sonraí Tacsanomaíochta]]
+[[ko:Template:생물 분류]]
+[[nl:Sjabloon:Taxobox]]
+[[ro:Format:CutieTaxonomie]]
+[[ru:Шаблоны:Taxobox]]
+[[vi:Tiêu bản:Bảng phân loại]]
+[[tr:Şablon:Taksokutu]]
+[[zh:Template:Taxobox]]
+{{esoteric}}
+</noinclude>

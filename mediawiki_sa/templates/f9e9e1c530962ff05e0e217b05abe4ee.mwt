@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Slovakia
+| shortname alias = Slovakia
+| flag alias      = Flag of Slovakia.svg
+| flag alias-1938 = 1stslovakia flag large.svg
+| name alias-basketball = Slovak Republic
+| link alias-basketball = Slovak Republic {{{mw|}}} national basketball team
+| countryname = {{{countryname|Slovakia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Slovakia|1938}}</nowiki> = {{flag|Slovakia|1938}}
+
+[[af:Sjabloon:Landdata Slowakye]]
+[[sl:Predloga:Podatki države Slovaška]]
+</noinclude>

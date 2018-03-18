@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Belarus
+| shortname alias = Belarus
+| flag alias      = Flag of Belarus.svg
+| flag alias-1991 = Flag of Belarus 1991.svg
+| flag alias-SSR  = Flag of Byelorussian SSR.svg
+| countryname = {{{countryname|Belarus<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Belarus|1991}}</nowiki> = {{flag|Belarus|1991}}
+* <nowiki>{{flag|Belarus|SSR}}</nowiki> = {{flag|Belarus|SSR}}
+</noinclude>

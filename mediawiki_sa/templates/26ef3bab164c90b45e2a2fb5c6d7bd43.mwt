@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Philippines
+| shortname alias = Philippines
+| flag alias      = Flag of the Philippines.svg
+| flag alias-old  = Philippines flag original.png
+| link alias-naval = Philippine Navy
+| countryname = {{{countryname|Philippines<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Philippines|old}}</nowiki> = {{flag|Philippines|old}}
+[[af:Sjabloon:Landdata Filippyne]]
+</noinclude>

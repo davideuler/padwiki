@@ -1,0 +1,56 @@
+{| class="infobox" style="width: 23em; font-size: 90%;"
+|+ style="font-size: larger;" | '''{{{company_name}}}'''
+{{#if:{{{company_logo|}}}|<tr><td colspan="2" style="text-align: center; padding: 16px 0 16px 0;">{{{company_logo}}}</td></tr>}}
+|- 
+! style="text-align:right;" | [[:Category:Types of companies|Type]]:
+| {{{company_type}}}
+|-
+! style="text-align:right;" | Founded:
+| {{{foundation}}}
+|- 
+! style="text-align:right;" | Headquarters:
+| {{{location}}}
+{{#if:{{{key_people|}}}|<tr><th style="text-align:right;">Key&nbsp;people:</th><td>{{{key_people}}}</td></tr>}}<!--
+-->{{#if:{{{area_served|}}}|<tr><th style="text-align:right;">Area&nbsp;served:</th><td>{{{area_served}}}</td></tr>}}<!--
+-->{{#if:{{{industry|}}}|<tr><th style="text-align:right;">[[Industry]]:</th><td>{{{industry}}}</td></tr>}}<!--
+-->{{#if:{{{products|}}}|<tr><th style="text-align:right;">[[Product (business)|Products]]:</th><td>{{{products}}}</td></tr>}}<!--
+-->{{#if:{{{revenue|}}}|<tr><th style="text-align:right;">[[Revenue]]:</th><td>{{{revenue}}}</td></tr>}}<!--
+-->{{#if:{{{operating_income|}}}|<tr><th style="text-align:right;">[[Earnings before interest and taxes|Operating income]]:</th><td>{{{operating_income}}}</td></tr>}}<!--
+-->{{#if:{{{net_income|}}}|<tr><th style="text-align:right;">[[Net income]]:</th><td>{{{net_income}}}</td></tr>}}<!--
+-->{{#if:{{{num_employees|}}}|<tr><th style="text-align:right;">[[Employment|Employee]]s:</th><td>{{{num_employees}}}</td></tr>}}<!--
+-->{{#if:{{{parent|}}}|<tr><th style="text-align:right;">[[Holding company|Parent]]:</th><td>{{{parent}}}</td></tr>}}<!--
+-->{{#if:{{{subsid|}}}|<tr><th style="text-align:right;">[[Subsidiary|Subsidiaries]]:</th><td>{{{subsid}}}</td></tr>}}<!--
+-->{{#if:{{{homepage|}}}|<tr><th style="text-align:right;">[[Website]]:</th><td>{{{homepage}}}</td></tr>}}<!--
+-->{{#if:{{{footnotes|}}}|<tr><td colspan="2">{{{footnotes}}}</td></tr>}}
+|}<noinclude>
+
+== Usage ==
+<pre>
+{{Infobox Company 
+| company_name = 
+| company_logo = 
+| company_type = 
+| foundation = 
+| location = 
+| key_people = 
+| area_served = 
+| industry = 
+| products = 
+| revenue = 
+| operating_income = 
+| net_income = 
+| num_employees =
+| parent =
+| subsid =
+| homepage =
+| footnotes =
+}}
+</pre>
+[[Category:Infobox templates]]
+
+[[an:Plantilla:Infobox_Interpresa]]
+[[en:Template:Infobox Company]]
+[[es:Plantilla:Infobox Empresa]]
+[[fr:modèle:Infobox Société]]
+[[gl:Template:Infobox Compañía]]
+</noinclude>

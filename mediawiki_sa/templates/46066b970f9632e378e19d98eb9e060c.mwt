@@ -1,0 +1,9 @@
+<div class="infobox sisterproject"> 
+[[Image:Wikinews-logo.png|50px|left|Wikinews]]
+<div style="margin-left: 60px;">[[Wikinews]] has related news:
+<div style="margin-left: 10px;">'''''[[Wikinews:Category:{{{1}}}|{{{1}}}]]'''''</div>
+</div>
+</div><noinclude>
+[[Category:Interwiki link templates|{{PAGENAME}}]]
+[[no:Mal:Wikinyttkategori]]
+</noinclude>

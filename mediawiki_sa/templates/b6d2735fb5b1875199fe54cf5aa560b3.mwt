@@ -1,0 +1,47 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Afghanistan
+| shortname alias = Afghanistan
+| flag alias      = Flag of Afghanistan.svg
+| flag alias-1880 = Flag of Afghanistan pre-1901.svg
+| flag alias-1901 = Flag of Afghanistan 1901.png
+| flag alias-1919 = Afghanistan flag 1919.png
+| flag alias-1927 = Afghanistan Flag 1928.jpg
+| flag alias-1928 = NF 9 1928 - 1929.jpg
+| flag alias-1929 = Flag of Afghanistan 1929.svg
+| flag alias-1929a = NF 10 1929 - 1931.jpg
+| flag alias-1931 = NF 1931 - 1974.jpg
+| flag alias-1974 = NF 1974 - 1978.jpg
+| flag alias-1978 = Flag of Afghanistan (1978).svg
+| flag alias-1978a = NF 1978 - 1980.jpg
+| flag alias-1980 = AfghanFlag1980.png
+| flag alias-1987 = NF 1987 - 1992.jpg
+| flag alias-1992 = Flag of Afghanistan 1992 free.png
+| flag alias-Taliban = Flag of Taliban.svg
+| flag alias-2001 = Flag of Afghanistan 2001.svg
+| flag alias-2002 = Flag of Afghanistan (2002-2004).svg
+
+| countryname = {{{countryname|Afghanistan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Afghanistan|1880}}</nowiki> = {{flag|Afghanistan|1880}}
+* <nowiki>{{flag|Afghanistan|1901}}</nowiki> = {{flag|Afghanistan|1901}}
+* <nowiki>{{flag|Afghanistan|1919}}</nowiki> = {{flag|Afghanistan|1919}}
+* <nowiki>{{flag|Afghanistan|1927}}</nowiki> = {{flag|Afghanistan|1927}}
+* <nowiki>{{flag|Afghanistan|1928}}</nowiki> = {{flag|Afghanistan|1928}}
+* <nowiki>{{flag|Afghanistan|1929}}</nowiki> = {{flag|Afghanistan|1929}}
+* <nowiki>{{flag|Afghanistan|1929a}}</nowiki> = {{flag|Afghanistan|1929a}}
+* <nowiki>{{flag|Afghanistan|1931}}</nowiki> = {{flag|Afghanistan|1931}}
+* <nowiki>{{flag|Afghanistan|1974}}</nowiki> = {{flag|Afghanistan|1974}}
+* <nowiki>{{flag|Afghanistan|1978}}</nowiki> = {{flag|Afghanistan|1978}}
+* <nowiki>{{flag|Afghanistan|1978a}}</nowiki> = {{flag|Afghanistan|1978a}}
+* <nowiki>{{flag|Afghanistan|1980}}</nowiki> = {{flag|Afghanistan|1980}}
+* <nowiki>{{flag|Afghanistan|1987}}</nowiki> = {{flag|Afghanistan|1987}}
+* <nowiki>{{flag|Afghanistan|1992}}</nowiki> = {{flag|Afghanistan|1992}}
+* <nowiki>{{flag|Afghanistan|Taliban}}</nowiki> = {{flag|Afghanistan|Taliban}}
+* <nowiki>{{flag|Afghanistan|2001}}</nowiki> = {{flag|Afghanistan|2001}}
+* <nowiki>{{flag|Afghanistan|2002}}</nowiki> = {{flag|Afghanistan|2002}}
+</noinclude>

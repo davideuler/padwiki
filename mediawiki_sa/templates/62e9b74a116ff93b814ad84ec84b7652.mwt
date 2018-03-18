@@ -1,0 +1,73 @@
+{| class="infobox" cellspacing="5" style="width: 23em; font-size: 90%;"
+|+ style="font-size: larger;" | <big>'''{{{name}}}'''</big>
+|- class="hiddenStructure{{{logo|}}}"
+| colspan="2" style="text-align: center;"| {{{logo|}}}
+|- class="hiddenStructure{{{screenshot|}}}{{{caption|}}}"
+| colspan="2" style="text-align: center;" | {{{screenshot|}}}<br />{{{caption}}}
+|- class="hiddenStructure{{{developer|}}}" valign="top"
+| style="text-align: left;"| '''[[Software company|Company]]/<br />[[Software developer|developer]]:'''
+| {{{developer}}}
+|- class="hiddenStructure{{{family|}}}" valign="top"
+| '''OS family:'''
+| {{{family}}}
+|- class="hiddenStructure{{{source_model|}}}" valign="top"
+| '''Source model:'''
+| {{{source_model}}}
+|- class="hiddenStructure{{{latest_release_version|}}}{{{latest_release_date|}}}"
+|'''Latest stable release:'''
+| <span style="white-space:nowrap;">{{{latest_release_version}}} / {{{latest_release_date}}}</span>
+|- class="hiddenStructure{{{kernel_type|}}}" valign="top"
+|'''[[Kernel (computer science) | Kernel]] type:'''
+| {{{kernel_type}}}
+|- class="hiddenStructure{{{ui|}}}" valign="top"
+|'''Default [[user interface]]:'''
+| {{{ui}}}
+|- class="hiddenStructure{{{license|}}}" valign="top"
+|'''[[Software license|License]]:'''
+| {{{license}}}
+|- class="hiddenStructure{{{licence|}}}" valign="top"
+|'''[[Software licence|Licence]]:'''
+| {{{licence}}}
+|- class="hiddenStructure{{{working_state|}}}" valign="top"
+|'''Working state:'''
+| {{{working_state}}}<noinclude> Current or historic?</noinclude>
+|- class="hiddenStructure{{{website|}}}" valign="top"
+|'''[[Website]]:'''
+| {{{website}}}
+|}<noinclude>
+
+== Usage ==
+<pre>
+{{Infobox OS
+|name =
+|logo = 
+|screenshot = 
+|caption = 
+|developer = 
+|family = 
+|source_model = 
+|latest_release_version = 
+|latest_release_date = 
+|kernel_type = 
+|ui = 
+|license = 
+|licence = 
+|working_state = 
+|website = 
+}}
+</pre>
+
+'''Note''': Use either ''license'' (American English) or ''licence'' (Commonwealth English), only when using this template, not both - select the one which matches the content of the article the template is used in.
+<!--  Do not remove the second licence statement, this template is not a battleground.  Wikipedia policy is to allow for both English varients in the Wikipedia, with whichever is in the article already taking precedence - that means both options need to be available, depending on which is used in the article that the template is used in.  -->
+
+[[Category:Computing templates]]
+
+[[da:Skabelon:Styresystem]]
+[[de:Vorlage:Infobox Betriebssystem]]
+[[es:Plantilla:Infobox OS]]
+[[pt:Predefinição:Caixa de informação OS]]
+[[it:Template:Infobox OS]]
+[[nl:Sjabloon:Infobox OS]]
+[[tr:Şablon:İS Künyesi]]
+[[sv:Mall:Faktaruta OS]]
+</noinclude>

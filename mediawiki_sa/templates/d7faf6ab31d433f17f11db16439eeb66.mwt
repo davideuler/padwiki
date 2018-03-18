@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Ukraine
+| shortname alias = Ukraine
+| flag alias      = Flag of Ukraine.svg
+| flag alias-1918 = Flag of Ukrainian People's Republic.svg
+| flag alias-SSR  = Flag of Ukrainian SSR.svg
+| flag alias-naval = Naval Ensign of Ukraine (dress).svg
+| link alias-naval = Ukrainian Navy
+| countryname = {{{countryname|Ukraine<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Ukraine|1918}}</nowiki> = {{flag|Ukraine|1918}}
+* <nowiki>{{flag|Ukraine|SSR}}</nowiki> = {{flag|Ukraine|SSR}}
+* <nowiki>{{flag|Ukraine|naval}}</nowiki> = {{flag|Ukraine|naval}}
+</noinclude>

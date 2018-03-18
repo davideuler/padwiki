@@ -1,0 +1,35 @@
+<div style="display:{{{Wikipedia-Feature1}}}; float:right; padding:0.3em; padding-top:2.7em"><span style="padding:0.4em; border:solid 1px #AAAAAA; background-color:#F9F9F9; font-size: 0.9em">Wikipedia in [http://{{{Symbol}}}.wikipedia.org/wiki/ {{{Englishname}}}]</span></div>
+
+<span id="Mark_{{{Symbol}}}" style="font-size:1.32em"><span style="margin-right:0.6em; padding:0.3em; border:solid 1px #999999; font-family:monospace; background-color:#FAF9EC">'''{{{Symbol}}}'''</span>'''{{{Languagename}}}''' ([[{{{Article}}}|{{{Englishname}}}]])</span>
+
+<div style="margin-left:3em">
+Generic Category: [[:Category:User {{{Symbol}}}|User {{{Symbol}}}]]<br />
+View all Templates: [[/({{{Symbol}}})]]
+
+<table class=wikitable border="2" cellspacing="0" cellpadding="4" rules="all" style="margin:1em 1em 1em 0; border-style:solid; border-collapse:collapse; font-size:95%; empty-cells:show">
+{|
+! style="width:9em; height:2em" | Template
+! style="width:16em; height:2em" | Knowledge level
+! style="width:16em; height:2em" | Related Category
+|-display:{{{Wikipedia-Feature2}}}
+| align="center" style="width:9em; height:2em" | '''[[Template:User {{{Symbol}}}|User {{{Symbol}}}]]'''
+| align="center" | '''Native speaker'''
+| align="center" style="width:16em; height:2em" | '''[[:Category:User {{{Symbol}}}-N]]'''
+|-
+| align="center" style="width:9em; height:2em" | [[Template:User {{{Symbol}}}-4|User {{{Symbol}}}-4]]
+| align="center" | Near-native level
+| align="center" style="width:16em; height:2em" | [[:Category:User {{{Symbol}}}-4]]
+|-
+| align="center" style="width:9em; height:2em" | [[Template:User {{{Symbol}}}-3|User {{{Symbol}}}-3]]
+| align="center" | Advanced level
+| align="center" style="width:16em; height:2em" | [[:Category:User {{{Symbol}}}-3]]
+|-
+| align="center" style="width:9em; height:2em" | [[Template:User {{{Symbol}}}-2|User {{{Symbol}}}-2]]
+| align="center" | Intermediate level
+| align="center" style="width:16em; height:2em" | [[:Category:User {{{Symbol}}}-2]]
+|-
+| align="center" style="width:9em; height:2em" | [[Template:User {{{Symbol}}}-1|User {{{Symbol}}}-1]]
+| align="center" | Basic level
+| align="center" style="width:16em; height:2em" | [[:Category:User {{{Symbol}}}-1]]
+|}</table>
+</div>

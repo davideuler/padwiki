@@ -1,0 +1,15 @@
+&nbsp;{{#switch:{{{1}}}
+|replaced=replaced
+|replacedOwn=replaced own upload
+|deleted=deleted
+|deletedRev=deleted old version of
+|addedBad=puts deletion marker ''{{{2}}}'' on
+|removedBad=removes deletion marker ''{{{2}}}'' from
+|addedGood=puts license tag ''{{{2}}}'' on
+|removedGood=removes license tag ''{{{2}}}'' from
+|{{{1}}} {{{2|}}}
+}}<noinclude>
+-------
+'''''This template is used by the [[meta:User:Duesentrieb/CommonsTicker|CommonsTicker bot]]
+with [[Template:TickerEntry]] to format entries on [[Wikipedia:CommonsTicker]].'''''
+</noinclude>

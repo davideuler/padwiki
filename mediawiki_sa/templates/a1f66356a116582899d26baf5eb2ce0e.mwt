@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Tajikistan
+| shortname alias = Tajikistan
+| flag alias      = Flag of Tajikistan.svg
+| flag alias-SSR  = Flag of Tajik SSR.svg
+| countryname = {{{countryname|Tajikistan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Tajikistan|SSR}}</nowiki> = {{flag|Tajikistan|SSR}}
+</noinclude>

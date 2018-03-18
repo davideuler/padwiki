@@ -1,0 +1,26 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Italy
+| shortname alias = Italy
+| flag alias      = Flag of Italy.svg
+| flag alias-old = Flag of Italy (1861-1946).svg
+| flag alias-1861 = Flag of Italy (1861-1946).svg
+| flag alias-1861-state = Flag of Italy (1861-1946) crowned.svg
+| flag alias-RSI = Flag of RSI.svg
+| flag alias-naval = Naval Ensign of Italy.svg
+| link alias-naval = Marina Militare
+| countryname = {{{countryname|Italy<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Italy|old}}</nowiki> = {{flag|Italy|old}}
+* <nowiki>{{flag|Italy|1861}}</nowiki> = {{flag|Italy|1861}}
+* <nowiki>{{flag|Italy|1861-state}}</nowiki> = {{flag|Italy|1861-state}}
+* <nowiki>{{flag|Italy|RSI}}</nowiki> = {{flag|Italy|RSI}}
+* <nowiki>{{flag|Italy|naval}}</nowiki> = {{flag|Italy|naval}}
+
+[[af:Sjabloon:Landdata Italië]]
+[[sl:Predloga:Podatki države Italija]]
+</noinclude>

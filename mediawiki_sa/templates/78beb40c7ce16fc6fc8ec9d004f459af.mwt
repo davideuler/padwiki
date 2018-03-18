@@ -1,0 +1,22 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Poland
+| shortname alias = Poland
+| flag alias      = Flag of Poland.svg
+| flag alias-state = State Flag of Poland.svg
+| flag alias-1815  = Kongresówka.JPG
+| flag alias-naval = Naval Ensign of Poland.svg
+| link alias-naval = Polish Navy
+| countryname = {{{countryname|Poland<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Poland|state}}</nowiki> = {{flag|Poland|state}}
+* <nowiki>{{flag|Poland|1815}}</nowiki> = {{flag|Poland|1815}}
+* <nowiki>{{flag|Poland|naval}}</nowiki> = {{flag|Poland|naval}}
+
+[[af:Sjabloon:Landdata Pole]]
+[[sl:Predloga:Podatki države Poljska]]
+</noinclude>

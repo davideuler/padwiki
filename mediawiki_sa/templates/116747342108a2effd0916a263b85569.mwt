@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Slovenia
+| shortname alias = Slovenia
+| flag alias      = Flag of Slovenia.svg
+| flag alias-1945 = Flag of SR Slovenia.svg
+| countryname = {{{countryname|Slovenia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Slovenia|1945}}</nowiki> = {{flag|Slovenia|1945}}
+</noinclude>

@@ -1,0 +1,36 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Germany
+| shortname alias = Germany
+| flag alias      = Flag of Germany.svg
+| flag alias-German Empire = Flag of the German Empire.svg
+| flag alias-empire = Flag of the German Empire.svg  <!-- more concise name, migrate to this -->
+| flag alias-Weimar = Flag of Germany (2-3).svg
+| flag alias-EUA = Flag of Germany-1960-Olympics.svg
+| flag alias-Nazi = Flag of Germany 1933.svg
+| flag alias-allied = Flag of Germany (1946-1949).svg
+| flag alias-naval = Naval Ensign of Germany.svg
+| link alias-naval = German Navy
+| countryname = {{{countryname|Germany<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Germany|empire}}</nowiki> = {{flag|Germany|empire}}
+* <nowiki>{{flag|Germany|Weimar}}</nowiki> = {{flag|Germany|Weimar}}
+* <nowiki>{{flag|Germany|EUA}}</nowiki> = {{flag|Germany|EUA}}
+* <nowiki>{{flag|Germany|Nazi}}</nowiki> = {{flag|Germany|Nazi}}
+* <nowiki>{{flag|Germany|allied}}</nowiki> = {{flag|Germany|allied}}
+* <nowiki>{{flag|Germany|naval}}</nowiki> = {{flag|Germany|naval}}
+
+==See also==
+* <nowiki>{{flag|German Empire}}</nowiki> = {{flag|German Empire}} ''(produces wikilink to [[German Empire]] instead of [[Germany]])''
+* <nowiki>{{flag|Weimar Republic}}</nowiki> = {{flag|Weimar Republic}} ''(produces wikilink to [[Weimar Republic]] instead of [[Germany]])''
+* <nowiki>{{flag|Nazi Germany}}</nowiki> = {{flag|Nazi Germany}} ''(produces wikilink to [[Nazi Germany]] instead of [[Germany]])''
+* <nowiki>{{flag|East Germany}}</nowiki> = {{flag|East Germany}} ''(produces wikilink to [[German Democratic Republic]] instead of [[Germany]])''
+* <nowiki>{{flag|West Germany}}</nowiki> = {{flag|West Germany}} ''(produces wikilink to [[West Germany]] instead of [[Germany]])''
+
+[[af:Sjabloon:Landdata Duitsland]]
+[[sl:Predloga:Podatki države Nemčija]]
+</noinclude>

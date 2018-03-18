@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Greece
+| shortname alias = Greece
+| flag alias      = Flag of Greece.svg
+| flag alias-old  = Flag of Greece (1828-1978).svg
+| link alias-naval = Hellenic Navy
+| countryname = {{{countryname|Greece<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Greece|old}}</nowiki> = {{flag|Greece|old}}
+
+[[af:Sjabloon:Landdata Griekeland]]
+[[sl:Template:Podatki države Grčija]]
+</noinclude>

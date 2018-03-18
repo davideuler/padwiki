@@ -1,0 +1,28 @@
+{| class="infobox" cellspacing="5" style="width:22em; font-size:90%;"
+|+ style="font-size: larger; background-color:{{{bgcolour|transparent}}};" | '''{{{name}}}'''
+{{#if:{{{image|}}}|<tr><td colspan="2" style="text-align: center;">[[Image:{{{image}}}|{{{imagesize|220px}}}| ]]<br /><small>{{{caption|}}}</small></td></tr>}}
+|-
+! style="text-align: right;" | Born:
+| {{{birth_date}}}<br />{{{birth_place|}}}
+{{#if:{{{death_date|}}}|<tr><th style="text-align: right;">Died:</th><td>{{{death_date|}}}<br />{{{death_place|}}}</td></tr>}}
+|-
+! style="text-align: right;" | Occupation:
+| {{{occupation}}}
+{{#if:{{{salary|}}}|<tr><th style="text-align: right;">[[Salary]]:</th><td>{{{salary|}}}</td></tr>}}<!--
+-->{{#if:{{{networth|}}}|<tr><th style="text-align: right;">[[Net worth]]:</th><td>{{{networth|}}}</td></tr>}}<!--
+-->{{#if:{{{spouse|}}}|<tr><th style="text-align: right;">Spouse:</th><td>{{{spouse|}}}</td></tr>}}<!--
+-->{{#if:{{{children|}}}|<tr><th style="text-align: right;">Children:</th><td>{{{children|}}}</td></tr>}}<!--
+-->{{#if:{{{website|}}}|<tr><th style="text-align: right;">Website:</th><td>{{{website|}}}</td></tr>}}<!--
+-->{{#if:{{{footnotes|}}}|<tr><td colspan="2" style="font-size: smaller; font-style: italic; border-top: 1px solid;">{{{footnotes|}}}</td></tr>}}
+|}<noinclude>
+
+This infobox template was designed for use in [[celebrity]] articles. Celebrities include those who are considered notable in any field, such as business leaders and entertainment professionals. Only the name, date of birth and occupation are required fields.  All others will not populate if left blank.
+
+See the [[Template talk:Infobox Celebrity|talk page]] for blank template and help.
+
+[[Category:People infobox templates]]
+[[en:Template:Infobox Celebrity]]
+[[es:Plantilla:Infobox personalidades]]
+[[ro:Format:Infobox Celebrity]]
+[[zh:Template:Infobox Celebrity]]
+</noinclude>

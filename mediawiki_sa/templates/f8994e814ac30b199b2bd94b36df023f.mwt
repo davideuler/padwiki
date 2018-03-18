@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Croatia
+| shortname alias = Croatia
+| flag alias      = Flag of Croatia.svg
+| flag alias-1941 = Flag of Croatia Ustasa.svg
+| link alias-1941 = Independent State of Croatia
+| flag alias-1947 = Flag of SR Croatia.svg
+| flag alias-1990 = Flag of Croatia (1990).svg
+| flag alias-naval = Naval Ensign of Croatia.svg
+| link alias-naval = Croatian Navy
+| countryname = {{{countryname|Croatia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Croatia|1941}}</nowiki> = {{flag|Croatia|1941}}
+* <nowiki>{{flag|Croatia|1947}}</nowiki> = {{flag|Croatia|1947}}
+* <nowiki>{{flag|Croatia|1990}}</nowiki> = {{flag|Croatia|1990}}
+* <nowiki>{{flag|Croatia|naval}}</nowiki> = {{flag|Croatia|naval}}
+
+[[af:Sjabloon:Landdata Kroasië]]
+</noinclude>

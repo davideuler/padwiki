@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Saudi Arabia
+| shortname alias = Saudi Arabia
+| flag alias      = Flag of Saudi Arabia.svg
+| flag alias-naval = Naval Ensign of Saudi Arabia.svg
+| link alias-naval = Royal Saudi Navy
+| countryname = {{{countryname|Saudi Arabia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Saudi Arabia|naval}}</nowiki> = {{flag|Saudi Arabia|naval}}
+</noinclude>

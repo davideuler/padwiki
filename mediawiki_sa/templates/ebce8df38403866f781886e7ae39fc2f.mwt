@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Kazakhstan
+| shortname alias = Kazakhstan
+| flag alias      = Flag of Kazakhstan.svg
+| flag alias-SSR  = Flag of Kazakh SSR.svg
+| flag alias-naval = Naval Ensign of Kazakhstan.svg
+| countryname = {{{countryname|Kazakhstan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Kazakhstan|SSR}}</nowiki> = {{flag|Kazakhstan|SSR}}
+* <nowiki>{{flag|Kazakhstan|naval}}</nowiki> = {{flag|Kazakhstan|naval}}
+</noinclude>

@@ -1,0 +1,118 @@
+from django.http import *
+# use subprocess.Popen instead of os.popen, since the former allows unicode characters in commandline string
+# import everything from subprocess, in particular, PIPE
+import subprocess
+from subprocess import *
+import os, re, urllib
+
+def index(request):
+    return article(request, "Wikipedia")
+
+# due to a werid behavior instroduced by subprocess.Popen, the two function calls subprocess.Popen and os.popen do not always return the same thing. Try "wikipedia" as the search keyword. ASCII version returns 3 results, whereas unicode version returns 1 only.
+# therefore, to maintain compatibility, we have two versions of article functions. If the search keyword contains ASCII only, we use the function that ships with the original views.py; otherwise we use the unicode version.
+def article(request, article):
+    try:
+        article.decode('utf8');
+        return article_a(request, article);
+    except UnicodeEncodeError:
+        return article_w(request, article);
+
+# the unicode version of article function
+def article_w(request, article):
+    if article.endswith("/"):
+	article = article[:-1]
+    result = "Not found"
+    print "Searching for exact article", article
+#    print article
+    print "./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' ')
+# use subprocess.Popen, directing the PIPE to stdin
+# the output is a unicode stream, so we obtain the stream as a string, spliting it with the newline character. I don't know why it is '\n' instead of u'\n'. I am totally ignorant of Python...
+#    for line in os.popen(u"./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' ')):
+    for line in subprocess.Popen(args="./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' '), shell=True, stdout=PIPE).communicate()[0].split('\n'):
+        line = line + '\n'; # append a newline character
+	res = re.match(u'^(\d+%)\s\[(rec[^:]+):(.+?)\]$', line) # this gives a res object
+        # res.group(3)'s type is str (byte array), so there will be some problem in comparing res.group(3) with article.replace('_', ' ') (the latter is unicode). Encode article... as utf8 before comparing
+	if res != None and res.group(3) == article.replace('_', ' ').encode('utf8'):
+	    cmd = "./show.pl \"../wiki-splits/%s\" \"%s\"" % (res.group(2), res.group(3))
+	    print cmd
+	    os.system(cmd)
+	    result = open("/var/tmp/result.html").read() 
+	    print "Gotcha"
+	    break
+        else:
+            return search(request, article)
+    return HttpResponse(result)
+
+# the ASCII version of article function
+def article_a(request, article):
+    if article.endswith("/"):
+	article = article[:-1]
+    result = "Not found"
+    print "Searching for exact article", article
+    print "./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' ')
+    for line in os.popen("./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' ')):
+	print line,
+	res = re.match(r'^(\d+%)\s\[(rec[^:]+):(.+?)\]$', line)
+	if res != None and res.group(3) == article.replace('_', ' '):
+	    cmd = "./show.pl \"../wiki-splits/%s\" \"%s\"" % (res.group(2), res.group(3))
+	    print cmd
+	    os.system(cmd)
+	    result = open("/var/tmp/result.html").read() 
+	    print "Gotcha"
+	    break
+    else:
+	return search(request, article)
+    return HttpResponse(result)
+
+def search(request, article):
+    print "Searching for article", article
+    lines = []
+    print u"./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' ')
+    # same treat
+    for line in subprocess.Popen(args="./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' '), shell=True, stdout=PIPE).communicate()[0].split('\n'):
+#    for line in os.popen("./quickstartsearch ../db/ \"%s\"" % article.lower().replace('_', ' ').encode('utf8')):
+        line = line+'\n';
+	print line,
+	lines.append(line[:])
+    if len(lines) == 0:
+	result = '<html><head><title>Wikipedia has nothing about this.</title>'
+	result += '</head><body>Wikipedia has nothing about this.<br/>'
+	result += 'You can keyword search about it  <a href="/keyword/%s">here</a>' % article
+	result += '</body></html>'
+    else:
+	result = "<html><head><title>Choose one</title></head><body><h1>Choose one of the options below</h1>\n"
+	for line in lines:
+	    res = re.match(r'^(\d+%)\s\[(rec[^:]+):(.+?)\]$', line)
+	    if res != None:
+		result += "(%s) <A HREF=\"/article/%s\">%s</A><br/>\n" % (res.group(1), res.group(3), res.group(3))
+	result += "</body></html>"
+    return HttpResponse(result)
+
+def keyword(request, article):
+    print "Searching for keywords of article", article
+    lines = []
+    cmd = "./quickstartsearch ../db/ "
+    for i in article.lower().replace('_', ' ').split():
+	cmd += u'"%s" ' % i
+    print cmd
+#    for line in os.popen(cmd.encode('utf-8')):
+    # same treat
+    for line in subprocess.Popen(args=cmd, shell=True, stdout=PIPE).communicate()[0].split('\n'):
+        line = line+'\n';    
+	print line,
+	lines.append(line[:])
+    if len(lines) == 0:
+	result = '<html><head><title>No exact match for this article name found in Wikipedia (try a keyword search).</title>'
+	result += '</body></html>'
+    else:
+	result = "<html><head><title>Choose one</title></head><body><h1>Choose one of the options below</h1>\n"
+	for line in lines:
+	    res = re.match(r'^(\d+%)\s\[(rec[^:]+):(.+?)\]$', line)
+	    if res != None:
+		result += "(%s) <A HREF=\"/article/%s/\">%s</A><br/>\n" % (res.group(1), urllib.quote(res.group(3)), res.group(3))
+	result += "</body></html>"
+    return HttpResponse(result)
+
+def searchbar(request):
+    searchData = request.GET['data']
+    return keyword(request, searchData)

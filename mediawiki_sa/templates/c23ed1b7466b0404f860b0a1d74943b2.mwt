@@ -1,0 +1,20 @@
+<noinclude>{{esoteric}}<!-- Width should really be set in the infobox table class; see also [[:Template:C21YearInTopic]] -->
+</noinclude>{| class="infobox"
+| align="right" | <small>'''Years {{{in?|}}}:'''</small>
+| align="center" style="vertical-align:middle;" | [[{{{yp1}}} {{{in?|}}}|{{{yp1}}}]]&nbsp;[[{{{yp2}}} {{{in?|}}}|{{{yp2}}}]]&nbsp;[[{{{yp3}}} {{{in?|}}}|{{{yp3}}}]]&nbsp;'''[[{{{year}}} {{{in?|}}}|{{{year}}}]]'''&nbsp;[[{{{ya1}}} {{{in?|}}}|{{{ya1}}}]]&nbsp;[[{{{ya2}}} {{{in?|}}}|{{{ya2}}}]]&nbsp;[[{{{ya3}}} {{{in?|}}}|{{{ya3}}}]] 
+|- style="background-color:#f3f3f3"
+| align="right" | <small>'''[[Centuries]]:''' </small> 
+| align="center" | [[{{{cp}}}]]&nbsp;&middot;&nbsp;'''[[{{{c}}}]]'''&nbsp;&middot;&nbsp;[[{{{cf}}}]]
+|-
+| align="right" | <small>'''[[List of decades|Decades]]:'''</small> 
+| align="center" | [[{{{dp3}}}]]&nbsp;[[{{{dp2}}}]]&nbsp;[[{{{dp1}}}]]&nbsp;'''[[{{{d}}}]]'''&nbsp;[[{{{dn1}}}]]&nbsp;[[{{{dn2}}}]]&nbsp;[[{{{dn3}}}]]
+|- style="background-color:#f3f3f3"
+| align="right" | <small>'''Years:'''</small>
+| align="center" | [[{{{yp1}}}]]&nbsp;[[{{{yp2}}}]]&nbsp;[[{{{yp3}}}]]&nbsp;'''[[{{{year}}}]]'''&nbsp;[[{{{ya1}}}]]&nbsp;[[{{{ya2}}}]]&nbsp;[[{{{ya3}}}]] 
+|}<noinclude>[[az:Şablon:İl]]
+[[en:Template:Yearbox]]
+[[vi:Tiêu bản:Yearbox]]
+[[lt:Template:Yearbox]]
+[[ms:Template:Yearbox]]
+[[Category:Timekeeping templates]]
+</noinclude>

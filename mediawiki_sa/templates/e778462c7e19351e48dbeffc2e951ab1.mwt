@@ -1,0 +1,9 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Mauritania
+| shortname alias = Mauritania
+| flag alias      = Flag of Mauritania.svg
+| countryname = {{{countryname|Mauritania<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}

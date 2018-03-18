@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Egypt
+| shortname alias = Egypt
+| flag alias      = Flag of Egypt.svg
+| flag alias-Ottoman = Flag of Egypt 19th century.svg
+| flag alias-1882 = Egypt flag 1882.svg
+| flag alias-1922 = Flag of Egypt 1922.svg
+| flag alias-1952 = Egyptian revolutiony flag.png
+| flag alias-UAR  = Flag of United Arab Republic.svg
+| flag alias-1972 = Flag of Egypt 1972.svg
+| flag alias-naval = Naval Ensign of Egypt.svg
+| link alias-naval = Egyptian Navy
+| countryname = {{{countryname|Egypt<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Egypt|Ottoman}}</nowiki> = {{flag|Egypt|Ottoman}}
+* <nowiki>{{flag|Egypt|1882}}</nowiki> = {{flag|Egypt|1882}}
+* <nowiki>{{flag|Egypt|1922}}</nowiki> = {{flag|Egypt|1922}}
+* <nowiki>{{flag|Egypt|1952}}</nowiki> = {{flag|Egypt|1952}}
+* <nowiki>{{flag|Egypt|UAR}}</nowiki> = {{flag|Egypt|UAR}}
+* <nowiki>{{flag|Egypt|1972}}</nowiki> = {{flag|Egypt|1972}}
+* <nowiki>{{flag|Egypt|naval}}</nowiki> = {{flag|Egypt|naval}}
+</noinclude>

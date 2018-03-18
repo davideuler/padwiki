@@ -1,0 +1,11 @@
+<div class="infobox sisterproject">[[Image:Wiktionary-logo-simple.png|50px|left|Simple English Wiktionary]]
+<div style="margin-left: 60px;">Simple English [[Wiktionary]] has {{#if:{{{2|}}}|dictionary definitions (word meanings)|a dictionary definition (word meaning)}} for:
+<div style="margin-left: 10px;">'''''[[:wikt:{{{1|{{lc:{{PAGENAME}}}}}}}|{{{1|{{lc:{{PAGENAME}}}}}}}]]'''{{#if:{{{2|}}}| {{#if:{{{3|}}}|,|&#32;and}} '''[[wikt:{{{2}}}|{{{2}}}]]'''}}{{#if:{{{3|}}}|{{#if:{{{4|}}}|,|,&#32;and}} '''[[wikt:{{{3}}}|{{{3}}}]]'''}}{{#if:{{{4|}}}|{{#if:{{{5|}}}|,|,&#32;and}} '''[[wikt:{{{4}}}|{{{4}}}]]'''}}{{#if:{{{5|}}}|, and '''[[wikt:{{{5}}}|{{{5}}}]]'''}}''</div>
+</div>
+</div><noinclude>
+
+[[Category:Sister project templates]]
+
+[[en:Template:Wiktionary]]
+[[zh:Template:Wiktionary]]
+</noinclude>

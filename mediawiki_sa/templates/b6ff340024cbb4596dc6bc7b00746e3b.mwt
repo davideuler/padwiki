@@ -1,0 +1,165 @@
+{| class="infobox" style="width: 20em; maxwidth=315px; text-align: left;" cellspacing="2"
+! colspan="2" style="font-size: 110%; text-align: center;" | ''[[Harry Potter|Harry&nbsp;Potter]]''&nbsp;character
+|-
+{{#if: {{{image|<noinclude>-</noinclude>}}} | 
+{{!}} colspan="2" style="text-align: center;" {{!}} {{{image}}}
+{{!}}-
+}}
+! colspan="2" style="background-color: {{{bgcolor}}}; color: {{{fgcolor}}}; text-align: center; font-size: 120%;" | {{{name}}}
+|-
+{{#ifeq: {{{birth|}}} | Unknown |  | {{#if: {{{birth|<noinclude>-</noinclude>}}} |
+! Birth
+{{!}} {{{birth}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{gender|}}} | Unknown |  | {{#if: {{{gender|<noinclude>-</noinclude>}}} |
+! Gender
+{{!}} {{{gender}}}
+{{!}}-
+| {{#ifeq: {{{sex|}}} | Unknown |  | {{#if: {{{sex|<noinclude>-</noinclude>}}} |
+! Gender
+{{!}} {{{sex}}}
+{{!}}-
+}}}}}}}}
+{{#ifeq: {{{hair|}}} | Unknown |  | {{#if: {{{hair|<noinclude>-</noinclude>}}} |
+! Hair&nbsp;colour
+{{!}} {{{hair}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{eyes|}}} | Unknown |  | {{#if: {{{eyes|<noinclude>-</noinclude>}}} |
+! Eye&nbsp;colour
+{{!}} {{{eyes}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{residence|}}} | Unknown |  | {{#if: {{{residence|<noinclude>-</noinclude>}}} |
+! Residence
+{{!}} {{{residence}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{house|}}} | Unknown |  | {{#if: {{{house|<noinclude>-</noinclude>}}} |
+! House
+{{!}} {{{house}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{school|}}} | Unknown |  | {{#if: {{{school|<noinclude>-</noinclude>}}} |
+! School
+{{!}} {{{school}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{blood|}}} | Unknown |  | {{#if: {{{blood|<noinclude>-</noinclude>}}} |
+! [[Blood purity (Harry Potter)|Parentage]]
+{{!}} {{{blood}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{species|}}} | Unknown |  | {{#if: {{{species|<noinclude>-</noinclude>}}} |
+! Species
+{{!}} {{{species}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{owner|}}} | Unknown |  | {{#if: {{{owner|<noinclude>-</noinclude>}}} |
+! Owner
+{{!}} {{{owner}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{powers|}}} | Unknown |  | {{#if: {{{powers|<noinclude>-</noinclude>}}} |
+! Special&nbsp;powers
+{{!}} {{{powers}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{wand|}}} | Unknown |  | {{#if: {{{wand|<noinclude>-</noinclude>}}} |
+! Wand
+{{!}} {{{wand}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{patronus|}}} | Unknown |  | {{#if: {{{patronus|<noinclude>-</noinclude>}}} |
+! [[Patronus Charm|Patronus]]
+{{!}} {{{patronus}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{animagus|}}} | Unknown |  | {{#if: {{{animagus|<noinclude>-</noinclude>}}} |
+! [[Animagus]]
+{{!}} {{{animagus}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{allegiance|}}} | Unknown |  | {{#if: {{{allegiance|<noinclude>-</noinclude>}}} |
+! Allegiance
+{{!}} {{{allegiance}}}
+{{!}}-
+| {{#ifeq: {{{loyalty|}}} | Unknown |  | {{#if: {{{loyalty|<noinclude>-</noinclude>}}} |
+! Allegiance
+{{!}} {{{loyalty}}}
+{{!}}-
+}}}}}}}}
+{{#ifeq: {{{portrayer|}}} | Unknown |  | {{#if: {{{portrayer|<noinclude>-</noinclude>}}} |
+! Actor
+{{!}} {{{portrayer}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{voice|}}} | Unknown |  | {{#if: {{{voice|<noinclude>-</noinclude>}}} |
+! Voice&nbsp;actor
+{{!}} {{{voice}}}
+{{!}}-
+}}}}
+{{#ifeq: {{{appearance|}}} | Unknown |  | {{#if: {{{appearance|<noinclude>-</noinclude>}}} |
+! First&nbsp;appearance
+{{!}} {{{appearance}}}
+{{!}}-
+}}}}
+|}<noinclude>
+== Usage ==
+<div style="width: 40%;"><pre>
+{{HP character
+| name       = 
+| image      = 
+| bgcolor    = 
+| fgcolor    = 
+| birth      = 
+| gender     = 
+| hair       = 
+| eyes       = 
+| residence  = 
+| house      = 
+| school     = 
+| blood      = 
+| species    = 
+| owner      = 
+| powers     = 
+| wand       =
+| patronus   = 
+| animagus   = 
+| allegiance = 
+| portrayer  = 
+| voice      = 
+| appearance = 
+}}
+</pre></div>
+The only required parameter is the name. Any others which are unknown or inapplicable should be left blank. Fields marked with "Unknown" blank automatically. See [[Template talk:HP character|the talk page]] for descriptions of the parameters.
+
+{{esoteric}}
+
+[[Category:Fictional character infobox templates|{{PAGENAME}}]]
+
+[[bg:Шаблон:Хари Потър герой]]
+[[bn:Template:HP character]]
+[[bs:Šablon:HP Infokutija]]
+[[es:Plantilla:Personajes HP]]
+[[fi:Malline:Harry Potter -hahmo]]
+[[fr:Modèle:Personnage de Harry Potter]]
+[[he:תבנית:דמות מהארי פוטר]]
+[[hr:Predložak:Harry potter lik]]
+[[id:Templat:Kotak info karakter Harry Potter]]
+[[it:Template:Personaggio di Harry Potter]]
+[[ko:틀:해리 포터 등장인물]]
+[[lt:Šablonas:HP veikejas]]
+[[ms:Templat:HP character]]
+[[nl:Sjabloon:HP Karakter]]
+[[no:Mal:HPfigurer]]
+[[pl:Szablon:Postać Harry Potter infobox]]
+[[pt:Predefinição:Ficha harry potter]]
+[[ru:Шаблон:Персонаж ГП]]
+[[sl:Predloga:HP character]]
+[[sv:Mall:HP-roll]]
+[[th:แม่แบบ:ตัวละคร HP]]
+[[uk:Шаблон:Персонаж ГП]]
+[[zh:Template:哈利·波特人物]]
+</noinclude>

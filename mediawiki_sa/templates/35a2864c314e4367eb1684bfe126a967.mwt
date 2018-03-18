@@ -1,0 +1,22 @@
+<div id="sister">
+Wikipedia is hosted by the [[Wikimedia Foundation]], a non-profit organization that operates several other [[Wikipedia:Multilingual coordination|multilingual]] and [[Wikipedia:Copyrights|free-content]] projects:
+{| align="center" cellpadding="2" width="100%" style="text-align:left"
+| {{Click || image=Wiktionary-logo-en.png | link=wikt:Main Page | width=35px | height=35px }}
+| [[wikt:Main Page|'''Wiktionary''']]<br />Dictionary and thesaurus
+| {{Click || image=Wikibooks-logo.svg | link=b:Main Page | width=35px | height=35px }}
+| [[b:Main Page|'''Wikibooks''']]<br />Free textbooks and manuals
+| {{Click || image=Wikiquote-logo.svg | link=q:Main Page | width=35px | height=40px }}
+| [[q:Main Page|'''Wikiquote''']]<br />Collection of quotations
+| {{Click || image=Wikisource-logo.svg | link=s:Main Page | width=35px | height=39px }}
+| [[s:Main Page|'''Wikisource''']]<br />The free library
+|-
+| {{Click || image=Wikispecies-logo.svg | link=Wikispecies:Main Page | width=35px | height=41px }}
+| [[Wikispecies:Main Page|'''Wikispecies''']]<br />Directory of species
+| {{Click || image=Wikinews-logo.png | link=n:Main Page | width=35px | height=19px }}
+| [[n:Main Page|'''Wikinews''']]<br />Free content news source
+| {{Click || image=Commons-logo.svg | link=commons:Main Page | width=35px | height=46px }}
+| [[commons:Main Page|'''Commons''']]<br />Shared media repository
+| {{Click || image=Wikimedia-logo.svg | link=m:Main Page | width=35px | height=33px }}
+| [[m:Main Page|'''Meta-Wiki''']]<br />Wikimedia project coordination
+|}
+</div>

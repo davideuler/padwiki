@@ -1,0 +1,7 @@
+<span class="plainlinks">[[User:{{{1|Jimbo Wales}}}|{{{1|Jimbo Wales}}}]] • [[User talk:{{{1|Jimbo Wales}}}|talk]] • [[Special:Contributions/{{{1|Jimbo Wales}}}|changes]] ([[Wikipedia:Administrators|Admin]] logs: [{{fullurl:Special:Log/block|user={{urlencode:{{{1|Jimbo Wales}}}}}}} blocks] • [{{fullurl:Special:Log/protect|user={{urlencode:{{{1|Jimbo Wales}}}}}}} protects] • [{{fullurl:Special:Log/delete|user={{urlencode:{{{1|Jimbo Wales}}}}}}} deletes])</span><noinclude>
+
+== Usage ==
+Please note, this template takes a single parameter as in <tt><nowiki>{{admin|Jimbo Wales}}</nowiki></tt>.
+
+[[Category:Internal link templates|Admin]]
+</noinclude>

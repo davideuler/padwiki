@@ -1,0 +1,17 @@
+:<div class="noprint">''Main article{{#if:{{{2|}}}|s}}&#58; [[{{{1}}}]]{{#if:{{{2| }}}
+  |{{#if:{{{3|}}}|,&#32;|&#32;and&#32;}}[[{{{2}}}]]}}{{#if:{{{3|}}}
+  |{{#if:{{{4|}}}|,&#32;|,&#32;and&#32;}}[[{{{3}}}]]}}{{#if:{{{4|}}}
+  |{{#if:{{{5|}}}|,&#32;|,&#32;and&#32;}}[[{{{4}}}]]}}{{#if:{{{5|}}}
+  |, and [[{{{5}}}]]}}''{{#if:{{{6| }}}|&#32; (too many parameters in &#123;&#123;[[Template:main|main]]&#125;&#125;)}}</div><noinclude>
+
+== Usage ==
+
+To link to a "main article" on a topic, use &#123;{main|The other article}}.
+
+[[Category:Internal link templates]]
+
+[[bn:Template:মূল নিবন্ধ]]
+[[eo:Ŝablono:Ĉefa]]
+[[fr:Modèle:Détails]]
+[[pl:Szablon:Main]]
+</noinclude>

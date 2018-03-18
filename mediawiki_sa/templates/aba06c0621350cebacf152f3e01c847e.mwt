@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = France
+| shortname alias = France
+| flag alias      = Flag of France.svg
+| flag alias-royal = Flag of Royalist France.svg
+| flag alias-free = Flag of Free France 1940-1944.svg
+| flag alias-vichy = Flag of Vichy France.gif
+| flag alias-naval = Civil and Naval Ensign of France.svg
+| link alias-naval = French Navy
+| countryname = {{{countryname|France<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|France|royal}}</nowiki> = {{flag|France|royal}}
+* <nowiki>{{flag|France|free}}</nowiki> = {{flag|France|free}}
+* <nowiki>{{flag|France|vichy}}</nowiki> = {{flag|France|vichy}}
+* <nowiki>{{flag|France|naval}}</nowiki> = {{flag|France|naval}}
+
+[[af:Sjabloon:Landdata Frankryk]]
+[[sl:Predloga:Podatki države Francija]]
+</noinclude>

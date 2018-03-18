@@ -1,0 +1,17 @@
+{{clear}}
+{| class="infobox"
+|- style="background-color:#f0f0f0"
+| align="right" | <small>'''[[Centuries]]:'''</small>
+| align="center" | {{{cp1}}} - '''{{{c}}}''' - [[{{{cna}}}{{{cnb}}}]]
+|-
+| align="right" | <small>'''[[List of decades|Decades]]:'''</small>
+| align="center" | {{{dp3}}} {{{dp2}}} {{{dp1}}} - '''{{{d}}}''' - {{{dn1}}} {{{dn2}}} {{{dn3}}}
+|-
+|- style="background-color:#f0f0f0"
+| align="right" | <small>'''Years:'''</small>
+| align="center" | [[{{{cna}}}{{{da}}}9 BC]] [[{{{cna}}}{{{da}}}8 BC|{{{cna}}}{{{da}}}8]] [[{{{cna}}}{{{da}}}7 BC|{{{cna}}}{{{da}}}7]] [[{{{cna}}}{{{da}}}6 BC|{{{cna}}}{{{da}}}6]] [[{{{cna}}}{{{da}}}5 BC|{{{cna}}}{{{da}}}5]] [[{{{cna}}}{{{da}}}4 BC|{{{cna}}}{{{da}}}4]] [[{{{cna}}}{{{da}}}3 BC|{{{cna}}}{{{da}}}3]] [[{{{cna}}}{{{da}}}2 BC|{{{cna}}}{{{da}}}2]] [[{{{cna}}}{{{da}}}1 BC|{{{cna}}}{{{da}}}1]] [[{{{cna}}}{{{da}}}0 BC]]
+|}
+
+<noinclude>
+[[Category:Timekeeping templates]]
+</noinclude>

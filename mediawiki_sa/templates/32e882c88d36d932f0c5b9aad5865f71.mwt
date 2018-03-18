@@ -1,0 +1,21 @@
+[http://www.iblist.com/{{#switch:{{{type|default}}}
+ |book=book{{{id}}}.htm ''{{{name}}}''
+ |author=author{{{id}}}.htm {{{name}}}
+ |series=series{{{id}}}.htm ''{{{name}}}''
+ |default=
+ }}] at the [[Internet Book List]]<noinclude>
+
+Usage:
+<pre>{{IBList |type=book|id=134|name=The Hobbit}}</pre>
+{{IBList |type=book|id=134|name=The Hobbit}}
+
+<pre>{{IBList |type=author|id=54|name=J.R.R. Tolkien}}</pre>
+{{IBList |type=author|id=54|name=J.R.R. Tolkien}}
+
+<pre>{{IBList |type=series|id=31|name=The Lord of the Rings}}</pre>
+{{IBList |type=series|id=31|name=The Lord of the Rings}}
+
+[[Category:External link templates|IBList]]
+[[Category:Book templates|IBList]]
+[[Category:Templates using ParserFunctions|IBList]]
+</noinclude>

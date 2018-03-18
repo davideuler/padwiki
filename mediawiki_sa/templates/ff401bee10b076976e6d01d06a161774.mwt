@@ -1,0 +1,5 @@
+{| class="messagebox" style="max-width: 33em; background: #FFF0D9;"
+| [[Image:Unbalanced scales.svg|none|40px]]
+|<center>'''Somebody thinks that this article may not be [[Wikipedia:Neutral point of view|neutral]].'''<br /><small>This can be discussed on [[{{TALKSPACE}}:{{PAGENAME}}#{{{1|}}}|the article's talk page]].</small>{{#if:{{{date|}}}|<br><small>This article has been tagged since {{{date}}}.</small>}}<includeonly>
+{{#if:{{{date|}}}|[[Category:NPOV disputes from {{{date}}}]]|[[Category:NPOV disputes|{{PAGENAME}}]]}}</includeonly></center>
+|}<noinclude>[[Category:Page quality and condition templates]]</noinclude>

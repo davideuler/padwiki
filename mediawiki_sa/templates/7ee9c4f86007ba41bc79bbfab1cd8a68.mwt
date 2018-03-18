@@ -1,0 +1,9 @@
+<div class="tright" style="border:solid #aaa 1px; background:#f9f9f9; margin:0.5em 0 0.5em 0.5em; font-size:85%;">
+{| style="background:transparent;" width={{{boxsize|{{{4|0}}}}}}
+| <div style="position:relative; width:{{{size|{{{3|32}}}}}}px; height:28px; overflow:hidden"><div style="position:absolute; top:0px; left:0px; z-index:2;"> [[Image:{{{image|{{{2|Portal.svg}}}}}}|{{{size|{{{3|32}}}}}}x28px|Portal:{{{name|{{{1|{{PAGENAME}}}}}}}}]]</div></div>
+| '''''[[Portal:{{{name|{{{1|{{PAGENAME}}}}}}}}|{{{name|{{{1|{{PAGENAME}}}}}}}}{{#ifeq:{{{break|}}}|yes|<br />|&#32;}}Portal]]'''''
+|}</div><noinclude>{{clear}}<br/>{{protected template}}<!--
+
+-->{{/doc}}
+<!--Please add any interwiki links etc on the /doc page, not here - thanks!-->
+</noinclude>

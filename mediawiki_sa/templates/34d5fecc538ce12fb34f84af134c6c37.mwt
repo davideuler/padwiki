@@ -1,0 +1,10 @@
+{| class="messagebox standard-talk" style="width: auto;"
+|-
+| [[Image:Octagon-warning.png|50px| ]]
+| '''It is suspected that this user might be a [[Wikipedia:Sock puppet|sock puppet]] or impersonator of [[User:{{{1}}}|{{{1}}}]]'''.<br>Please refer to {{{evidence|[[Special:Contributions/{{PAGENAME}}|contributions]]}}} for evidence. <small>See [{{SERVER}}{{localurl:Special:Log/block|page=User:{{PAGENAMEE}}}} block log]</small>
+|}<includeonly>[[Category:Wikipedia:Suspected sockpuppets|{{PAGENAME}}]]</includeonly><noinclude>
+[[cs:Šablona:Loutkový účet]]
+[[en:Template:Sockpuppet]]
+[[it:Template:Sockpuppet]]
+[[ja:Template:Sockpuppet]]
+</noinclude>

@@ -1,0 +1,58 @@
+{| class="infobox bordered" style="width: 23em; font-size: 90%; text-align: left;" cellpadding="3" 
+! colspan="2" style="font-size:110%; text-align: center; background-color: #ccccff;" | ''{{{title}}}''
+{{#if:{{{image|}}}|<tr><td colspan="2" style="text-align: center;">{{{image|}}}</td></tr>}}
+|-
+! style="background-color: #ccccff;" | [[Video game developer|Developer(s)]]
+| {{{developer}}}
+{{#if:{{{publisher|}}}|<tr><th style="background-color: #ccccff;">[[Video game publisher|Publisher(s)]]</th><td>{{{publisher|}}}</td></tr>}}<!--
+-->{{#if:{{{distributor|}}}|<tr><th style="background-color: #ccccff;">Distributor(s)</th><td>{{{distributor|}}}</td></tr>}}<!--
+-->{{#if:{{{designer|}}}|<tr><th style="background-color: #ccccff;">[[Game designer|Designer(s)]]</th><td>{{{designer|}}}</td></tr>}}<!--
+-->{{#if:{{{engine|}}}|<tr><th style="background-color: #ccccff;">[[Game engine|Engine]]</th><td>{{{engine|}}}</td></tr>}}<!--
+-->{{#if:{{{version|}}}|<tr><th style="background-color: #ccccff;">Latest version</th><td>{{{version|}}}</td></tr>}}
+|-
+! style="background-color: #ccccff; white-space: nowrap;" | Release date(s)
+| {{{released}}}
+|-
+! style="background-color: #ccccff;" | [[Computer and video game genres|Genre(s)]]
+| {{{genre}}}
+|-
+! style="background-color: #ccccff;" | Mode(s)
+| {{{modes}}}
+{{#if:{{{ratings|}}}|<tr><th style="background-color: #ccccff;">Rating(s)</th><td>{{{ratings|}}}</td></tr>}}
+|-
+! style="background-color: #ccccff;" | Platform(s)
+| {{{platforms}}}
+{{#if:{{{media|}}}|<tr><th style="background-color: #ccccff;">Media</th><td>{{{media|}}}</td></tr>}}<!--
+-->{{#if:{{{requirements|}}}|<tr><th style="background-color: #ccccff;">System requirements</th><td>{{{requirements|}}}</td></tr>}}<!--
+-->{{#if:{{{input|}}}|<tr><th style="background-color: #ccccff;">Input</th><td>{{{input|}}}</td></tr>}}<!--
+-->{{#if:{{{preceded by|}}}|<tr><th style="background-color: #ccccff; white-space: nowrap;">Preceded by</th><td>''{{{preceded by|}}}''</td></tr>}}<!--
+-->{{#if:{{{followed by|}}}|<tr><th style="background-color: #ccccff; white-space: nowrap;">Followed by</th><td>''{{{followed by|}}}''</td></tr>}}
+|}<noinclude>
+
+== Usage ==
+{| style="background: transparent;"
+|<pre>
+{{Infobox CVG
+|title = 
+|image = 
+|developer = 
+|publisher = 
+|distributor = 
+|designer = 
+|engine = 
+|version = 
+|released = Release Date 1 (Country)<br />Release Date 2 (Country)<br /> ...
+|genre = 
+|modes = 
+|ratings = 
+|platforms = 
+|media = 
+|requirements = 
+|input = 
+|preceded by = 
+|followed by =  
+}}
+</pre>
+|}
+{{esoteric}}
+</noinclude>

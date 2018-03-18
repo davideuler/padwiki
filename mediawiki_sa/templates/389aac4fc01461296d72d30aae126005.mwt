@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Hungary
+| shortname alias = Hungary
+| flag alias      = Flag of Hungary.svg
+| flag alias-1867 = Hungary flag 1867.png
+| flag alias-1920 = Flag of Hungary (state).svg
+| flag alias-1940 = Flag of Hungary 1940.svg
+| flag alias-1949 = Flag of Hungary 1949-1956.gif
+| flag alias-1957 = Flag of Hungary (1957-1989).png
+| flag alias-naval = Naval Ensign of Hungary.svg
+| countryname = {{{countryname|Hungary<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Hungary|1867}}</nowiki> = {{flag|Hungary|1867}}
+* <nowiki>{{flag|Hungary|1920}}</nowiki> = {{flag|Hungary|1920}}
+* <nowiki>{{flag|Hungary|1940}}</nowiki> = {{flag|Hungary|1940}}
+* <nowiki>{{flag|Hungary|1949}}</nowiki> = {{flag|Hungary|1949}}
+* <nowiki>{{flag|Hungary|1957}}</nowiki> = {{flag|Hungary|1957}}
+* <nowiki>{{flag|Hungary|naval}}</nowiki> = {{flag|Hungary|naval}}
+
+[[af:Sjabloon:Landdata Hongarye]]
+[[sl:Predloga:Podatki države Madžarska]]
+</noinclude>

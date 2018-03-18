@@ -1,0 +1,13 @@
+<div class="infobox sisterproject" style="font-size: 90%;"> Find more information on '''{{{1|{{PAGENAME}}}}}''' by searching one of Wikipedia's [[Wikipedia:Sister projects|sister projects]]:
+
+<span style="white-space: nowrap;">
+[[Image:Wiktionary-logo-en.png|25px| ]] [[wiktionary:Special:Search/{{{1|{{PAGENAME}}}}}|Dictionary definitions]] from Wiktionary<br>
+[[Image:Wikibooks-logo.svg|25px| ]] [[wikibooks:Special:Search/{{{1|{{PAGENAME}}}}}|Textbooks]] from Wikibooks<br>
+[[Image:Wikiquote-logo.svg|25px| ]]  [[wikiquote:Special:Search/{{{1|{{PAGENAME}}}}}|Quotations]] from Wikiquote<br>
+[[Image:Wikisource-logo.svg|25px| ]]  [[wikisource:Special:Search/{{{1|{{PAGENAME}}}}}|Source texts]] from Wikisource<br>
+[[Image:Commons-logo.svg|25px| ]]  [[commons:Special:Search/{{{1|{{PAGENAME}}}}}|Images and media]] from Commons<br>
+[[Image:Wikinews-logo.svg|25px| ]]  [[wikinews:Special:Search/{{{1|{{PAGENAME}}}}}|News stories]] from Wikinews</span>
+</div><noinclude>
+[[Category:Sister project templates]]
+[[en:Template:Sisterlinks]]
+</noinclude>

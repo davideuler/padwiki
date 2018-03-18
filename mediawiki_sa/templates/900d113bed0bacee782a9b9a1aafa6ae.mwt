@@ -1,0 +1,48 @@
+{| id="persondata" class="persondata"
+! colspan="2" | [[Wikipedia:Persondata|Persondata]]
+|-
+| class="persondata-label" | NAME 
+| {{{NAME|}}}
+|- 
+| class="persondata-label" | ALTERNATIVE NAMES 
+| {{{ALTERNATIVE NAMES|}}}
+|- 
+| class="persondata-label" | SHORT DESCRIPTION
+| {{{SHORT DESCRIPTION|}}}
+|-
+| class="persondata-label" | DATE OF BIRTH
+| {{{DATE OF BIRTH|}}}
+|-
+| class="persondata-label" | PLACE OF BIRTH 
+| {{{PLACE OF BIRTH|}}}
+|-
+| class="persondata-label" | DATE OF DEATH
+| {{{DATE OF DEATH|}}}
+|-
+| class="persondata-label" | PLACE OF DEATH
+| {{{PLACE OF DEATH|}}}
+|}<noinclude>{{hprotected}}
+== Usage ==
+See [[Wikipedia:Persondata]]
+<pre>
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME=
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=
+|DATE OF BIRTH=
+|PLACE OF BIRTH=
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+</pre>
+[[af:Sjabloon:Persoondata]]
+[[als:Vorlage:Personendaten]]
+[[da:Skabelon:Persondata]]
+[[de:Vorlage:Personendaten]]
+[[fr:Modèle:Métadonnées personne]]
+[[ro:Format:Date personale]]
+[[sl:Predloga:Osebni podatki]]
+[[vi:Tiêu bản:Dữ liệu nhân vật]]
+[[Category:Wikipedia utility templates|{{PAGENAME}}]]
+</noinclude>

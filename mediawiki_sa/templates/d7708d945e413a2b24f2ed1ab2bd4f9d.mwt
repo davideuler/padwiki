@@ -1,0 +1,8 @@
+<div style="position: relative; width: {{{width}}}; height: {{{height}}}; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3">[[{{{link}}}|<span title="{{{title}}}">&nbsp;&nbsp;&nbsp;</span>]]</div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2">[[Image:{{{image}}}|{{{width}}}|{{{title}}}]]</div>
+</div>
+<noinclude>
+==See also==
+*{{tl|Click}}
+</noinclude>

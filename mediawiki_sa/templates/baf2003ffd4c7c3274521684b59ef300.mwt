@@ -1,0 +1,24 @@
+<includeonly>{| class="infobox vcard" cellspacing="5" style="width:23em; font-size:90%;"
+|+ style="font-size: larger; background-color:{{{bgcolour|transparent}}};" class="fn"| '''{{{name}}}'''
+{{#if:{{{image|}}}|<tr><td colspan="2" style="text-align: center;" {{#ifeq:{{ucfirst:{{{image}}}}}|Replace this image1.svg|class="metadata"|}}>[[Image:{{{image}}}|{{{imagesize|200px}}}| ]]<br />{{{caption|}}}</td></tr>}}<!--
+-->{{#if:{{{pseudonym|}}}|<tr><th style="text-align: right;">[[Pseudonym]]:</th><td class="nickname">{{{pseudonym|}}}</td></tr>}}
+|-
+! style="text-align: right;" | Born:
+| {{{birth_date}}}<br />{{{birth_place|}}}
+{{#if:{{{death_date|}}}|<tr><th style="text-align: right;">Died:</th><td>{{{death_date|}}}<br />{{{death_place|}}}</td></tr>}}<!--
+-->{{#if:{{{occupation|}}}|<tr><th style="text-align: right;">[[Employment|Occupation]]:</th><td>{{{occupation|}}}</td></tr>}}<!--
+-->{{#if:{{{nationality|}}}|<tr><th style="text-align: right;">[[Nationality]]:</th><td>{{{nationality|}}}</td></tr>}}<!--
+-->{{#if:{{{period|}}}|<tr><th style="text-align: right;">Writing period:</th><td>{{{period|}}}</td></tr>}}<!--
+-->{{#if:{{{genre|}}}|<tr><th style="text-align: right;">[[Literary genre|Genres]]:</th><td>{{{genre|}}}</td></tr>}}<!--
+-->{{#if:{{{subject|}}}|<tr><th style="text-align: right;">Subjects:</th><td>{{{subject|}}}</td></tr>}}<!--
+-->{{#if:{{{movement|}}}|<tr><th style="text-align: right;">[[Literary movement]]:</th><td>{{{movement|}}}</td></tr>}}<!--
+-->{{#if:{{{debut_works|}}}|<tr><th style="text-align: right;">Debut works:</th><td>{{{debut_works|}}}</td></tr>}}<!--
+-->{{#if:{{{spouse|}}}|<tr><th style="text-align: right;">Spouse:</th><td>{{{spouse|}}}</td></tr>}}<!--
+-->{{#if:{{{children|}}}|<tr><th style="text-align: right;">Children:</th><td>{{{children|}}}</td></tr>}}<!--
+-->{{#if:{{{relations|}}}|<tr><th style="text-align: right;">Parents:</th><td>{{{relations|}}}</td></tr>}}<!--
+-->{{#if:{{{influences|}}}|<tr><th style="text-align: right;">Influences:</th><td>{{{influences|}}}</td></tr>}}<!--
+-->{{#if:{{{influenced|}}}|<tr><th style="text-align: right;">Influenced:</th><td>{{{influenced|}}}</td></tr>}}<!--
+-->{{#if:{{{signature|}}}|<tr><th style="text-align: right;">Signature:</th><td>[[Image:{{{signature}}}|128px]]</td></tr>}}<!--
+-->{{#if:{{{website|}}}|<tr><th style="text-align: right;">Website:</th><td>{{{website|}}}</td></tr>}}<!--
+-->{{#if:{{{footnotes|}}}|<tr><td colspan="2" style="font-size: smaller; font-style: italic; border-top: 1px solid;">{{{footnotes|}}}</td></tr>}}
+|}</includeonly><noinclude>{{{{FULLPAGENAME}}/doc}}<!-- Add cats and interwikis to the /doc subpage, not here! --></noinclude>

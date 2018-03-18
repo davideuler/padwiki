@@ -1,0 +1,13 @@
+{|style="background: #efe; border: 3px groove #0c0; padding: 5px;" id="table1" width="100%"
+|-
+| width="65px" | [[Image:{{{img|Barnstar.png}}}|60px|Barnstar]]
+| valign="top" | <big>'''Congratulations: You have been awarded a {{{name=|}}} Barnstar!'''</big>
+----
+{{{1}}}
+|}<noinclude>
+<br>
+*To change the image of the barnstar, use the '''img''' variable, to add a name, use the '''name''' variable. You can find more barnstars at [[Commons:Category:Barnstars]]. For example, to award the Editor's Barnstar you would use: '''<nowiki>{{Barnstar|</nowiki>''Message''<nowiki>|img=Barnstar2.png}}</nowiki>'''</noinclude>
+
+<noinclude>
+[[Category:User templates]]
+</noinclude>

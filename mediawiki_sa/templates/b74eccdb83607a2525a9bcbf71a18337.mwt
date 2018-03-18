@@ -1,0 +1,99 @@
+{| class="infobox geography" style="width:20em;"
+! colspan=2 | {{{fullcountryname|{{PAGENAME}}}}}
+|-
+| colspan=2 |
+{| style=background:transparent
+|- align="center" 
+| <span style="border:1px solid #bbbbbb; display:table-cell;"> {{#if:{{{image_coa|}}}|[[Image:{{{image_flag}}}|125px|Flag]]
+{{!}} [[Image:{{{image_coa}}}|75px|Coat of arms]]|[[Image:{{{image_flag}}}|125px|center|Flag]]}}
+|- align="center" 
+| [[Flag of {{PAGENAME}}|Official flag]]{{#if:{{{image_coa|}}}| {{!}}{{!}} [[Coat of Arms of {{PAGENAME}}|Official Coat of Arms]]|}}
+|}
+|-
+! colspan=2 | [[Nation]]al [[information]]
+|-
+| style=width:25% | National [[motto]]:
+| style=width:75% | {{{nationalmotto|''None''}}}
+|-
+| style="white-space: nowrap;" | [[National anthem]]:
+| {{{nationalsong|''None''}}}
+|-
+! colspan=2 | About the [[people]]
+|-
+| [[Official language|Official languages]]:
+| {{{officiallanguages}}}
+|- valign="top"
+| [[Population]]:<br />(# of [[people]])
+| 
+* Total: {{{populationtotal}}}<br />(ranked #{{{populationrank}}})
+* Density: {{{populationdensity}}} per [[Square kilometre|km&sup2;]]
+|-
+! colspan=2 | [[Geography]] / [[Place]]s
+|-
+| colspan="2" align="center" | [[Image:{{{image_location}}}|250px|none|country map]] Here is the country on a [[map]] of the [[world]].
+|-
+| [[Capital (city)|Capital city]]:
+| {{{countrycapital}}}
+|-
+| Largest [[city]]:
+| {{{countrylargestcity}}}
+|- valign="top"
+| [[Area]]
+| 
+* Total: {{{areatotal}}}<br />(ranked #{{{arearank}}})
+* [[Water]]: {{{areawater}}} [[Square kilometre|km&sup2;]]  ({{{areawaterpercent}}}%)
+|-
+! colspan=2 | [[Politics]] / [[Government]]
+|-
+| [[Establishment|Established]]:
+| {{{establishedin}}}
+|-
+| [[Leader|Leaders]]:
+| {{{leadertitlename}}}
+|-
+! colspan=2 | [[Economy]] / [[Money]]
+|-
+| [[Currency]]:<br />(Name of [[money]])
+| {{{currency}}}
+|-
+! colspan=2 | [[International]] [[information]]
+|-
+| [[Time zone]]:
+| {{{utcoffset}}}
+|-
+| [[Telephone]] [[List of country calling codes|dialing code]]:
+| {{{dialingcode}}}
+|-
+| [[List of Internet top-level domains|Internet]] domain:
+| {{{internettld}}}
+|}<noinclude>
+{| style=background:transparent 
+| <pre>
+{{Infobox Country
+| fullcountryname = 
+| image_flag = 
+| image_coa = 
+| image_location = 
+| nationalmotto = 
+| nationalsong = 
+| officiallanguages = 
+| populationtotal = 
+| populationrank = 
+| populationdensity = 
+| countrycapital = 
+| countrylargestcity = 
+| areatotal = 
+| arearank =  
+| areawater = 
+| areawaterpercent = 
+| establishedin = 
+| leadertitlename = 
+| currency = 
+| utcoffset = 
+| dialingcode =  
+| internettld = 
+}}
+</pre>
+|}
+[[Category:Infobox templates]]
+</noinclude>

@@ -1,0 +1,10 @@
+Thank you for {{#if:{{{1|}}}|experimenting with the page [[:{{{1}}}]]|trying things out}} on Wikipedia.  Your test worked, and it is now gone.  Please use [[Wikipedia:Sandbox|the sandbox]] if you want to do any more tests, and see the [[Wikipedia:Welcome|welcome page]] if you want to learn about helping Simple English Wikipedia.<!-- Template:Test --><noinclude>{{subst notice}}
+[[Category:Vandalism templates]]
+[[de:Vorlage:Test]]
+[[en:Template:Test]]
+[[es:Plantilla:Prueba]]
+[[fr:Modèle:Test 1]]
+[[ik:Template:Test-en]]
+[[lv:Template:Test]]
+[[zh:Template:Test]]
+</noinclude>

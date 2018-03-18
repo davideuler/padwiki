@@ -1,0 +1,11 @@
+{{dablink|{{#if: {{{1|}}}|This article is about {{{1}}}.&#32;|}}For {{#if: {{{2|}}}|{{{2}}}|other uses}}, see [[{{#if: {{{3|}}}|{{{3}}}|{{PAGENAME}} (disambiguation)}}]].}}<noinclude>
+
+{{hprotected}}
+
+----
+For further information, see talk page.
+[[Category:Disambiguation and redirection templates|{{PAGENAME}}]]  The <nowiki>{{about}}</nowiki> template redirects here, so take that into account while considering visibility.
+<!--Other languages-->
+[[sl:Predloga:Drugipomeni4]]
+[[vi:Tiêu bản:Otheruses4]]
+</noinclude>

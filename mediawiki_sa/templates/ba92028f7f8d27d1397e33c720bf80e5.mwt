@@ -1,0 +1,35 @@
+<div id="section_SpokenWikipedia" class="infobox sisterproject noprint">
+<div style="text-align: center">'''[[:Media:{{{1}}}|Listen to this article]] &middot; [[:Image:{{{1}}}|(info)]]'''</div>
+{{Spoken Wikipedia boilerplate|{{{2}}}|{{{1}}} }}<noinclude>
+__NOTOC__
+
+==Purpose==
+This template links to the [[Wikipedia:WikiProject Spoken Wikipedia|spoken]] version of the article.
+
+==Location==
+This template should be placed in the '''External links''' section of the article.
+
+==Usage==
+<code><nowiki>{{Spoken article|Name of file.ogg|date of article revision that corresponds to the audio file}}</nowiki></code>
+
+Example at [[Devon]]
+:<code><nowiki>{{Spoken article|Simple Devon, oldid 211351.ogg|2006-10-12}}</nowiki></code>
+
+==Note==
+This template adds a small sound icon at the top of the article
+
+==Category==
+This template adds the article into [[:Category:Spoken articles]]
+
+==Project==
+This template is part of [[Wikipedia:WikiProject Spoken Wikipedia]].
+
+==See also==
+*{{tl|Listen}}
+*{{tl|Audio}}
+
+[[Category:Title templates|{{PAGENAME}}]]
+
+[[pl:Szablon:Spoken Wikipedia]]
+[[en:Spoken Wikipedia]]
+</noinclude>

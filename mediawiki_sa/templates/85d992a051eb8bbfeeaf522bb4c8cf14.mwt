@@ -1,0 +1,51 @@
+{{#if:{{{date_of_launch|{{{rev|{{{current_status|{{{reg|{{{websitelogo|{{{websitename|}}}}}}}}}}}}}}}}}}|{{Cleanup-infobox-transclusion|Infobox Website}}}}
+{| class="infobox borderless" style="align: right; font-size: 90%; text-align: left; width: 24em;" summary="Template:Infobox Website"
+|+ style="font-size: 125%; vertical-align: middle;" |{{#if:{{{favicon|}}}|[[Image:{{{favicon}}}|16px|favicon of {{{name}}}]]&nbsp;&#32;|}} '''{{{websitename|{{{name}}}}}}'''
+{{#if:{{{websitelogo|{{{logo|}}}}}}|<tr><td colspan="2" style="text-align: center;">{{{websitelogo|{{{logo}}}}}}</td></tr>|}}<!--
+-->{{#if:{{{screenshot|}}}|<tr><td colspan="2" style="text-align: center; border: 0px solid #aaaaaa">{{{screenshot}}}{{#if:{{{caption|}}}|<br /><span style="font-size: smaller;">{{{caption}}}</span>|}}}}
+|-
+! [[Uniform Resource Locator|URL]]
+| {{{url}}}<!--
+-->{{#if:{{{Earns_money|}}}|<tr><th>Used to earn money?</th><td>{{{Earns_money}}}</td></tr>|}}
+|- 
+! Type of site
+| {{{type}}}<!--
+-->{{#if:{{{account|}}}|<tr><th>Need an account?</th><td>{{{account}}}</td></tr>|}}
+|- style="vertical-align: top;"
+! Owned by
+| {{{owner}}}
+|- 
+! Created by
+| {{{author}}}<!--
+-->{{#if:{{{date_started|{{{starting date|}}}}}}|<tr><th>Date started</th><td>{{{date_started|{{{starting date}}}}}}</td></tr>|}}<!--
+-->{{#if:{{{ME|{{{money earned|}}}}}}|<tr><th>Money earned</th><td>{{{ME|{{{money earned}}}}}}</td></tr>|}}<!--
+-->{{#if:{{{current_status|{{{current status|}}}}}}|<tr><th>Current status of site</th><td>{{{current_status|{{{current status}}}}}}</td></tr>|}}
+|}<noinclude>
+
+== Usage ==
+{| style="border: none; background: none;"
+|<pre>
+{{Infobox Website
+| name = 
+| favicon = 
+| logo = 
+| screenshot = 
+| caption = 
+| url = 
+| earns_money = 
+| type = 
+| account = 
+| owner = 
+| author = 
+| starting date = 
+| current status = 
+| money earned = 
+}}
+</pre>
+|}
+'''name''', '''type''', '''owner''', and '''author''' are required fields.
+[[Category:Infobox templates]]
+[[en:Template:Infobox Website]]
+[[es:Plantilla:Sitio web]]
+[[pl:Szablon:Infobox Strona WWW]]
+</noinclude>

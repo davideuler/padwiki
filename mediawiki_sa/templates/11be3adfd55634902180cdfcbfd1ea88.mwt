@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Azerbaijan
+| shortname alias = Azerbaijan
+| flag alias      = Flag of Azerbaijan.svg
+| flag alias-1918 = Flag of the Democratic Republic of Azerbaijan.svg
+| flag alias-1952 = Flag-azerbaijan-ssr.png
+| flag alias-SSR  = Flag-azerbaijan-ssr.png
+| flag alias-naval = Naval Ensign of Azerbaijan.svg
+| link alias-naval = Azerbaijan Navy
+| countryname = {{{countryname|Azerbaijan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Azerbaijan|1918}}</nowiki> = {{flag|Azerbaijan|1918}}
+* <nowiki>{{flag|Azerbaijan|1952}}</nowiki> = {{flag|Azerbaijan|1952}}
+* <nowiki>{{flag|Azerbaijan|SSR}}</nowiki> = {{flag|Azerbaijan|SSR}}
+* <nowiki>{{flag|Azerbaijan|naval}}</nowiki> = {{flag|Azerbaijan|naval}}
+</noinclude>

@@ -1,0 +1,4 @@
+Version 2010.04.05   David Lv
+  1.When page not found, show the search box.
+  2.Use in memory file instead of temp file in processing wiki markup
+  3.Fix bugs on error open pages like: http://localhost:8000/article/1997%E5%B9%B4/  (for error of undefined function of ctype_alpha() )

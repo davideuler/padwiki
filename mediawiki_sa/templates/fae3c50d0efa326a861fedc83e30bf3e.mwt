@@ -1,0 +1,116 @@
+<cite class="book" style="font-style:normal">{{qif
+  |test={{{author|{{{last|}}}}}}
+  |then={{qif
+    |test={{{authorlink|}}}
+    |then=[[{{{authorlink}}}|{{qif
+      |test={{{last|}}}
+      |then={{{last}}}{{qif
+        |test={{{first|}}}
+        |then=, {{{first}}}
+      }}
+      |else={{{author}}}
+    }}]]
+    |else={{qif
+      |test={{{last|}}}
+      |then={{{last}}}{{qif
+        |test={{{first|}}}
+        |then=, {{{first}}}
+      }}
+      |else={{{author}}}
+    }}
+  }}
+}}{{qif
+  |test={{{author|{{{last|}}}}}}
+  |then={{qif
+    |test={{{coauthors|}}}
+    |then=<nowiki>;</nowiki>&#32;{{{coauthors}}}
+  }}
+}}{{qif
+  |test={{{origdate|}}}
+  |then=&#32;<nowiki>[</nowiki>{{{origdate}}}]
+  |else={{qif
+    |test={{{origyear|}}}
+    |then={{qif
+      |test={{{origmonth|}}}
+      |then=&#32;<nowiki>[</nowiki>{{{origmonth}}} {{{origyear}}}]
+      |else=&#32;<nowiki>[</nowiki>{{{origyear}}}]
+    }}
+  }}
+}}{{qif
+  |test={{{date|}}}
+  |then=&#32;({{{date}}})
+  |else={{qif
+    |test={{{year|}}}
+    |then={{qif
+      |test={{{month|}}}
+      |then=&#32;({{{month}}} {{{year}}})
+      |else=&#32;({{{year}}})
+    }}
+  }}
+}}{{qif
+  |test={{{author|{{{last|}}}}}}
+  |then=.
+}}{{qif
+  |test={{{chapter|}}}
+  |then=&#32;“{{qif
+   |test={{{chapterurl|}}}
+   |then=[{{{chapterurl}}} {{{chapter}}}]
+   |else={{{chapter}}}
+}}”}}{{qif
+  |test={{{editor|}}}
+  |then=&#32;{{{editor}}}
+}} ''{{qif
+  |test={{{url|}}}
+  |then=[{{{url}}} {{{title}}}]
+  |else={{{title}}}
+}}''{{qif
+  |test={{{format|}}}
+  |then=&#32;({{{format}}})
+}}{{qif
+  |test={{{others|}}}
+  |then=, {{{others}}}
+}}{{qif
+  |test={{{edition|}}}
+  |then=, {{{edition}}}
+}}{{qif
+  |test={{{language|}}}
+  |then=&#32;(in {{{language}}})
+}}{{qif
+  |test={{{pages|}}}
+  |then=,&#32;{{{pages}}}
+}}{{qif
+  |test={{{publisher|}}}
+  |then=, {{qif
+    |test={{{location|}}}
+    |then={{{location}}}:&#32;
+  }}{{{publisher}}}
+}}{{qif
+  |test={{{id|}}}
+  |then=. {{{id}}}
+}}{{qif
+  |test={{{accessdate|}}}
+  |then=. URL accessed [[{{{accessdate}}}]]
+  |else={{qif
+    |test={{{accessyear|}}}
+    |then=. URL accessed {{qif
+      |test={{{accessmonth|}}}
+      |then=on [[{{{accessmonth}}} {{{accessyear}}}]]
+      |else=during [[{{{accessyear}}}]]
+    }}
+  }}
+}}.{{qif
+  |test={{{quote|}}}
+  |then=&nbsp;“{{{quote}}}”
+}}</cite><noinclude>
+
+
+This template replaces the deprecated {{tl|book reference}}.
+{{esoteric}}
+[[Category:Citation templates|{{PAGENAME}}]]
+
+[[ja:Template:Cite book]]
+[[no:mal:Kilde bok]]
+[[ru:Шаблон:Описание книги]]
+[[sk:Šablóna:Knižná referencia]]
+[[vi:Tiêu bản:Chú thích sách]]
+</noinclude>

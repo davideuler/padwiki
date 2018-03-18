@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = West Germany
+| shortname alias = West Germany
+| flag alias      = Flag of Germany.svg
+| flag alias-naval = Naval Ensign of Germany.svg
+| link alias-naval = German Federal Navy
+| link alias-football = Germany {{{mw|}}} national football team
+| link alias-field hockey = Germany {{{mw|}}} national field hockey team
+| link alias-tennis = Germany {{{mw}}} Cup team
+| countryname = {{{countryname|West Germany<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|West Germany|naval}}</nowiki> = {{flag|West Germany|naval}}
+</noinclude>

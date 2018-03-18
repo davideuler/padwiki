@@ -1,0 +1,11 @@
+{{fix
+|link=Wikipedia:Dead external links
+|text=dead link
+|post-text={{#if: {{{url<includeonly>|</includeonly>}}}| <nowiki /> &ndash; [http://web.archive.org/web/*/{{{url|}}} ''history'']}}
+|title=The preceding link appears to be dead
+|date={{{date|}}}
+|cat=[[Category:All articles with dead external links]]
+|cat-date=Category:Articles with dead external links}}<noinclude>
+{{{{FULLPAGENAME}}/doc}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

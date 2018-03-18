@@ -1,0 +1,10 @@
+<div class="infobox sisterproject">
+<div style="float: left;">[[Image:Wikisource-logo.svg|50px|none|Wikisource]]</div>
+<div style="margin-left: 60px;">[[Wikisource]] has original works written by or about:
+<div style="margin-left: 10px;">'''''[[:s:Author:{{{1|{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]'''''</div>
+</div>
+</div>
+
+<noinclude>
+[[Category:Sister project templates]]
+</noinclude>

@@ -1,0 +1,20 @@
+{{{1}}}<span style="font-weight: normal"> (<span class="t_nihongo_kanji" lang="ja">{{{2}}}</span>{{#if:{{{3|}}}
+ |<span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji">{{{3}}}</span></i>
+ |<span class="t_nihongo_norom" style="display:none"><span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji">{{{1}}}</span></i></span>
+}}<span class="t_nihongo_help"><sup>[[Help:Japanese|<span class="t_nihongo_icon" style="color:#00e;font:bold 80% sans-serif;text-decoration:none;padding:0 .1em;">?</span>]]</sup></span>{{#if:{{{4| {{{extra|}}} }}}
+ |{{#if:{{{3|}}}|,|<span></span>}} {{{4| {{{extra}}} }}}
+}}){{
+  #if: {{{5| {{{extra2|}}} }}} | <nowiki></nowiki> {{{5| {{{extra2}}} }}}
+}}</span><noinclude>
+{| style="background: none; border: none;"
+|+ Usage
+|<pre>{{nihongo|English|Kanji|Romaji|extra|extra2}}</pre>
+|}
+[[Category:Wikipedia templates|{{PAGENAME}}]]
+[[en:Template:Nihongo]]
+[[fr:Template:Nihongo]]
+[[it:Template:Nihongo]]
+[[ru:Шаблон:Нихонго]]
+[[vi:Tiêu bản:Nihongo]]
+[[zh:Template:Japanese]]
+</noinclude>

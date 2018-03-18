@@ -1,0 +1,9 @@
+<div style="float: left; margin-left: 5px;">[[Image:Sound-icon.svg|45px|none|Spoken Wikipedia]]</div>
+<div style="font-size: xx-small; line-height: 1.6em; margin-left: 60px;">This audio file was created from an article revision dated [[{{{1}}}]], and does not reflect subsequent edits to the article. ([[Wikipedia:Help with media files|Audio help]])</div>
+<div style="text-align: center; clear: both">'''[[{{SITENAME}}:Spoken articles|More spoken articles]]'''</div>
+[[Category:Spoken articles]]
+</div>
+<div style="right:30px; display:none;" class="metadata topicon" id="spoken-icon">{{click|link=media:{{{2}}}|image=Sound-icon.svg|width=16px|height=12px|title=This is a spoken article. Click here to listen.}}</div><noinclude>
+
+[[Category:Title templates|{{PAGENAME}}]]
+</noinclude>

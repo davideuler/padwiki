@@ -1,0 +1,116 @@
+{| class="infobox" style="width: 20em; font-size: 85%"
+! colspan="2" style="text-align: center; font-size: larger; background: {{{bgcolor|transparent}}}; " | '''''{{{name}}}'''''
+|- 
+{{ #if: {{{director|}}}|
+{{!}} style="text-align: right;" {{!}} '''Directed by'''
+{{!}} {{{director}}}
+{{!}}-
+}}
+{{ #if: {{{producer|}}}|
+{{!}} style="text-align: right;" {{!}} '''Produced by'''
+{{!}} {{{producer}}}
+{{!}}-
+}}
+{{ #if: {{{writer|}}}|
+{{!}} style="text-align: right;" {{!}} '''Written by'''
+{{!}} {{{writer}}}
+{{!}}-
+}}
+{{ #if: {{{music|}}}|
+{{!}} style="text-align: right;" {{!}} '''Music by'''
+{{!}} {{{music}}}
+{{!}}-
+}}
+{{ #if: {{{cinematography|}}}|
+{{!}} style="text-align: right;" {{!}} '''Cinematograpy by'''
+{{!}} {{{cinematography}}}
+{{!}}-
+}}
+{{ #if: {{{editing|}}}|
+{{!}} style="text-align: right;" {{!}} '''Edited by'''
+{{!}} {{{editing}}}
+{{!}}-
+}}
+{{ #if: {{{ex-prod|}}}|
+{{!}} style="text-align: right;" {{!}} '''Executive producer(s)'''
+{{!}} {{{ex-prod}}}
+{{!}}-
+}}
+{{ #if: {{{cast|}}}|
+{{!}} style="text-align: right;" {{!}} '''Starring'''
+{{!}} {{{cast}}}
+{{!}}-
+}}
+{{ #if: {{{tagline|}}}|
+{{!}} style="text-align: right;" {{!}} '''Tagline'''
+{{!}} {{{tagline}}}
+{{!}}-
+}}
+{{ #if: {{{company|}}}|
+{{!}} style="text-align: right;" {{!}} '''Production companies'''
+{{!}} {{{company}}}
+{{!}}-
+}}
+{{ #if: {{{distributor|}}}|
+{{!}} style="text-align: right;" {{!}} '''Distributed by'''
+{{!}} {{{distributor}}}
+{{!}}-
+}}
+{{ #if: {{{released|}}}|
+{{!}} style="text-align: right;" {{!}} '''Released'''
+{{!}} {{{released}}}
+{{!}}-
+}}
+{{ #if: {{{runtime|}}}|
+{{!}} style="text-align: right;" {{!}} '''Running time'''
+{{!}} {{{runtime}}} [[minute|mins]]
+{{!}}-
+}}
+{{ #if: {{{country|}}}|
+{{!}} style="text-align: right;" {{!}} '''Country'''
+{{!}} {{{country}}}
+{{!}}-
+}}
+{{ #if: {{{language|}}}|
+{{!}} style="text-align: right;" {{!}} '''Language'''
+{{!}} {{{language}}}
+{{!}}-
+}}
+{{ #if: {{{budget|}}}|
+{{!}} style="text-align: right;" {{!}} '''Budget'''
+{{!}} {{{budget}}}
+{{!}}-
+}}
+{{ #if: {{{came_after|}}}|
+{{!}} style="text-align: right;" {{!}} '''Came after'''
+{{!}} {{{came_after}}}
+{{!}}-
+}}
+{{ #if: {{{came_before|}}}|
+{{!}} style="text-align: right;" {{!}} '''Came before'''
+{{!}} {{{came_before}}}
+{{!}}-
+}}
+{{ #if: {{{wikiquote|}}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} [[Image:Wikiquote-logo.svg|20px]] '''[[wikiquote:{{{wikiquote}}}|Wikiquote list (in English)]]'''
+{{!}}-
+}}
+{{ #if: {{{director|}}}|
+{{!}} colspan="2" style="text-align: center;"  {{!}} '''[http://www.imdb.com/title/tt{{{imdb_id}}} IMDb profile]'''
+{{!}}-
+}}
+|}
+
+<noinclude>
+----
+:''See [[Template talk:Infobox Movie|the talk page]] for information on how to use the infobox.''
+[[Category:Entertainment templates|Infobox Movie]]
+
+[[bs:Template:Film]]
+[[en:Template:Infobox Film]]
+[[es:Plantilla:Ficha de película]]
+[[no:Mal:Infoboks film]]
+[[pl:Szablon:Film]]
+[[sr:Шаблон:Филм]]
+[[sv:Mall:Filmfakta]]
+</noinclude>

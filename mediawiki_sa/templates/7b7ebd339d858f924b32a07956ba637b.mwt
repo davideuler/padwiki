@@ -1,0 +1,24 @@
+{| align="center" style="border-collapse:collapse; border-style:none; background-color:transparent;" class="cquote"
+| width="20" valign="top" style="color:#B2B7F2;font-size:{{#switch:{{{size|{{{2|{{{quotewidth|{{{width|20px}}}}}}}}}}}}
+|10px=20px
+|30px=60px
+|40px=80px
+|50px=100px
+|60px=120px
+|#default=35px}};font-family:'Times New Roman',serif;font-weight:bold;text-align:left;padding:10px 10px;" | “
+| valign="top" style="padding:4px 10px;" | {{{1|Insert the text of the quote here, without quotation marks. <noinclude>{{lorem ipsum}}</noinclude>}}}
+| width="20" valign="bottom" style="color:#B2B7F2;font-size:{{#switch:{{{size|{{{2|{{{quotewidth|{{{width|20px}}}}}}}}}}}}
+|10px=20px
+|30px=60px
+|40px=80px
+|50px=100px
+|60px=120px
+|#default=36px}};font-family:'Times New Roman',serif;font-weight:bold;text-align:right;padding:10px 10px;" | ”
+|-
+{{#if:{{{4|}}}{{{5|}}}|
+{{!}} colspan="3" style="padding-top: 10px" {{!}} {{#if:{{{4|<noinclude>Origin</noinclude>}}}|<p style="font-size:smaller;line-height:1em;text-align: right"><cite style="font-style:normal;">—{{{4}}}{{#if:{{{5|<noinclude>Source</noinclude>}}}|, {{{5}}}}}</cite></p>}}
+}}
+|}<!-- {{subst:FULLPAGENAME}} --><noinclude>
+{{protected template}}
+{{/doc}}
+</noinclude>

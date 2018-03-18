@@ -1,0 +1,7 @@
+<div class="infobox sisterproject">
+<div style="float: left;">[[Image:Wikinews-logo.png|50px|none|Wikinews|]]</div>
+<div style="margin-left: 60px;">Look up '''''[[wikinews:{{{1|Special:Search/{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]''''' in [[Wikinews]], the free content news source</div>
+</div>
+<noinclude>
+[[Category:Sister project templates]]
+</noinclude>

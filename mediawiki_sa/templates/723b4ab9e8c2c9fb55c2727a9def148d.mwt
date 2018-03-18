@@ -1,0 +1,7 @@
+<div class="messagebox cleanup" style="width:100%; text-align:left;"><p>This blocked user (<span style="font-size:0.9em;" class="plainlinks">[{{fullurl:Special:Log|type=block&page=User:{{PAGENAMEE}}}} block log] | [{{fullurl:Special:Ipblocklist|action=unblock&ip={{PAGENAMEE}}}} unblock] | [[Special:Contributions/{{PAGENAMEE}}|contribs]]</span>) asked to be unblocked, but one or more [[Wikipedia:Administrators|administrators]] said no to this request.  Other administrators can also review this block, but should not unblock the user without a good reason.</p><!--
+--><p style="margin-left:2em;">Request reason: "{{{1|('''''NO REASON GIVEN''''')}}}"</p><!--
+-->{{#if:{{{2|{{{decline|}}}}}}|<p style="margin-left:2em;">Decline reason: "{{{2|{{{decline}}}}}}"</p>|}}</div><noinclude>
+
+Administrators, if you have reviewed an unblock request, replace "<tt><nowiki>{{unblock|</nowiki>''reason for request''<nowiki>}}</nowiki></tt>" with "<tt><nowiki>{{unblock reviewed|</nowiki>''reason for request''|''reason for declining --<nowiki>~~~~</nowiki>''<nowiki>}}</nowiki></tt>".
+
+'''Note''': If your reason for declining doesn't show up, it means your signature is breaking it. Use "<tt><nowiki>{{unblock reviewed|</nowiki>''reason for request''|''decline=reason for declining --<nowiki>~~~~</nowiki>''<nowiki>}}</nowiki></tt>" in such cases.</noinclude>

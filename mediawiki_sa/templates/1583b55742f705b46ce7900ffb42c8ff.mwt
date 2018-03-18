@@ -1,0 +1,49 @@
+{| class="toccolours" style="float:right; clear:right; margin-left:1em; width:24em; text-align:left; font-size:90%;"
+|+ style="font-size: larger; margin: inherit;" | '''{{{Name}}}'''
+|- class{{{Image|}}}="hiddenStructure"
+| colspan="2" style="text-align: center;" | 
+[[Image:{{{Image|}}}|{{{image-size|200px}}}|{{{Caption}}}]]
+|-
+|colspan="2" style="text-align:center;" | '''[[Formula One]] Career'''
+|- style="vertical-align: top;"
+! Nationality
+| {{{Nationality}}}
+|- style="vertical-align: top;"
+! Active years
+| {{{Years}}}
+|- style="vertical-align: top;"
+! Team(s)
+| {{{Team(s)}}}
+|- style="vertical-align: top;"
+! Grands Prix
+| {{{Races}}}
+|- style="vertical-align: top;"
+! [[List of Formula One World Drivers' Champions|Championships]]
+| {{{Championships}}}
+|- style="vertical-align: top;"
+! Wins
+| {{{Wins}}}
+|- style="vertical-align: top;"
+! Podium&nbsp;finishes&nbsp;&nbsp;&nbsp;
+| {{{Podiums}}}
+|- style="vertical-align: top;"
+! [[Pole position]]s
+| {{{Poles}}}
+|- style="vertical-align: top;"
+! Fastest laps
+| {{{Fastest laps}}}
+|- style="vertical-align: top;"
+! First Grand Prix
+| {{{First race}}}
+|- style="vertical-align: top;"
+! First win
+| {{{First win}}}
+|- style="vertical-align: top;"
+! Last win
+| {{{Last win}}}
+|- style="vertical-align: top;"
+! Last Grand Prix
+| {{{Last race}}}
+|}<noinclude>
+[[Category:sports infobox templates|F1 driver, former]]
+</noinclude>

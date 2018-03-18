@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Canada
+| shortname alias = Canada
+| flag alias      = Flag of Canada.svg
+| flag alias-1868 = Flag of Canada-1868-Red.svg
+| flag alias-1921 = Canadian Red Ensign 1921.svg
+| flag alias-1957 = Canadian Red Ensign.svg
+| flag alias-naval = Naval Jack of Canada.svg
+| link alias-naval = Canadian Forces Maritime Command 
+| link alias-football = Canada {{{mw|men's}}} national soccer team
+| link alias-basketball = Canada national {{{mw|men's}}} basketball team
+| countryname = {{{countryname|Canada<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Canada|1868}}</nowiki> = {{flag|Canada|1868}}
+* <nowiki>{{flag|Canada|1921}}</nowiki> = {{flag|Canada|1921}}
+* <nowiki>{{flag|Canada|1957}}</nowiki> = {{flag|Canada|1957}}
+* <nowiki>{{flag|Canada|naval}}</nowiki> = {{flag|Canada|naval}}
+
+[[af:Sjabloon:Landdata Kanada]]
+[[sl:Predloga:Podatki države Kanada]]
+</noinclude>

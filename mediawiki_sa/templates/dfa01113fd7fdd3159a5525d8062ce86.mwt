@@ -1,0 +1,9 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Eritrea
+| shortname alias = Eritrea
+| flag alias      = Flag of Eritrea.svg
+| countryname = {{{countryname|Eritrea<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}

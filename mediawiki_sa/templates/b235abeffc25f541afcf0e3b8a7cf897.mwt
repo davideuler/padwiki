@@ -1,0 +1,4 @@
+<includeonly>{{#if:{{{text|}}}|<sup class="{{{class|noprint}}}"><span title="{{{title|}}}{{#if:{{{date|}}}|&nbsp;since {{{date}}}}}" style="white-space: nowrap;">&#91;''{{{pre-text|}}}[[{{{link|Wikipedia:Cleanup}}}|{{{text|}}}]]{{{post-text|}}}''&#93;</span></sup>|{{{special|}}}}}{{#if:{{NAMESPACE}}||{{{cat|[[Category:All pages needing cleanup]]}}}{{#if:{{{cat-date|}}}|[[{{{cat-date}}} {{#if:{{{date|}}}|since {{{date}}}}}]]}}}}</includeonly><noinclude>
+{{template doc}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

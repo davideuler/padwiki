@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Finland
+| shortname alias = Finland
+| flag alias      = Flag of Finland.svg
+| flag alias-naval = Naval Ensign of Finland.svg
+| link alias-naval = Finnish Navy
+| countryname = {{{countryname|Finland<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Finland|naval}}</nowiki> = {{flag|Finland|naval}}
+[[sl:Predloga:Podatki države Finska]]
+</noinclude>

@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Uzbekistan
+| shortname alias = Uzbekistan
+| flag alias      = Flag of Uzbekistan.svg
+| flag alias-SSR  = Flag of Uzbek SSR.svg
+| countryname = {{{countryname|Uzbekistan<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Uzbekistan|SSR}}</nowiki> = {{flag|Uzbekistan|SSR}}
+</noinclude>

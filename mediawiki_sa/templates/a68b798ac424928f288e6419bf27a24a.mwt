@@ -1,0 +1,5 @@
+<div name="Deletion notice" class="notice" id="delete" style="margin:0 5%; padding:.5em; background:{{{bgcolor|#FEE}}}; border:1px solid #999; text-align:left; font-size:95%;">'''An editor has asked for [[Wikipedia:Deletion policy#Quick deletion|quick deletion]] of this page.  The editor's reason for asking for deletion is: <i id="delete-reason">{{{1}}} {{{reason|}}}</i>'''
+
+If you disagree with its deletion, please explain why on [[{{TALKSPACE}}:{{PAGENAME}}|this page's talk page]].  Please do not remove this notice from pages that you have created yourself.
+
+<span class="plainlinks">''[[Wikipedia:Administrators|Administrators]], remember to check [[Special:Whatlinkshere/{{SUBJECTPAGENAME}}|what links here]], the [{{fullurl:{{SUBJECTPAGENAME}}|action=history}} page history] ([{{fullurl:{{SUBJECTPAGENAME}}|diff=0}} last edit]), and the [{{fullurl:Special:Log|page={{SUBJECTPAGENAMEE}}}} page log], before [{{fullurl:{{SUBJECTPAGENAME}}|{{#if:{{{reasonlink|}}}|wpReason={{{reasonlink}}}&|}}action=delete}} deletion][[Template:Db-reason|.]] {{{notes|}}}''</span></div>

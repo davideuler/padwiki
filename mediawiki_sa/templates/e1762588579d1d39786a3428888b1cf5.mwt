@@ -1,0 +1,43 @@
+<noinclude>
+{| style="float: left; background-color: transparent;"
+|+ Usage
+|<pre>{{Infobox British television|
+| show_name = 
+| image = 
+| size = 
+| caption = 
+| format = 
+| picture_format = 
+| runtime = 
+| creator = 
+| starring = 
+| channel = 
+| first_aired = 
+| last_aired = 
+| num_series = 
+| num_episodes = 
+| producer = 
+| related =
+| imdb_id = 
+}}</pre>
+|}</noinclude>
+{| class="infobox" style="width: 20em; float: right; clear: right; font-size: 90%" cellspacing="4"
+|-
+| style="font-size: larger; text-align: center;" colspan="2" | '''''{{{show_name}}}'''''
+{{#if:{{{image|}}}|<tr><td colspan="2" style="font-size: smaller; text-align: center;">[[{{{image}}}|{{{size}}}]]<br />{{{caption}}}</td></tr>}}{{#if:
+{{{format|}}}|<tr><td>'''Format'''</td><td>{{{format}}}</td></tr>}}{{#if:
+{{{picture_format|}}}|<tr><td>'''Picture format'''</td><td>{{{picture_format}}}</td></tr>}}{{#if:
+{{{runtime|}}}|<tr><td>'''Run time'''</td><td>{{{runtime}}}</td></tr>}}{{#if:
+{{{creator|}}}|<tr><td>'''Creator(s)'''</td><td>{{{creator}}}</td></tr>}}{{#if:
+{{{starring|}}}|<tr><td>'''Starring'''</td><td>{{{starring}}}</td></tr>}}{{#if:
+{{{channel|}}}|<tr><td>'''Channel'''</td><td>{{{channel}}}</td></tr>}}{{#if:
+{{{producer|}}}|<tr><td>'''Production company'''</td><td>{{{producer}}}</td></tr>}}{{#if:
+{{{related|}}}|<tr><td>'''Related shows'''</td><td>{{{related}}}</td></tr>}}{{#if:
+{{{first_aired|}}}|<tr><td>'''Airdates'''</td><td><span style="white-space: nowrap;">{{{first_aired}}}</span> &ndash; <span style="white-space: nowrap;">{{{last_aired}}}</span></td></tr>}}{{#if:
+{{{num_series|}}}|<tr><td>'''No. of series'''</td><td>{{{num_series}}}</td></tr>}}{{#if:
+{{{num_episodes|}}}|<tr><td>'''No. of episodes'''</td><td>{{{num_episodes}}}</td></tr>}}{{#if:
+{{{imdb_id|}}}|<tr><td colspan="2" style="text-align: center;">'''[http://www.imdb.com/title/tt{{{imdb_id}}} IMDb profile]'''</td></tr>}}
+|}<noinclude>
+[[Category:Templates using ParserFunctions|{{PAGENAME}}]]
+[[Category:Entertainment templates]]
+</noinclude>

@@ -1,0 +1,53 @@
+<noinclude>{{subst notice}}</noinclude>
+== Welcome to Simple English Wikipedia ==
+{| style="background-color:#F5FFFA; padding:0;" cellpadding="0"
+|class="MainPageBG" style="border:1px solid #084080; background-color:#F5FFFA; vertical-align:top; color:#000000; font-size:85%"|
+{| width="100%" cellpadding="0" cellspacing="5" style="vertical-align:top; background-color:#F5FFFA; padding:0;"
+! <div style="margin:0; background-color:#CEF2E0; font-family:sans-serif; font-size:120%; border:1px solid #084080; text-align:left; padding-left:0.4em; padding-top:0.2em; padding-bottom:0.2em;">Hi {{<includeonly>SUBST:</includeonly>PAGENAME}}, [[Wikipedia:Welcome|welcome]] to Simple English Wikipedia!  Thank you for [[Special:Contributions/{{<includeonly>SUBST:</includeonly>PAGENAME}}|your contributions]].  If you decide that you need help, check out [[Help:Contents|the Help section]] of Wikipedia or leave a message on my talk page.  Please remember to sign your name on talk pages by typing four tildes (<nowiki>~~~~</nowiki>); this will automatically produce your name and the date.  Finally, please do your best to '''always fill in the edit summary field.  Below are some useful links to facilitate your involvement. Happy editing!  ~~<noinclude></noinclude>~~
+|}
+{| width="100%" style="background-color:#F5FFFA;"
+|class="MainPageBG" style="width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top"|
+{| width="100%" cellpadding="0" cellspacing="5" style="vertical-align:top; background-color:#F5FFFA"
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Getting Started</div>
+|-
+|style="color:#000"|
+* How to: [[Wikipedia:How to edit a page|edit a page]] • [[Wikipedia:How to write Simple English articles|write Simple English articles]]
+|-
+! <div style="margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Getting Help</div>
+|-
+| style="color:#000"|
+* [[Wikipedia:FAQ|Frequently Asked Questions]]
+* [[Wikipedia:Administrators|Request administrator attention]]
+|-
+! <div style="margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Policies and Guidelines</div>
+|-
+| style="color:#000"|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:Verifiability|Verifiability]]
+* [[Wikipedia:Citing sources|Citing sources]] • [[Wikipedia:What Wikipedia is not|What Wikipedia is not]]
+<hr />
+* [[Wikipedia:Copyrights|Copyrights]] • [[Wikipedia:Image use policy|Image use policy]]
+* [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]] • [[Wikipedia:Deletion policy|Deletion policy]]
+|-
+|}
+|class="MainPageBG" style="width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top"|
+{| width="100%" cellpadding="0" cellspacing="5" style="vertical-align:top; background-color:#F5FFFA"
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">The Community</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]]
+* [[Wikipedia:Community Portal|Community Portal]] • [[Wikipedia:Simple talk|Simple talk]]
+* [[Wikipedia:Announcements|Announcements]] • [[Wikipedia:IRC channels|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]]
+|-
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Things to do</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:Peer review|Peer review]] • [[Wikipedia:WikiProject|Join a WikiProject]] • [[Wikipedia:Cleanup|Cleanup]]
+|-
+! <div style="margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Miscellaneous</div>
+|-
+|style="color:#000"|
+* [[Wikipedia:Template messages|Useful templates]] • [[Wikipedia:Stub|Stubs]]
+|-
+|}
+|}
+|}<noinclude>[[Category:Welcome templates|{{PAGENAME}}]]</noinclude>

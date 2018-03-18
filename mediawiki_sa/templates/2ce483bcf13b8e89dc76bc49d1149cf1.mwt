@@ -1,0 +1,184 @@
+{| class="infobox" cellspacing="2" style="border-color:{{{border_color}}}; width:{{{box_width|22em}}}; text-align:left; font-size:{{{font_size|90%}}};"
+{{#if:{{{back_color|}}}|
+{{!}}-
+{{!}} colspan="2" style="text-align:center; font-size:12px; color:{{{name_color}}}; background-color:{{{back_color}}};" {{!}} '''{{{name}}}{{#if:{{{native_name|}}}|<br /><small>{{{native_name|}}}</small>}}'''
+{{!}}-|
+{{!}}+ style="text-align: center; font-size: 12px;" {{!}} '''{{{name}}}{{#if:{{{native_name|}}}|<br /><small>{{{native_name|}}}</small>}}'''}}
+{{#if:{{{image|}}}{{{latin_name|}}}|
+{{#if:{{{border_color|}}}|
+<!-- insert blank line with border color -->
+{{!}}-
+{{!}} colspan="2" style="line-height:0.1em; color:{{{border_color}}}; background-color:{{{border_color}}};" {{!}}
+{{!}}-}}
+{{!}} colspan="2" style="text-align: center;" {{!}} {{{image}}}{{#if:{{{latin_name|}}}|{{#if:{{{image|}}}|<br />}}[[Latin]]: ''{{{latin_name|}}}''}}
+{{#if:{{{border_color|}}}|
+<!-- insert blank line with border color -->
+{{!}}-
+{{!}} colspan="2" style="line-height:0.1em; color:{{{border_color}}}; background-color:{{{border_color}}};" {{!}}
+{{!}}-| <!-- else just draw line -->
+----}}
+}}
+|-
+{{#if: {{{motto|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Motto]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{motto}}}}}
+|-
+! style="color:{{{label_color}}};" {{!}} Established
+{{!}} style="color:{{{value_color}}};" {{!}} {{{established}}}
+|-
+{{#if:{{{type|}}}|
+! style="color:{{{label_color}}};" {{!}} Type 
+{{!}} style="color:{{{value_color}}};" {{!}} {{{type}}}}}
+|-
+{{#if:{{{endowment|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Financial endowment|Endowment]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{endowment}}}}}
+|-
+{{#if:{{{debt|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Current financial debt|Debt]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{debt}}}}}
+|-
+{{#if:{{{rector|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Rector]] 
+{{!}} style="color:{{{value_color}}};" {{!}} {{{rector}}}}}
+|-
+{{#if:{{{chancellor|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Chancellor (education)|Chancellor]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{chancellor}}}}}
+|-
+{{#if:{{{president|}}}|
+! style="color:{{{label_color}}};" {{!}} [[University President|President]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{president}}}}}
+|-
+{{#if:{{{vice-president|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Vice-President (education)|Vice-President]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{vice-president}}}}}
+|-
+{{#if:{{{provost|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Provost (education)|Provost]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{provost}}}}}
+|-
+{{#if:{{{principal|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Principal (university)|Principal]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{principal}}}}}
+|-
+{{#if:{{{vice_chancellor|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Vice-Chancellor]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{vice_chancellor}}}}}
+|-
+{{#if:{{{dean|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Dean (education)|Dean]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{dean}}}}}
+|-
+{{#if:{{{director|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Director (education)|Director]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{director}}}}}
+|-
+{{#if:{{{head_label|}}}{{{head|}}}|
+! style="color:{{{label_color}}};" {{!}} {{{head_label|}}}
+{{!}} style="color:{{{value_color}}};" {{!}} {{{head}}}}}
+|-
+{{#if:{{{faculty|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Faculty (university)#North American usage|Faculty]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{faculty|}}}}}
+|-
+{{#if:{{{staff|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Employee|Staff]] 
+{{!}} style="color:{{{value_color}}};" {{!}} {{{staff|}}}}}
+|-
+{{#if:{{{students|}}}{{{enrollment|}}}|
+! style="color:{{{label_color}}};" {{!}} Students
+{{!}} style="color:{{{value_color}}};" {{!}} {{{enrollment|}}}{{{students|}}}}}
+|-
+{{#if:{{{undergrad|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Undergraduate]]s
+{{!}} {{#if:{{{students|}}}{{{enrollment|}}}| style="padding-left: 1.25em;color:{{{value_color}}};"}} {{!}} {{{undergrad}}}}}
+|-
+{{#if:{{{postgrad|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Postgraduate education|Postgraduate]]s
+{{!}} {{#if:{{{students|}}}{{{enrollment|}}}| style="padding-left: 1.25em;color:{{{value_color}}};"}} {{!}} {{{postgrad}}}}}
+|-
+{{#if:{{{doctoral|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Doctorate|Doctoral students]]
+{{!}} {{#if:{{{students|}}}{{{enrollment|}}}| style="padding-left: 1.25em;color:{{{value_color}}};"}} {{!}} {{{doctoral}}}}}
+|-
+{{#if:{{{profess|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Professional|Professional students]]
+{{!}} {{#if:{{{students|}}}{{{enrollment|}}}| style="padding-left: 1.25em;color:{{{value_color}}};"}} {{!}} {{{profess}}}}}
+|-
+{{#if:{{{alumni|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Alumnus|Alumni]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{alumni}}}}}
+|-
+! style="color:{{{label_color}}};" {{!}} Location
+| {{{city}}}{{#if:{{{state|}}}{{{province|}}}|, {{{state|}}}{{{province|}}}}}, {{{country}}} {{#if:{{{coor|}}}|({{{coor}}})}}
+|-
+{{#if:{{{address|}}}|
+! style="color:{{{label_color}}};" {{!}} Address
+{{!}} style="color:{{{value_color}}};" {{!}} {{{address}}}}}
+|-
+{{#if:{{{telephone|}}}|
+! style="color:{{{label_color}}};" {{!}} Telephone
+{{!}} style="color:{{{value_color}}};" {{!}} {{{telephone}}}}}
+|-
+{{#if:{{{campus|}}}|
+! style="color:{{{label_color}}};" {{!}} Campus
+{{!}} style="color:{{{value_color}}};" {{!}} {{{campus}}}}}
+|-
+{{#if:{{{free_label|}}}|
+! style="color:{{{label_color}}};" {{!}} {{{free_label}}}
+{{!}} style="color:{{{value_color}}};" {{!}} {{{free|}}}}}
+|-
+{{#if:{{{sports|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Sports]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{sports}}}}}
+|-
+{{#if:{{{colors|}}}{{{colours|}}}|
+! style="color:{{{label_color}}};" {{!}} [[School colors|Colo{{#if:{{{colours|}}}|u}}rs]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{colors|}}}{{{colours|}}}}}
+|-
+{{#if:{{{nickname|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Athletic nickname|Nickname]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{nickname}}}}}
+|-
+{{#if:{{{mascot|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Mascot]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{mascot}}}}}
+|-
+{{#if:{{{fightsong|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Fight song]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{fightsong}}}}}
+|-
+{{#if:{{{affiliations|}}}|
+! style="color:{{{label_color}}};" {{!}} Affiliations
+{{!}} style="color:{{{value_color}}};" {{!}} {{{affiliations}}}}}
+|-
+{{#if:{{{website|}}}|
+! style="color:{{{label_color}}};" {{!}} [[Website]]
+{{!}} style="color:{{{value_color}}};" {{!}} {{{website}}}}}
+|-
+{{#if:{{{logo|}}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} {{{logo}}}}}
+|- 
+| colspan="2" style="font-size: smaller;color={{{value_color}}}" |{{{footnotes|}}}
+|}<noinclude>
+
+[[Category:Infobox_templates]]
+
+[[da:Skabelon:Undervisningsinstitution]]
+[[de:Vorlage:Universität]]
+[[en:Template:Infobox University]]
+[[es:Plantilla:Universidad]]
+[[fr:Modèle:Université]]
+[[he:תבנית:אוניברסיטה]]
+[[id:Templat:Infobox University]]
+[[it:Template:Infobox Università italiana]]
+[[it:Template:Infobox Università americana]]
+[[ka:თარგი:უნივერსიტეტი]]
+[[ko:Template:대학 정보]]
+[[pt:Predefinição:Info universidade]]
+[[ro:Format:Infobox University]]
+[[ru:Шаблон:Infobox Университет США]]
+[[vi:Tiêu bản:Đại học]]
+[[zh:Template:Infobox University]]
+</noinclude>

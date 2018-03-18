@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Austria
+| shortname alias = Austria
+| flag alias      = Flag of Austria.svg
+| flag alias-empire = Flag of the Habsburg Monarchy.svg
+| flag alias-state = Flag of Austria (state).svg
+| countryname = {{{countryname|Austria<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Austria|empire}}</nowiki> = {{flag|Austria|empire}}
+* <nowiki>{{flag|Austria|state}}</nowiki> = {{flag|Austria|state}}
+</noinclude>

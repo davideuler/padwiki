@@ -1,0 +1,25 @@
+{| class="infobox" id="toc"
+|align="center" colspan="2"|'''{{{2|{{PAGENAME}}}}} in other calendars'''
+|-
+|[[Gregorian calendar]]||{{{2|{{PAGENAME}}}}}
+|-
+|[[Ab urbe condita]]|||{{ #expr: {{{1|{{PAGENAME}}}}}+753 }}
+|-
+|[[Chinese calendar]]|||{{ #expr: {{{1|{{PAGENAME}}}}}+2636 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}+2637 }}
+|-
+|[[Hebrew calendar]]||{{ #expr: {{{1|{{PAGENAME}}}}}+3759 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}+3760 }}
+|-
+|valign="top" font size="90%"|[[Hindu calendar]]s<br>&ndash; ''[[Vikram Samvat]]''<br>&ndash; ''[[Indian national calendar|Shaka Samvat]]''<br>&ndash; ''[[Kali Yuga]]''
+|valign="bottom" font size="90%"|<br>{{ #expr: {{{1|{{PAGENAME}}}}}+55 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}+56 }}<br>{{ #expr: {{{1|{{PAGENAME}}}}}-78 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}-77 }}<br>{{ #expr: {{{1|{{PAGENAME}}}}}+3101 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}+3102 }}
+|-
+|[[Iranian calendar]]||{{ #expr: {{{1|{{PAGENAME}}}}}-622 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}-621 }}
+|-
+|[[Islamic calendar]]||{{ #expr: {{{1|{{PAGENAME}}}}}-580 }} &ndash; {{ #expr: {{{1|{{PAGENAME}}}}}-579 }}
+|-
+|[[Runic calendar]]||{{ #expr: {{{1|{{PAGENAME}}}}}+250 }}
+|-
+|}<noinclude>[[en:Template:Year in other calendars]][[fr:Modèle:Calendriers du monde]]</noinclude>
+
+<noinclude>
+[[Category:Timekeeping templates]]
+</noinclude>

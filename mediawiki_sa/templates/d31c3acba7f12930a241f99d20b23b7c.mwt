@@ -1,0 +1,246 @@
+<includeonly>{| class="infobox geography" style="width: 23em;"
+|-
+| colspan="2" align=center style="width:100%; font-size: 1.25em;" | '''{{{official_name}}}{{#if:{{{native_name|}}}|&#x0020;<span style="white-space: nowrap;">({{{native_name}}})</span>}}'''
+|-<!-- ***** Skyline Image ***** -->
+{{#if:{{{image_skyline|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;" {{!}} [[Image:{{{image_skyline|}}}|{{#if:{{{imagesize|}}}|{{{imagesize}}}|250px}}|none|{{{image_caption|Skyline of {{{official_name|}}}}}}]]{{#if:{{{image_caption|}}}|<small>{{{image_caption|}}}</small>}}
+{{!}}-class="mergedtoprow"
+}}<!-- ***** Flag and Seal ***** -->
+{{#if:{{{image_flag|}}}{{{image_seal|}}}|
+{{!}} class="maptable" colspan="2" align="center" style="padding: 0.4em 0.8em 0.4em 0.8em;" {{!}}
+{{{!}} style="width: 100%; background: none; text-align: center;"
+{{!}}-
+{{#if:{{{image_flag|}}}| {{!}} style="vertical-align: middle;" {{!}}  <center>{{border{{!}}[[Image:{{{image_flag|}}}|125px|Official flag of {{{official_name|}}}]]}}</center> }}
+{{#if:{{{image_seal|}}}| {{!}} style="vertical-align: middle;" {{!}} [[Image:{{{image_seal|}}}|100px|Official seal of {{{official_name|}}}]] }}
+{{!}}-
+{{#if:{{{image_flag|}}}| {{!}} <small>'''[[Flag of {{{official_name}}}|Flag]]'''</small> }}
+{{#if:{{{image_seal|}}}| {{!}} <small>'''[[Seal of {{{official_name}}}|Seal]]'''</small>}}
+{{!}}}
+{{!}}- class="mergedrow"
+}}<!-- ***** Nickname ***** -->
+{{#if:{{{nickname|}}}|
+{{!}} colspan="2" align="center" {{!}} [[Nickname]]: "''{{{nickname|}}}''" 
+{{!}}-class="mergedrow"
+}}<!-- ***** Motto ***** -->
+{{#if:{{{motto|}}}|
+{{!}} colspan="2" align="center" {{!}} [[Motto]]: "''{{{motto|}}}''" 
+{{!}}-class="mergedrow"
+}}<!-- ***** Map ***** -->
+{{#if:{{{image_map|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;" {{!}} 
+[[Image:{{{image_map|}}}|{{#if:{{{mapsize|}}}|{{{mapsize}}}|250px}}|none|{{{map_caption|Location of {{{official_name|}}}}}}]]{{#if:{{{map_caption|}}}|<small>{{{map_caption|}}}</small>}}
+{{!}}-class="mergedbottomrow"
+}}<!-- ***** Coordinates ***** -->
+
+{{#if:{{{latNS|}}}|
+! colspan="2" style="text-align: center; font-size: smaller; {{#if:{{{image_map|}}}|padding-bottom: 0.7em;|border-top: solid 1px #ccd2d9;}}" {{!}} Coordinates:  {{#if:{{{lats|}}}
+| {{coor dms|{{{latd}}}|{{{latm}}}|{{{lats|0}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longs|0}}}|{{{longEW}}}|type:city}}
+| {{coor dm|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:city}}
+}}
+{{!}}-
+}}<!--***** Government *****-->
+|- class="mergedtoprow"
+! {{{subdivision_type}}}
+| {{{subdivision_name}}}
+|- class="mergedrow"
+{{#if:{{{subdivision_type1|}}}|
+! {{!}} {{{subdivision_type1}}}
+{{!}} {{!}} {{{subdivision_name1}}}
+{{!}}-class="mergedrow"
+}}
+{{#if:{{{subdivision_type2|}}}|
+! {{!}} {{{subdivision_type2}}}
+{{!}} {{!}} {{{subdivision_name2}}}
+{{!}}-class="mergedrow"
+}} <!--***** Established *****-->
+{{#if:{{{established_title|}}}|
+! {{{established_title}}}
+{{!}} {{{established_date}}}
+{{!}}- class="mergedrow"
+}}
+{{#if:{{{established_title2|}}}|
+! {{{established_title2}}}
+{{!}} {{{established_date2}}}
+{{!}}- class="mergedrow"
+}}
+{{#if:{{{established_title3|}}}|
+! {{{established_title3}}}
+{{!}} {{{established_date3}}}
+{{!}}- class="mergedrow"
+}}<!-- ***** Leader ***** -->
+{{#if:{{{leader_title|}}}|
+! {{{leader_title}}}
+{{!}} {{{leader_name}}}
+{{#if:{{{leader_title1|}}}|
+{{!}}- class="mergedrow"
+! {{{leader_title1}}}
+{{!}} {{{leader_name1}}}
+{{#if:{{{leader_title2|}}}|
+{{!}}- class="mergedrow"
+! {{{leader_title2}}}
+{{!}} {{{leader_name2}}}
+{{#if:{{{leader_title3|}}}|
+{{!}}- class="mergedbottomrow"
+! {{{leader_title3}}}
+{{!}} {{{leader_name3}}}
+}} }} }} }}<!-- ***** Geographical characteristics ***** -->
+|- <!-- ***** Area ***** --> class="mergedtoprow"
+! [[Area]] || &nbsp;
+|- class="mergedrow"
+! &nbsp;- City 
+| {{#if:{{{area_magnitude|}}}|{{{area_total}}} [[{{{area_magnitude}}}_m²|km²]]|{{{area_total}}} [[Square kilometre|km²]]}} {{#if:{{{TotalArea_sq_mi|}}} |&nbsp;({{{TotalArea_sq_mi}}}&nbsp;[[square mile|sq&nbsp;mi]]) }}
+|- class="mergedrow"
+{{#if:{{{area_land|}}}|
+! &nbsp;- Land 
+{{!}} {{{area_land}}} km²  {{#if:{{{LandArea_sq_mi|}}} | &nbsp;({{{LandArea_sq_mi}}}&nbsp;sq&nbsp;mi)}} }}
+|- class="mergedrow"
+{{#if:{{{area_water|}}}|
+! &nbsp;- Water 
+{{!}} {{{area_water}}} km²{{#if:{{{WaterArea_sq_mi|}}} | &nbsp;({{{WaterArea_sq_mi}}}&nbsp;sq&nbsp;mi)}} {{#if:{{{area_water_percent|}}}| &nbsp;{{{area_water_percent}}}%}}}}
+|- class="mergedrow"
+{{#if:{{{area_urban|}}}|
+! &nbsp;- Urban 
+{{!}} {{{area_urban}}} km²{{#if:{{{UrbanArea_sq_mi|}}} | &nbsp;({{{UrbanArea_sq_mi}}}&nbsp;sq&nbsp;mi)}} }}
+|- class="mergedrow"
+{{#if:{{{area_metro|}}}| 
+! &nbsp;- Metro 
+{{!}}  {{{area_metro}}} km²{{#if:{{{MetroArea_sq_mi|}}} | &nbsp;({{{MetroArea_sq_mi}}}&nbsp;sq&nbsp;mi)}} }}
+|- <!-- ***** Elevation ***** --> class="mergedbottomrow"
+{{#if:{{{elevation|}}}|
+! [[Elevation]]
+{{!}} {{{elevation}}} [[metre|m]] {{#if:{{{elevation_ft|}}}|&nbsp;({{{elevation_ft}}} [[foot (unit of length)|ft]])}}
+{{!}}-
+}}|- <!-- ***** Population ***** --> class="mergedtoprow"
+! Population ||&nbsp;
+|- class="mergedrow"
+! &nbsp;- City ({{{population_as_of}}}) 
+|{{{population_total}}} 
+|- class="mergedrow"
+{{#if:{{{population_density|}}}|
+! &nbsp;- [[Population density|Density]] 
+{{!}} {{{population_density}}}/km²{{#if:{{{population_density_mi2|}}}|&nbsp;({{{population_density_mi2}}}/sq&nbsp;mi)}} }}
+|- class="mergedrow"
+{{#if:{{{population_urban|}}}| 
+!  &nbsp;- [[Urban area|Urban]] 
+{{!}} {{{population_urban}}} }}
+|- class="mergedrow"
+{{#if:{{{population_metro|}}}| 
+! &nbsp;- [[Metropolitan area|Metro]]
+{{!}} {{{population_metro}}} }}
+|- class="mergedrow"
+{{#if:{{{population_density_metro_km2|}}}|
+! &nbsp;- [[Population density|Metro Density]] 
+{{!}} &nbsp;&nbsp;{{{population_density_metro_km2}}}/km²{{#if:{{{population_density_metro_mi2|}}}|&nbsp;({{{population_density_metro_mi2}}}/sq&nbsp;mi)}} }}
+|- class="mergedbottomrow"
+{{#if:{{{population_note|}}}|
+! &nbsp;
+{{!}} <small>''{{{population_note}}}''</small> }}
+|- <!-- ***** Time Zone ***** --> class="mergedtoprow"
+{{#if:{{{timezone|}}}|
+! [[Time zone]]
+{{!}} {{{timezone}}} ([[UTC{{{utc_offset}}}]]) 
+{{!}}- class="mergedbottomrow"
+{{#if:{{{timezone_DST|}}}| ! <span style="white-space: nowrap;">&nbsp;-&nbsp;Summer&nbsp;([[Daylight saving time|DST]])</span>
+{{!}} {{{timezone_DST|}}} ([[UTC{{{utc_offset_DST|}}}]]) }}
+{{!}}-
+}}  <!-- ***** Postal Code(s) ***** -->
+{{#if:{{{postal_code_type|}}}|
+! [[{{{postal_code_type}}}]] {{!}}{{!}}  {{{postal_code}}}
+{{!}}-
+}}<!-- ***** Footnotes ***** -->
+{{#if:{{{footnotes|}}}|
+{{!}} colspan="2" align="center" {{!}} <small>{{{footnotes}}}</small>
+{{!}}-
+}} <!-- ***** Website ***** -->
+{{#if:{{{website|}}}|
+{{!}}-
+{{!}} colspan="2" align="center" {{!}} '''Website:'''  {{{website}}}
+{{!}}-
+}}
+|}</includeonly><noinclude>
+<div style="display:inline;
+width:50%; float:left;">
+'''Empty Syntax'''
+For question or examples see the [[Template_talk:Infobox_City|talk]] page.
+<pre>
+<!-- Infobox begins -->{{Infobox City
+|official_name          = 
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|motto                  = 
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|image_seal             = 
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|subdivision_type       = 
+|subdivision_name       = 
+|subdivision_type1      = 
+|subdivision_name1      = 
+|subdivision_type2      = 
+|subdivision_name2      = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = 
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           = 
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      = 
+|area_magnitude         = 
+|area_total             = 
+|TotalArea_sq_mi        = 
+|area_land              = 
+|LandArea_sq_mi         = 
+|area_water             = 
+|WaterArea_sq_mi        = 
+|area_water_percent     = 
+|area_urban             = 
+|UrbanArea_sq_mi        = 
+|area_metro             = 
+|MetroArea_sq_mi        = 
+|population_as_of       = 
+|population_note        = 
+|population_total       = 
+|population_density     = 
+|population_density_mi2 = 
+|population_metro       =
+|population_density_metro_km2 =
+|population_density_metro_mi2 =
+|population_urban       = 
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|latd= |latm= |lats= |latNS=
+|longd= |longm= |longs= |longEW=
+|elevation              = 
+|elevation_ft           = 
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|website                = 
+|footnotes              = 
+}} <!-- Infobox ends -->
+</pre>
+</div>
+
+[[Category:Infobox templates]]
+
+[[en:Template:Infobox City]]
+[[hu:Sablon:Infobox város]]
+[[ja:Template:世界の市]]
+[[pt:Predefinição:Infobox Cidade]]
+[[ro:Format:Infobox City]]
+[[sv:Mall:Ortsfakta]]
+[[vi:Tiêu bản:Tóm tắt về thành phố]]
+[[zh:Template:Infobox City]]
+</noinclude>

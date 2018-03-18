@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Armenia
+| shortname alias = Armenia
+| flag alias      = Flag of Armenia.svg
+| flag alias-1918 = Flag of the Democratic Republic of Armenia.svg
+| flag alias-SSR  = Flag of Armenian SSR.svg
+| countryname = {{{countryname|Armenia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Armenia|1918}}</nowiki> = {{flag|Armenia|1918}} 
+* <nowiki>{{flag|Armenia|SSR}}</nowiki> = {{flag|Armenia|SSR}}
+</noinclude>

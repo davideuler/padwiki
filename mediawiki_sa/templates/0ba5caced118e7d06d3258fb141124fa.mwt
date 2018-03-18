@@ -1,0 +1,12 @@
+<div class="infobox sisterproject">[[Image:Wikibooks-logo-en.svg|left|50px| ]]
+<div style="margin-left: 60px;">[[Wikibooks]] has more about this subject:
+<div style="margin-left: 10px;">'''''[[wikibooks:{{{1|Special:Search/{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]'''''</div>
+</div>
+</div><noinclude>
+
+==See also==
+* [[Wikipedia:Sister projects]] for full usage information
+[[Category:Sister project templates]]
+[[en:Template:Wikibooks]]
+
+</noinclude>

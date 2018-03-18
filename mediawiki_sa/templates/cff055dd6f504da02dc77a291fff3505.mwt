@@ -1,0 +1,38 @@
+{{#if: {{{title|}}}
+  |{{
+  #if: {{{author|}}}{{{last|}}}
+  | {{
+    #if: {{{authorlink|}}}
+    | [[{{{authorlink}}}|{{
+      #if: {{{last|}}}
+      | {{{last}}}{{ #if: {{{first|}}} | , {{{first}}} }}
+      | {{{author}}}
+    }}]]
+    | {{
+      #if: {{{last|}}}
+      | {{{last}}}{{ #if: {{{first|}}} | , {{{first}}} }}
+      | {{{author}}}
+    }}
+  }}
+  }}{{#if: {{{date|}}}
+    |&#32;({{{date}}}). 
+    |. 
+  }}{{#if: {{{url|}}}
+    |&#32;{{#if: {{{curly|}}}|“|"}}''[{{{url}}} {{{title}}}]''{{#if: {{{curly|}}}|”|"}}
+    |&#32;{{#if: {{{curly|}}}|“|"}}''{{{title}}}''{{#if: {{{curly|}}}|”|"}}
+  }}{{#if: {{{format|}}}
+    | &#32;({{{format}}})
+  }}. {{#if: {{{version|}}}
+    |{{{version}}}.&#32;
+  }}{{#if: {{{publisher|}}}
+    |{{{publisher}}}.&#32;
+  }}{{#if:{{{id|}}}
+  | {{{id}}}
+  }}{{#if: {{{accessdate|}}}
+    |&#32;Retrieved on [[{{{accessdate}}}]].
+  }}
+  |Error on call to [[Template:cite paper]]: Parameter '''title''' must be specified
+}}<noinclude>
+{{hprotected}}
+{{/doc}}
+</noinclude>

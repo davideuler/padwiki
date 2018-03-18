@@ -1,0 +1,30 @@
+<!-- Creative Commons License -->
+{| align=center border=0 cellpadding=4 cellspacing=4 style="border: 1px solid #CCCC99; background-color: #F1F1DE"
+|- 
+| [[Image:CC SomeRightsReserved.png|Creative Commons License]]
+| style="font-size: 80%" | The image at the top of this page is licensed under a [[Creative Commons License]].<br>
+Specifically, it is licensed under the Creative Commons [http://creativecommons.org/licenses/by-sa/2.0 Attribution-ShareAlike License] 2.0, colloquially known as "cc-by-sa".
+|}
+<br clear="all">
+<!-- /Creative Commons License -->
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+   <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+</License>
+
+</rdf:RDF>
+
+-->

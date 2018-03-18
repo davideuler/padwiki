@@ -1,0 +1,6 @@
+<noinclude><!--PNG images containing transparencies do not display properly for some users.  Please consider this fact before replacing the already tiny GIF file.--></noinclude><div class="messagebox merge">[[Image:Merge-arrows.gif|left]] It has been suggested that this {{#if:{{NAMESPACE}}|page|article}} or section be [[Wikipedia:Merging and moving pages|merged]] with ''[[:{{NAMESPACE}}:{{{1}}}|{{{1}}}]]''. ([[{{{2|:{{NAMESPACE}} talk:{{PAGENAMEE}}}}}|Discuss]])</div><includeonly>{{
+#switch:{{NAMESPACE}}
+|Help|Help talk|Portal|Portal talk|Wikipedia|Wikipedia talk=[[Category:Items to be merged|{{PAGENAME}}]]
+|Category|Category talk|Image|Image talk|MediaWiki|MediaWiki talk|Template|Template talk|User|User talk=
+|#default=[[Category:Pages to merge{{#if: {{{date|}}} | &#32;since {{{date}}} }}|{{PAGENAME}}]]
+}}</includeonly>

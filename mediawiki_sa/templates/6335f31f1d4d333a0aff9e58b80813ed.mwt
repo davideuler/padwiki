@@ -1,0 +1,13 @@
+<div style="clear: both"></div>
+{| class="infobox"
+|- style="background-color:#f0f0f0"
+| align="right" | <small>'''[[Centuries]]:'''</small>
+| align="center" | [[{{{cpa}}}{{{cpb}}}]] - '''{{{c}}}''' - {{{cn1}}}
+|-
+| align="right" | <small>'''[[List of decades|Decades]]:'''</small>
+| align="center" | [[{{{cpa}}}00s]] [[{{{cpa}}}10s]] [[{{{cpa}}}20s]] [[{{{cpa}}}30s]] [[{{{cpa}}}40s]] [[{{{cpa}}}50s]] [[{{{cpa}}}60s]] [[{{{cpa}}}70s]] [[{{{cpa}}}80s]] [[{{{cpa}}}90s]]
+|}<noinclude>
+[[Category:Timekeeping templates]]
+[[en:Template:Centurybox]]
+[[vi:Tiêu bản:Centurybox]]
+</noinclude>

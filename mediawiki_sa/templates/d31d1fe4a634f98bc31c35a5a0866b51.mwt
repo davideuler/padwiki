@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Georgia (country)
+| shortname alias = Georgia
+| flag alias      = Flag of Georgia.svg
+| flag alias-SSR  = Flag of Georgian SSR.svg
+| flag alias-1990 = Flag of Georgia (1990-2004).svg
+| flag alias-naval = Naval Ensign of Georgia.svg
+| countryname = {{{countryname|Georgia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Georgia|SSR}}</nowiki> = {{flag|Georgia|SSR}}
+* <nowiki>{{flag|Georgia|1990}}</nowiki> = {{flag|Georgia|1990}}
+* <nowiki>{{flag|Georgia|naval}}</nowiki> = {{flag|Georgia|naval}}
+</noinclude>

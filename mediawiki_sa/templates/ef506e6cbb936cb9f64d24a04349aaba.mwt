@@ -1,0 +1,43 @@
+<noinclude>
+==The template==
+</noinclude><!--{{Not verified}} start--><div class="messagebox cleanup">{{tfd|Not verified}}Information in this {{{1|article or section}}} has '''not''' been [[Wikipedia:Verifiability|verified against sources]] and may not be reliable.<br />
+Please '''[[Wikipedia:WikiProject Fact and Reference Check|check for inaccuracies]]''' and modify as needed, '''[[Wikipedia:citing sources|citing the sources]]''' against which it was checked. Unverified sources should not be added. {{#if:{{{date|}}}|<br />This article has been tagged since '''{{{date}}}'''.}}</div><includeonly>{{{category|[[Category:Wikipedia articles needing factual verification {{#if: {{{date|}}}| since {{{date}}}|}}]]}}}</includeonly><!--{{Not verified}} end--><noinclude>
+==Usage==
+This template will categorise tagged articles into [[:Category:Wikipedia articles needing factual verification]]. 
+
+Please add this template after a good faith attempt to verify information. In many cases template {{tl|unreferenced}} would suffice.
+
+This [[Wikipedia:Template|template]] is a [[Wikipedia:Avoid self-references|self-reference]].
+
+==Redirects==
+* {{tl|Verify}}
+* {{tl|DisputeCheck}}
+
+==See also==
+{{style}}
+* [[Template:Citation style]]
+* [[Template:Citequote]]
+* [[Template:Cleanup-list]]
+* [[Template:Cleanup-rewrite]]
+* [[Template:Confusing]]
+* [[Template:Context]]
+* [[Template:Contradict]]
+* [[Template:Copyedit]]
+* [[Template:Fact]] &mdash; adds: {{fact}}
+* [[Template:Fiction]]
+* [[Template:Globalize]]
+* [[Template:Importance]]
+* [[Template:Inappropriate tone]]
+* [[Template:Not verified]]
+* [[Template:Expert]]
+* [[Template:Original research]]
+* [[Template:Primarysources]]
+* [[Template:Technical]]
+* [[Template:Uncategorized]]
+* [[Template:Unreferenced]], [[Template:Unsourced]]
+* [[Template:Verify credibility]]
+* [[Template:Wikify]]
+* [[Wikipedia:Template messages/Cleanup]]
+[[Category:Wikipedia maintenance templates|{{PAGENAME}}]]
+[[sv:Mall:Källor behövs]]
+</noinclude>

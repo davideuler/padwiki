@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Thailand
+| shortname alias = Thailand
+| flag alias      = Flag of Thailand.svg
+| flag alias-1916 = Flag of Thailand (1916).svg
+| flag alias-naval = Naval Ensign of Thailand.svg
+| link alias-naval = Royal Thai Navy
+| countryname = {{{countryname|Thailand<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Thailand|1916}}</nowiki> = {{flag|Thailand|1916}}
+* <nowiki>{{flag|Thailand|naval}}</nowiki> = {{flag|Thailand|naval}}
+</noinclude>

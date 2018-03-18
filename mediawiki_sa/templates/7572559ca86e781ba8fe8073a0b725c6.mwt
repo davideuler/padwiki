@@ -1,0 +1,6 @@
+<span lang="{{{1}}}" xml:lang="{{{1}}}">{{{2}}}</span><noinclude>
+
+{{protected template}}
+{{{{FULLPAGENAME}}/doc}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

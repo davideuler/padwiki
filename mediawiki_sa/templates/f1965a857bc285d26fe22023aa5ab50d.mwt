@@ -1,0 +1,3 @@
+{{{if{{{test|}}}|<tr {{{style|valign=top}}}>{{{if{{{label|}}}|<td>{{{label|}}}</td>}}}<td>{{{contents|}}}</td></tr>}}}<noinclude>
+[[vi:Tiêu bản:Row]]
+</noinclude>

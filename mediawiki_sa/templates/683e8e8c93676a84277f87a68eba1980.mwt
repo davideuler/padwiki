@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Australia
+| shortname alias = Australia
+| flag alias      = Flag of Australia.svg
+| flag alias-naval = Naval Ensign of Australia.svg
+| link alias-naval = Royal Australian Navy
+| link alias-football = Australia {{{mw|}}} national football (soccer) team
+| link alias-field hockey = {{#ifeq:{{{mw}}}|women's|Hockeyroos|Australia national field hockey team}}
+| countryname = {{{countryname|Australia<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Australia|naval}}</nowiki> = {{flag|Australia|naval}}
+[[af:Sjabloon:Landdata Australië]]
+[[sl:Predloga:Podatki države Avstralija]]
+</noinclude>

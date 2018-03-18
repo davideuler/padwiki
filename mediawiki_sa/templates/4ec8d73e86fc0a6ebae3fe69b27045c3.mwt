@@ -1,0 +1,133 @@
+<!--
+
+Dear editors, if you wish to add more items, please make sure that they are in one single line, delimited by space. Otherwise, consecutive boxes made from this template would have space between them.
+
+--><table class="navbox collapsible {{{state|autocollapse}}}" style="margin:auto; {{{style|}}}{{{bodystyle|}}}">
+<tr><!--
+
+----------------------------------------Titlebar-----------------------------------------
+--><th colspan="{{#if:{{{image|}}}|3|2}}" style="text-align:center;
+<!---deprecated:--->
+   {{#if:{{{titlebkg|}}}{{{color|}}} |background:{{{titlebkg|}}}{{{color|}}};}}
+   {{{title_style|}}}
+<!---->
+{{{titlestyle|}}}"><div style="float:left; width:6em; text-align:left;">{{Tnavbar|<!---deprecated:--->{{{templateName|<!---->{{{name<noinclude>|Navbox generic</noinclude>}}}}}}|mini=1}}</div><span style="font-size:110%;">{{{title}}}</span></th>
+</tr> <!--
+
+-----------------------above (optional content above groups)-----------------------
+-->{{#if:<!---deprecated:--->{{{top|}}}<!----> {{{above|}}} |<tr>
+<td style="<!---deprecated:--->{{{top-style|}}}{{{above_style|}}}<!----> {{{abovestyle|}}}" colspan="{{#if:{{{image|}}}|3|2}}"><!---deprecated:--->{{{top|}}}<!----> {{{above|}}}</td>
+</tr>}} <!--
+
+----------------------------------------- Groups ----------------------------------------
+-->{{#if:{{{list1|}}}  |<tr>
+{{#if:{{{group1|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group1}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group1|}}}|1|2}}">{{{list1}}}</td>
+{{#if:{{{image|}}}|<td rowspan="{{#expr: {{#if:{{{list1|}}}|1|0}} +{{#if:{{{list2|}}}|1|0}} +{{#if:{{{list3|}}}|1|0}} +{{#if:{{{list4|}}}|1|0}} +{{#if:{{{list5|}}}|1|0}} +{{#if:{{{list6|}}}|1|0}} +{{#if:{{{list7|}}}|1|0}} +{{#if:{{{list8|}}}|1|0}} +{{#if:{{{list9|}}}|1|0}} +{{#if:{{{list10|}}}|1|0}} +{{#if:{{{list11|}}}|1|0}} +{{#if:{{{list12|}}}|1|0}} +{{#if:{{{list13|}}}|1|0}} +{{#if:{{{list14|}}}|1|0}} +{{#if:{{{list15|}}}|1|0}} +{{#if:{{{list16|}}}|1|0}} +{{#if:{{{list17|}}}|1|0}} +{{#if:{{{list18|}}}|1|0}} +{{#if:{{{list19|}}}|1|0}} +{{#if:{{{list20|}}}|1|0}}}}" style="vertical-align:middle; padding-left:7px;">{{{image}}}</td>}}
+</tr>}} <!--
+
+-->{{#if:{{{list2|}}}  |<tr>
+{{#if:{{{group2|}}}    |<th style="<!---deprecated:--->{{{group-style|}}} {{{group_style|}}}<!---->{{{groupstyle|}}}">{{{group2}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group2|}}}|1|2}}">{{{list2}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list3|}}}  |<tr>
+{{#if:{{{group3|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group3}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group3|}}}|1|2}}">{{{list3}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list4|}}}  |<tr>
+{{#if:{{{group4|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group4}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group4|}}}|1|2}}">{{{list4}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list5|}}}  |<tr>
+{{#if:{{{group5|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group5}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group5|}}}|1|2}}">{{{list5}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list6|}}}  |<tr>
+{{#if:{{{group6|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group6}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group6|}}}|1|2}}">{{{list6}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list7|}}}  |<tr>
+{{#if:{{{group7|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group7}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group7|}}}|1|2}}">{{{list7}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list8|}}}  |<tr>
+{{#if:{{{group8|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group8}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group8|}}}|1|2}}">{{{list8}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list9|}}}  |<tr>
+{{#if:{{{group9|}}}    |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group9}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group9|}}}|1|2}}">{{{list9}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list10|}}} |<tr>
+{{#if:{{{group10|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group10}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group10|}}}|1|2}}">{{{list10}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list11|}}} |<tr>
+{{#if:{{{group11|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group11}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group11|}}}|1|2}}">{{{list11}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list12|}}} |<tr>
+{{#if:{{{group12|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group12}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group12|}}}|1|2}}">{{{list12}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list13|}}} |<tr>
+{{#if:{{{group13|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group13}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group13|}}}|1|2}}">{{{list13}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list14|}}} |<tr>
+{{#if:{{{group14|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group14}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group14|}}}|1|2}}">{{{list14}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list15|}}} |<tr>
+{{#if:{{{group15|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group15}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group15|}}}|1|2}}">{{{list15}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list16|}}} |<tr>
+{{#if:{{{group16|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group16}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group16|}}}|1|2}}">{{{list16}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list17|}}} |<tr>
+{{#if:{{{group17|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group17}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group17|}}}|1|2}}">{{{list17}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list18|}}} |<tr>
+{{#if:{{{group18|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group18}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group18|}}}|1|2}}">{{{list18}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list19|}}} |<tr>
+{{#if:{{{group19|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group19}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{odd-style|}}}{{{list(odd#)_style|}}}{{{list(odd#)style|}}}<!----> {{{oddstyle|}}}" colspan="{{#if:{{{group19|}}}|1|2}}">{{{list19}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{list20|}}} |<tr>
+{{#if:{{{group20|}}}   |<th style="<!---deprecated:--->{{{group-style|}}}{{{group_style|}}}<!----> {{{groupstyle|}}}">{{{group20}}}</th>}}
+<td style="{{{liststyle|}}} <!---deprecated:--->{{{even-style|}}}{{{list(even#)_style|}}}{{{list(even#)style|}}}<!----> {{{evenstyle|}}}" colspan="{{#if:{{{group20|}}}|1|2}}">{{{list20}}}</td>
+</tr>}} <!--
+
+-----------------------below (optional content below groups)-----------------------
+-->{{#if:<!---deprecated:--->{{{bottom|}}}<!----> {{{below|}}} |<tr>
+<td style="<!---deprecated:--->{{{bottom-style|}}}{{{below_style|}}}<!----> {{{belowstyle|}}}" colspan="{{#if:{{{image|}}}|3|2}}"><!----deprecated:---->{{{bottom|}}}<!----> {{{below|}}}</td>
+</tr>}}
+
+</table><noinclude><!--
+
+-->{{{{FULLPAGENAME}}/doc}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

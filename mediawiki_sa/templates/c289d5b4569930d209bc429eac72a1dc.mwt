@@ -1,0 +1,10 @@
+<span class="plainlinks">[[User:{{{1|Example User}}}|{{{1|Example User}}}]] ([[User talk:{{{1|Example User}}}|talk]] • [[Special:Contributions/{{{1|Example User}}}|contribs]] • <font color="002bb8">[{{fullurl:Special:Log|type=move&user={{urlencode:{{ucfirst:{{{1|Example User}}}}}}}}} page moves]</font> • [[Special:Blockip/{{ucfirst:{{{1|Example User}}}}}|block user]] • <font color="002bb8">[{{fullurl:Special:Log|type=block&page=User:{{urlencode:{{{1|Example User}}}}}}} block log]</font>)</span><noinclude>
+
+== Usage ==
+You no longer must replace spaces in the name with underscores (_), this new template will take either!
+
+[[en:template:userlinks]]
+[[de:vorlage:vandale]]
+[[es:plantilla:U]]
+
+[[Category:Internal link templates|Vandal]]</noinclude>

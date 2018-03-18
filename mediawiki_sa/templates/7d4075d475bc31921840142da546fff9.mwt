@@ -1,0 +1,9 @@
+<div class="messagebox" style="width: 33em; background: beige;">
+<div style="float: left;">[[Image:Stop hand.svg|40px| ]]</div>
+<div style="margin-left: 50px;">'''This policy or guideline is [[Wikipedia:Policy dispute|disputed]].''' <br> People do not agree about it.  Please see the discussion about it on the [[:{{NAMESPACE}} talk:{{PAGENAME}}|discussion page]]<includeonly>[[Category:Disputed policies |{{PAGENAME}}]]</includeonly>.</div>
+</div><noinclude>
+This template is for policies or guidelines that people are debating on their discussion pages.
+
+[[Category:Policy templates]]
+
+</noinclude>

@@ -1,0 +1,9 @@
+<li>
+[[Media:{{{filename}}}|{{{title}}}]] ([[:Image:{{{filename}}}|file info]])
+<ul>
+<li>{{{description|}}}</li>
+</ul>
+</li><noinclude>
+[[Category:Internal link templates]]
+[[vi:Tiêu bản:Multi-listen item]]
+</noinclude>

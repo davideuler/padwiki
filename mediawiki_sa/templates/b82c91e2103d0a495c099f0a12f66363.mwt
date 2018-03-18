@@ -1,0 +1,3 @@
+<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{date|}}}|[[Category:Articles with unsourced statements since {{{date}}}]]|[[Category:Articles with unsourced statements]]}}[[Category:All articles with unsourced statements]]}}</includeonly><sup class="noprint Template-Fact">[[Wikipedia:Citing sources|<span title="This claim needs references to reliable sources {{#if:{{{date|}}}| since {{{date}}}|}}" style="white-space: nowrap;">&#91;''citation needed''&#93;</span>]]</sup><noinclude>
+{{/doc}}
+</noinclude>

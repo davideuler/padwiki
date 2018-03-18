@@ -1,0 +1,14 @@
+[http://www.imdb.com/name/nm{{{id}}}/ {{ #if: {{{name|}}}  | {{{name}}}|{{PAGENAME}} }}] at the [[Internet Movie Database]] (IMDb)<noinclude>
+[[de:Vorlage:IMDb Name]]
+[[en:Template:imdb name]]
+[[es:Plantilla:Imdb nombre]]
+[[fr:Modèle:Imdb name]]
+[[id:Templat:Imdb nama]]
+[[it:Template:Imdb nome]]
+[[nl:Sjabloon:IMDb naam]]
+[[pl:Szablon:Imdb name]]
+[[ru:Шаблон:Imdb name]]
+[[sl:Template:Imdb name]]
+[[zh:Template:Imdb name]]
+[[Category:External link templates]]
+</noinclude>

@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Romania
+| shortname alias = Romania
+| flag alias      = Flag of Romania.svg
+| flag alias-1867 = Rumania.gif
+| flag alias-1947 = Romania flag 1947-1989.png
+| link alias-naval = Romanian Naval Forces
+| countryname = {{{countryname|Romania<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Romania|1867}}</nowiki> = {{flag|Romania|1867}}
+* <nowiki>{{flag|Romania|1947}}</nowiki> = {{flag|Romania|1947}}
+
+[[af:Sjabloon:Landdata Roemenië]]
+</noinclude>

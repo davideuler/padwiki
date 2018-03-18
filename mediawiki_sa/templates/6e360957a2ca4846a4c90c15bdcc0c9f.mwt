@@ -1,0 +1,9 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Kosovo
+| shortname alias = Kosovo
+| flag alias      = Flag of the United Nations.svg
+| countryname = {{{countryname|Kosovo<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}

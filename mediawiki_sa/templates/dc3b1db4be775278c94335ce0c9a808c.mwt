@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Israel
+| shortname alias = Israel
+| flag alias      = Flag of Israel.svg
+| flag alias-naval = Naval Ensign of Israel.svg
+| link alias-naval = Israeli Sea Corps
+| countryname = {{{countryname|Israel<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+*<nowiki>{{flag|Israel|naval}}</nowiki> = {{flag|Israel|naval}}
+</noinclude>

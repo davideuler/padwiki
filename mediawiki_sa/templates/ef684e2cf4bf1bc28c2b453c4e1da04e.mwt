@@ -1,0 +1,7 @@
+<br style="clear: both;" />
+{| class="toccolours" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto;"
+|- style="text-align: center;"
+| width="30%" |Came after:<br />'''{{{before}}}'''
+| width="40%" style="text-align: center;" |'''{{{title}}}'''<br />{{{years}}}
+| width="30%" |Came before:<br />'''{{{after}}}'''
+|}

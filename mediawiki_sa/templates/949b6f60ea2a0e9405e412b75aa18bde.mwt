@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias           = Montenegro
+| shortname alias = Montenegro
+| flag alias      = Flag of Montenegro.svg
+| flag alias-1910 = Old Flag of Montenegro.png
+| flag alias-1941 = Montenegro state flag(1905-1918).png
+| flag alias-1945 = Flag of SR Montenegro.svg
+| flag alias-1993 = Flag of Montenegro (1993-2004).svg
+| countryname = {{{countryname|Montenegro<!-- MUST MATCH SUFFIX OF PAGENAME!! -->}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}<noinclude>
+==Variants==
+* <nowiki>{{flag|Montenegro|1910}}</nowiki> = {{flag|Montenegro|1910}}
+* <nowiki>{{flag|Montenegro|1941}}</nowiki> = {{flag|Montenegro|1941}}
+* <nowiki>{{flag|Montenegro|1945}}</nowiki> = {{flag|Montenegro|1945}}
+* <nowiki>{{flag|Montenegro|1993}}</nowiki> = {{flag|Montenegro|1993}}
+</noinclude>

@@ -1,0 +1,22 @@
+<div class="messagebox disputed metadata" style="background-color:#FD9;">
+{|style="width:100%;background-color:transparent;text-align:center"
+|width=60px|[[Image:Circle-question-red.svg|35px]]
+|'''The [[Wikipedia:NPOV dispute|neutrality]] and [[Wikipedia:Accuracy dispute|factual accuracy]] of this article are disputed.'''<br /><small>Please see the relevant discussion on the [[:{{NAMESPACE}} talk:{{PAGENAME}}#{{{1|}}}|talk page]]. {{#if:{{{date|}}}|This article has been tagged since {{{date}}}.}}</small>
+|width=60px|[[Image:Unbalanced scales.svg|none|40px]]
+|}</div><includeonly>{{{category|[[Category:Accuracy disputes|{{PAGENAME}}]]}}}{{#if:{{{date|}}}|{{{category|[[Category:NPOV disputes from {{{date}}}]]}}}}}</includeonly><noinclude>
+----
+This template will categorise tagged articles into [[:Category:NPOV disputes]] and [[:Category:Accuracy disputes]].
+
+* This [[Wikipedia:Template|template]] is a [[Wikipedia:Avoid self-references|self-reference]].
+* Please do not [[Wikipedia:Subst|subst:]] this template.
+
+==See Also==
+{{Wikipedia:Resolving Disputes/Templates}}
+
+[[sl:Predloga:VseVprašljivo]]
+[[zh:Template:TotallyDisputed]]
+
+[[Category:Citation and verifiability maintenance templates|{{PAGENAME}}]]
+[[Category:Dispute templates|{{PAGENAME}}]]
+[[Category:Neutrality templates|{{PAGENAME}}]]
+</noinclude>
